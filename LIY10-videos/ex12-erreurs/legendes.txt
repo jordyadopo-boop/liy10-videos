@@ -1,0 +1,51 @@
+Excel · Niveau 12 · Lire les erreurs d’Excel
+
+===== INSTAGRAM =====
+Excel t’affiche #VALEUR! ? 🚨
+
+Excel, niveau 12 : lire les erreurs d’Excel.
+
+Sept messages, sept sens : #VALEUR! (du texte dans un calcul), #REF! (la cellule a disparu), #NOM? (un nom inconnu), #N/A (valeur introuvable), #DIV/0! (division par zéro), #NOMBRE! (nombre impossible), et ### qui n’est pas une erreur : la colonne est trop étroite.
+
+Deux outils pour remonter à la source : Repérer les antécédents et Évaluation de formule.
+
+Le piège : faire taire l’erreur avec SIERREUR. Le total s’affiche, sans alerte, mais il est faux. Lis l’erreur, répare la source.
+
+👉 Lien en bio : commence gratuitement.
+🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)
+
+#Excel #ApprendreExcel #ExcelFacile #LIY10 #CoteDIvoire
+
+===== FACEBOOK =====
+Excel t’affiche #VALEUR! ? 🚨
+
+Excel, niveau 12 : lire les erreurs d’Excel.
+
+Sept messages, sept sens : #VALEUR! (du texte dans un calcul), #REF! (la cellule a disparu), #NOM? (un nom inconnu), #N/A (valeur introuvable), #DIV/0! (division par zéro), #NOMBRE! (nombre impossible), et ### qui n’est pas une erreur : la colonne est trop étroite.
+
+Deux outils pour remonter à la source : Repérer les antécédents et Évaluation de formule.
+
+Le piège : faire taire l’erreur avec SIERREUR. Le total s’affiche, sans alerte, mais il est faux. Lis l’erreur, répare la source.
+
+👉 Commence gratuitement : https://www.liy10learning.com
+🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning)
+
+#Excel #LIY10 #Bureautique
+
+===== TIKTOK =====
+Excel t’affiche #VALEUR! ? 🚨
+Excel, niveau 12 : lire les erreurs d’Excel.
+
+#VALEUR!, #REF!, #NOM?, #N/A, #DIV/0!, #NOMBRE! et ### : ce que chacune dit, et le réflexe pour la réparer. Plus deux outils : Repérer les antécédents et Évaluation de formule.
+
+Le piège : faire taire l’erreur avec SIERREUR. Le total s’affiche, sans alerte, mais il est faux. Lis l’erreur, répare la source.
+
+Les listes déroulantes, tu sais les faire ? C’est le niveau 13 : abonne-toi pour ne pas le rater 🔔
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#excel #astuceexcel #apprendreexcel #apprendresurtiktok #liy10
+
+===== STORY =====
+Excel, niveau 12 : lire les 7 erreurs 👆

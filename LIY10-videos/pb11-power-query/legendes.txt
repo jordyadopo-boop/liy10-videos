@@ -1,0 +1,53 @@
+Power BI · Niveau 11 · Power Query dans Power BI
+
+===== INSTAGRAM =====
+Un fichier tout sale dans Power BI ? 🧹
+
+Power BI, niveau 11 : Power Query.
+
+On ne touche jamais la source : chaque clic devient une étape qu’on peut rejouer. Accueil, Transformer les données, puis cinq gestes : le type d’abord, Supprimer la colonne en trop, Remplacer les valeurs (Bouake devient Bouaké), Fractionner la colonne, Supprimer les doublons. Puis Fermer et appliquer.
+
+Le piège : Charger tout de suite. La vente de Mariam compte deux fois et le total est faux : 8 850 000 F au lieu de 7 960 000 F. Transforme d’abord.
+
+👉 Lien en bio : commence gratuitement.
+🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#PowerBI #PowerQuery #Data #LIY10 #CoteDIvoire
+
+===== FACEBOOK =====
+Un fichier tout sale dans Power BI ? 🧹
+
+Power BI, niveau 11 : Power Query.
+
+On ne touche jamais la source : chaque clic devient une étape qu’on peut rejouer. Accueil, Transformer les données, puis cinq gestes : le type d’abord, Supprimer la colonne en trop, Remplacer les valeurs (Bouake devient Bouaké), Fractionner la colonne, Supprimer les doublons. Puis Fermer et appliquer.
+
+Le piège : Charger tout de suite. La vente de Mariam compte deux fois et le total est faux : 8 850 000 F au lieu de 7 960 000 F. Transforme d’abord.
+
+👉 Commence gratuitement : https://www.liy10learning.com
+🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#PowerBI #LIY10
+
+===== TIKTOK =====
+Un fichier tout sale dans Power BI ? 🧹
+Power BI, niveau 11 : Power Query.
+
+Le fichier reçu se nettoie en cinq gestes, et chaque geste devient une étape qu’on peut rejouer. La source, elle, ne bouge pas.
+
+Le piège : Charger tout de suite. La vente de Mariam compte deux fois et le total est faux : 8 850 000 F au lieu de 7 960 000 F. Transforme d’abord.
+
+Publier ton rapport et le partager, tu sais faire ? C’est le niveau 12 : abonne-toi pour ne pas le rater 🔔
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#powerbi #powerquery #data #apprendresurtiktok #liy10
+
+===== STORY =====
+Power BI, niveau 11 : Power Query 👆

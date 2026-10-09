@@ -1,0 +1,53 @@
+Power Automate · Niveau 2 · L’écran de Power Automate, zone par zone
+
+===== INSTAGRAM =====
+Power Automate : par où commencer ? 🧭
+
+Power Automate, niveau 2 : l’écran, zone par zone.
+
+Pas de ruban, quatre zones : le menu de gauche (Créer, Mes flux), l’environnement en haut à droite (chaque flux vit dans un environnement), le concepteur (une pile de cartes : le déclencheur, puis les actions ; le « + » insère une étape) et les paramètres (l’éclair pour le contenu dynamique, fx pour une expression). En haut : Enregistrer, puis Tester.
+
+Le piège : enregistrer n’est pas tester. Un flux à moitié fini, enregistré et activé, tourne déjà. Désactive-le dans Mes flux.
+
+👉 Lien en bio : commence gratuitement.
+🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#PowerAutomate #Automatisation #Bureautique #LIY10 #CoteDIvoire
+
+===== FACEBOOK =====
+Power Automate : par où commencer ? 🧭
+
+Power Automate, niveau 2 : l’écran, zone par zone.
+
+Pas de ruban, quatre zones : le menu de gauche (Créer, Mes flux), l’environnement en haut à droite (chaque flux vit dans un environnement), le concepteur (une pile de cartes : le déclencheur, puis les actions ; le « + » insère une étape) et les paramètres (l’éclair pour le contenu dynamique, fx pour une expression). En haut : Enregistrer, puis Tester.
+
+Le piège : enregistrer n’est pas tester. Un flux à moitié fini, enregistré et activé, tourne déjà. Désactive-le dans Mes flux.
+
+👉 Commence gratuitement : https://www.liy10learning.com
+🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#PowerAutomate #LIY10
+
+===== TIKTOK =====
+Power Automate : par où commencer ? 🧭
+Power Automate, niveau 2 : l’écran, zone par zone.
+
+Le menu de gauche, l’environnement, le concepteur et ses cartes, les paramètres avec l’éclair et fx, puis Enregistrer et Tester.
+
+Le piège : enregistrer n’est pas tester. Un flux à moitié fini, enregistré et activé, tourne déjà. Désactive-le dans Mes flux.
+
+Ton premier flux, tu le fais quand ? C’est le niveau 3 : abonne-toi pour ne pas le rater 🔔
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#powerautomate #automatisation #bureautique #apprendresurtiktok #liy10
+
+===== STORY =====
+Power Automate, niveau 2 : l’écran, zone par zone 👆

@@ -1,0 +1,49 @@
+C’est quoi un tableau croisé dynamique ?
+
+===== INSTAGRAM =====
+2 000 lignes de ventes… résumées en 4 lignes 📊
+
+Un tableau croisé dynamique (TCD) replie une longue liste en un tableau lisible : total par ville, par catégorie, en quelques glissés (Ville → Lignes, Montant → Valeurs, Catégorie → Colonnes).
+
+« Dynamique » ne veut pas dire « automatique » : si tu ajoutes une vente, fais clic droit › Actualiser.
+
+Liy10 te montre tout ça dans le petit écran du tableau croisé.
+
+👉 Lien en bio : demande à Liy10 de t’expliquer.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#Excel #TableauCroiseDynamique #ApprendreExcel #Bureautique #CoteDIvoire
+
+===== FACEBOOK =====
+2 000 lignes de ventes… résumées en 4 lignes 📊
+
+Un tableau croisé dynamique (TCD) replie une longue liste en un tableau lisible : total par ville, par catégorie, en quelques glissés (Ville → Lignes, Montant → Valeurs, Catégorie → Colonnes).
+
+« Dynamique » ne veut pas dire « automatique » : si tu ajoutes une vente, fais clic droit › Actualiser.
+
+Liy10 te montre tout ça dans le petit écran du tableau croisé.
+
+👉 Demande à Liy10 de t’expliquer : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#Excel #TableauCroiseDynamique
+
+===== TIKTOK =====
+2 000 lignes de ventes… résumées en 4 lignes 📊
+C’est ça, un tableau croisé dynamique (TCD).
+
+Ville en Lignes, Montant en Valeurs, Catégorie en Colonnes : quelques glissés et tu as le total par ville et par catégorie.
+
+Le piège : « dynamique » ne veut pas dire « automatique ». Une vente de plus ? Clic droit › Actualiser (ou Alt + F5).
+
+Tu utilises déjà les TCD ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#excel #tableaucroisedynamique #astuceexcel #apprendresurtiktok #liy10
+
+===== STORY =====
+C’est quoi un tableau croisé dynamique ? 📊 Liy10 explique 👆

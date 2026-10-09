@@ -1,0 +1,53 @@
+SQL Server · Niveau 4 · Ta première requête
+
+===== INSTAGRAM =====
+Ta première requête SQL, morceau par morceau ⌨️
+
+SQL Server, niveau 4 : ta première requête.
+
+SELECT * prend tout, même ce qui ne sert à rien : choisis tes colonnes. WHERE filtre les lignes. Du texte ? Des apostrophes (entre guillemets, SQL Server lit un nom de colonne). AND passe avant OR : mets des parenthèses. ORDER BY … DESC classe, TOP 10 regarde avant de tout charger.
+
+Le piège : deux requêtes dans la fenêtre, F5 lance tout. Sélectionne la tienne, puis F5.
+
+👉 Lien en bio : commence gratuitement.
+🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#SQL #SQLServer #ApprendreSQL #LIY10 #CoteDIvoire
+
+===== FACEBOOK =====
+Ta première requête SQL, morceau par morceau ⌨️
+
+SQL Server, niveau 4 : ta première requête.
+
+SELECT * prend tout, même ce qui ne sert à rien : choisis tes colonnes. WHERE filtre les lignes. Du texte ? Des apostrophes (entre guillemets, SQL Server lit un nom de colonne). AND passe avant OR : mets des parenthèses. ORDER BY … DESC classe, TOP 10 regarde avant de tout charger.
+
+Le piège : deux requêtes dans la fenêtre, F5 lance tout. Sélectionne la tienne, puis F5.
+
+👉 Commence gratuitement : https://www.liy10learning.com
+🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#SQLServer #LIY10
+
+===== TIKTOK =====
+Ta première requête SQL, morceau par morceau ⌨️
+SQL Server, niveau 4 : ta première requête.
+
+SELECT, FROM, WHERE, les apostrophes, les parenthèses autour du OR, ORDER BY et TOP 10 : la requête en haut, la grille qui réagit en bas.
+
+Le piège : deux requêtes dans la fenêtre, F5 lance tout. Sélectionne la tienne, puis F5.
+
+Une colonne vide qui fausse ton total, ça te parle ? C’est le niveau 5 : abonne-toi pour ne pas le rater 🔔
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#sqlserver #sql #requete #apprendresurtiktok #liy10
+
+===== STORY =====
+SQL Server, niveau 4 : ta première requête 👆

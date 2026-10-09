@@ -1,0 +1,53 @@
+SQL Server · Niveau 3 · L’interface de SSMS, fenêtre par fenêtre
+
+===== INSTAGRAM =====
+Pas de ruban, trois fenêtres 🖥️
+
+SQL Server, niveau 3 : l’interface de SSMS, fenêtre par fenêtre.
+
+La boîte de connexion (« . » ou « (local) » : le serveur de ton PC), l’Explorateur d’objets (Bases de données, ta base, Tables, puis Colonnes, Clés, Index), la fenêtre de requête (tu écris, F5 exécute), la grille de résultats et l’onglet Messages, à lire.
+
+Le piège : la liste des bases affiche master. Ta requête part au mauvais endroit : « Nom d’objet 'Ventes' non valide. » Regarde la liste avant F5.
+
+👉 Lien en bio : commence gratuitement.
+🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#SQL #SQLServer #SSMS #LIY10 #CoteDIvoire
+
+===== FACEBOOK =====
+Pas de ruban, trois fenêtres 🖥️
+
+SQL Server, niveau 3 : l’interface de SSMS, fenêtre par fenêtre.
+
+La boîte de connexion (« . » ou « (local) » : le serveur de ton PC), l’Explorateur d’objets (Bases de données, ta base, Tables, puis Colonnes, Clés, Index), la fenêtre de requête (tu écris, F5 exécute), la grille de résultats et l’onglet Messages, à lire.
+
+Le piège : la liste des bases affiche master. Ta requête part au mauvais endroit : « Nom d’objet 'Ventes' non valide. » Regarde la liste avant F5.
+
+👉 Commence gratuitement : https://www.liy10learning.com
+🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning)
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#SQLServer #LIY10
+
+===== TIKTOK =====
+Pas de ruban, trois fenêtres 🖥️
+SQL Server, niveau 3 : l’interface de SSMS, fenêtre par fenêtre.
+
+La connexion, l’Explorateur d’objets, la fenêtre de requête, la grille de résultats et l’onglet Messages : où tout se trouve, en 48 secondes.
+
+Le piège : la liste des bases affiche master. Ta requête part au mauvais endroit : « Nom d’objet 'Ventes' non valide. » Regarde la liste avant F5.
+
+Ta première requête, tu la tapes quand ? C’est le niveau 4 : abonne-toi pour ne pas le rater 🔔
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+Captures : Microsoft Learn (CC BY 4.0)
+
+#sqlserver #sql #ssms #apprendresurtiktok #liy10
+
+===== STORY =====
+SQL Server, niveau 3 : SSMS fenêtre par fenêtre 👆

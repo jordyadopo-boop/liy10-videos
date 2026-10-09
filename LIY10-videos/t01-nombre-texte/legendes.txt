@@ -1,0 +1,49 @@
+Ton total est faux et Excel ne dit rien
+
+===== INSTAGRAM =====
+Ton total est faux. Et Excel ne dit rien. ⚠️
+
+Dans la vidéo, =SOMME(B2:B7) donne 61 000 F au lieu de 76 000 F : un des chiffres est stocké en texte, aligné à gauche, et ignoré.
+
+Excel le signale juste par un tout petit triangle vert. Sélectionne la cellule, ouvre le petit losange d’avertissement et choisis « Convertir en nombre » : le total passe à 76 000 F.
+
+LIY10 t’apprend le piège avant qu’il te coûte des heures.
+
+👉 Lien en bio : apprends Excel gratuitement.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#Excel #AstuceExcel #ApprendreExcel #Bureautique #CoteDIvoire
+
+===== FACEBOOK =====
+Ton total est faux. Et Excel ne dit rien. ⚠️
+
+Dans la vidéo, =SOMME(B2:B7) donne 61 000 F au lieu de 76 000 F : un des chiffres est stocké en texte, aligné à gauche, et ignoré.
+
+Excel le signale juste par un tout petit triangle vert. Sélectionne la cellule, ouvre le petit losange d’avertissement et choisis « Convertir en nombre » : le total passe à 76 000 F.
+
+LIY10 t’apprend le piège avant qu’il te coûte des heures.
+
+👉 Apprends Excel gratuitement : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#Excel #AstuceExcel
+
+===== TIKTOK =====
+Ton total est faux. Et Excel ne dit rien. ⚠️
+Ici, =SOMME(B2:B7) donne 61 000 F au lieu de 76 000 F.
+
+Un des chiffres est stocké en texte : aligné à gauche, il est ignoré. Excel le signale juste par un tout petit triangle vert.
+
+Sélectionne la cellule, ouvre le petit losange d’avertissement, choisis « Convertir en nombre » : le total passe à 76 000 F.
+
+Ça t’est déjà arrivé ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#excel #astuceexcel #bureautique #apprendresurtiktok #liy10
+
+===== STORY =====
+Ton total Excel est faux et rien ne le dit ⚠️ Regarde pourquoi 👆

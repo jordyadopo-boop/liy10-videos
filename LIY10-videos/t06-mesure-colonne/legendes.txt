@@ -1,0 +1,49 @@
+Une mesure, pas une colonne
+
+===== INSTAGRAM =====
+22,5 % ou 16 % ? Lequel est juste dans Power BI ?
+
+Une colonne calculée stocke un pourcentage par ligne et la carte en fait la moyenne : 22,5 %. Une mesure additionne la marge, additionne le montant, puis divise : 320 000 ÷ 2 000 000 = 16 %.
+
+Quand tu filtres sur une ville, la colonne se trompe encore, la mesure se recalcule juste.
+
+La règle : mesure par défaut, colonne seulement pour filtrer ou grouper.
+
+👉 Lien en bio : apprends Power BI en pratiquant.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#PowerBI #DAX #DataAnalyse #Bureautique #CoteDIvoire
+
+===== FACEBOOK =====
+22,5 % ou 16 % ? Lequel est juste dans Power BI ?
+
+Une colonne calculée stocke un pourcentage par ligne et la carte en fait la moyenne : 22,5 %. Une mesure additionne la marge, additionne le montant, puis divise : 320 000 ÷ 2 000 000 = 16 %.
+
+Quand tu filtres sur une ville, la colonne se trompe encore, la mesure se recalcule juste.
+
+La règle : mesure par défaut, colonne seulement pour filtrer ou grouper.
+
+👉 Apprends Power BI en pratiquant : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#PowerBI #DAX
+
+===== TIKTOK =====
+22,5 % ou 16 % ? Lequel est juste dans Power BI ? 🤔
+Power BI : une mesure, pas une colonne.
+
+La colonne calculée stocke un pourcentage par ligne, et la carte en fait la moyenne : 22,5 %. La mesure additionne la marge, additionne le montant, puis divise : 320 000 ÷ 2 000 000 = 16 %. Tu filtres sur une ville ? La colonne se trompe encore, la mesure se recalcule juste.
+
+La règle : mesure par défaut, colonne seulement pour filtrer ou grouper.
+
+Toi, tu fais plutôt des colonnes ou des mesures ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#powerbi #dax #data #apprendresurtiktok #liy10
+
+===== STORY =====
+22,5 % ou 16 % ? Lequel est juste dans Power BI ? 🤔 Réponse 👆

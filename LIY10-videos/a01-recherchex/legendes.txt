@@ -1,0 +1,47 @@
+Comment marche RECHERCHEX ?
+
+===== INSTAGRAM =====
+Comment marche RECHERCHEX ? La réponse en 30 secondes
+
+La formule de la vidéo : =RECHERCHEX(F2;A2:A9;C2:C9).
+
+Trois arguments obligatoires : ce que tu cherches, où tu le cherches, ce que tu rapportes. Si le produit n’existe pas, Excel affiche l’erreur N/A : un 4e argument te permet d’écrire « Non trouvé » à la place.
+
+Change le nom dans la cellule : le prix suit tout seul.
+
+👉 Lien en bio : demande à Liy10 la fonction qui te bloque.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#Excel #RechercheX #ApprendreExcel #Bureautique #CoteDIvoire
+
+===== FACEBOOK =====
+Comment marche RECHERCHEX ? La réponse en 30 secondes
+
+La formule de la vidéo : =RECHERCHEX(F2;A2:A9;C2:C9).
+
+Trois arguments obligatoires : ce que tu cherches, où tu le cherches, ce que tu rapportes. Si le produit n’existe pas, Excel affiche l’erreur N/A : un 4e argument te permet d’écrire « Non trouvé » à la place.
+
+Change le nom dans la cellule : le prix suit tout seul.
+
+👉 Demande à Liy10 la fonction qui te bloque : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#Excel #RechercheX
+
+===== TIKTOK =====
+Comment marche RECHERCHEX ? La réponse en 30 secondes
+La formule de la vidéo : =RECHERCHEX(F2;A2:A9;C2:C9).
+
+Trois arguments obligatoires : ce que tu cherches, où tu le cherches, ce que tu rapportes. Change le nom dans la cellule : le prix suit tout seul. Si le produit n’existe pas, Excel affiche l’erreur N/A : un 4e argument te permet d’écrire « Non trouvé » à la place.
+
+Tu utilises encore RECHERCHEV ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#excel #astuceexcel #recherchex #apprendresurtiktok #liy10
+
+===== STORY =====
+Comment marche RECHERCHEX ? 📗 Tout comprendre en 30 secondes 👆

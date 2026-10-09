@@ -1,0 +1,49 @@
+La jointure qui double ton total
+
+===== INSTAGRAM =====
+Ton chiffre d’affaires SQL a doublé… sans erreur. Normal ? 🤨
+
+Chaque vente est payée en deux fois : la jointure avec les paiements dédouble chaque vente, et le total passe de 25 000 F à 50 000 F sans que SQL prévienne.
+
+Le réflexe : compte les lignes avant et après la jointure ; si elles se multiplient, regroupe d’abord les paiements (GROUP BY), puis joins.
+
+C’est la leçon « Le piège du doublon » du parcours SQL Server (niveau 5, Les jointures).
+
+👉 Lien en bio : apprends SQL en pratiquant.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#SQL #SQLServer #ApprendreSQL #DataAnalyse #CoteDIvoire
+
+===== FACEBOOK =====
+Ton chiffre d’affaires SQL a doublé… sans erreur. Normal ? 🤨
+
+Chaque vente est payée en deux fois : la jointure avec les paiements dédouble chaque vente, et le total passe de 25 000 F à 50 000 F sans que SQL prévienne.
+
+Le réflexe : compte les lignes avant et après la jointure ; si elles se multiplient, regroupe d’abord les paiements (GROUP BY), puis joins.
+
+C’est la leçon « Le piège du doublon » du parcours SQL Server (niveau 5, Les jointures).
+
+👉 Apprends SQL en pratiquant : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#SQL #SQLServer
+
+===== TIKTOK =====
+Ton chiffre d’affaires SQL a doublé… sans erreur. Normal ? 🤨
+SQL Server : la jointure qui double ton total.
+
+Chaque vente est payée en deux fois. La jointure avec les paiements recopie chaque vente, et le total passe de 25 000 F à 50 000 F, sans aucune alerte.
+
+Le réflexe : compte tes lignes avant et après la jointure. Elles se multiplient ? Regroupe d’abord les paiements (GROUP BY), puis joins.
+
+Tu comptes tes lignes, toi ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#sql #sqlserver #data #apprendresurtiktok #liy10
+
+===== STORY =====
+La jointure SQL qui double ton total 🤨 Regarde pourquoi 👆

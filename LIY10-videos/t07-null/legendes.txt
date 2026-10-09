@@ -1,0 +1,49 @@
+NULL, le piège permanent
+
+===== INSTAGRAM =====
+Ta requête SQL oublie 2 lignes. Sans aucune erreur. 😬
+
+WHERE Prime <> 100 devrait rendre 4 lignes sur 6 : tu en obtiens 2. Les lignes dont la prime est NULL (inconnue) disparaissent, sans un message.
+
+Pourquoi : NULL <> 100 n’est ni vrai ni faux, c’est inconnu, et WHERE ne garde que le vrai.
+
+La solution : OR Prime IS NULL, ou COALESCE(Prime, 0) pour remplir les trous.
+
+👉 Lien en bio : apprends SQL en pratiquant.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#SQL #SQLServer #ApprendreSQL #DataAnalyse #CoteDIvoire
+
+===== FACEBOOK =====
+Ta requête SQL oublie 2 lignes. Sans aucune erreur. 😬
+
+WHERE Prime <> 100 devrait rendre 4 lignes sur 6 : tu en obtiens 2. Les lignes dont la prime est NULL (inconnue) disparaissent, sans un message.
+
+Pourquoi : NULL <> 100 n’est ni vrai ni faux, c’est inconnu, et WHERE ne garde que le vrai.
+
+La solution : OR Prime IS NULL, ou COALESCE(Prime, 0) pour remplir les trous.
+
+👉 Apprends SQL en pratiquant : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#SQL #SQLServer
+
+===== TIKTOK =====
+Ta requête SQL oublie 2 lignes. Sans aucune erreur. 😬
+SQL Server : NULL, le piège permanent.
+
+WHERE Prime <> 100 devrait rendre 4 lignes sur 6. Tu n’en obtiens que 2. Les lignes dont la prime est NULL disparaissent sans un message : NULL <> 100 n’est ni vrai ni faux, c’est inconnu, et WHERE ne garde que le vrai.
+
+La solution : OR Prime IS NULL, ou COALESCE(Prime, 0) pour remplir les trous.
+
+Ça t’est déjà arrivé ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#sql #sqlserver #data #apprendresurtiktok #liy10
+
+===== STORY =====
+Ta requête SQL oublie 2 lignes sans aucune erreur 😬 Pourquoi ? 👆

@@ -1,0 +1,49 @@
+CALCULATE en DAX, simplement
+
+===== INSTAGRAM =====
+Une seule mesure Power BI, trois chiffres différents. Pourquoi ?
+
+CALCULATE change le contexte de ta mesure : CALCULATE([CA], Ventes[Catégorie] = "Riz") ne garde que les lignes de riz, donc 1 000 000 F sur 1 500 000 F au total.
+
+Piège enseigné : sur une même colonne, le filtre de CALCULATE remplace celui du visuel, il ne s’y ajoute pas.
+
+Tout se voit sur une carte KPI, puis dans la vraie leçon LIY10 (Power BI, niveau 13).
+
+👉 Lien en bio : pose ta question DAX à Liy10.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#PowerBI #DAX #ApprendrePowerBI #DataAnalyse #CoteDIvoire
+
+===== FACEBOOK =====
+Une seule mesure Power BI, trois chiffres différents. Pourquoi ?
+
+CALCULATE change le contexte de ta mesure : CALCULATE([CA], Ventes[Catégorie] = "Riz") ne garde que les lignes de riz, donc 1 000 000 F sur 1 500 000 F au total.
+
+Piège enseigné : sur une même colonne, le filtre de CALCULATE remplace celui du visuel, il ne s’y ajoute pas.
+
+Tout se voit sur une carte KPI, puis dans la vraie leçon LIY10 (Power BI, niveau 13).
+
+👉 Pose ta question DAX à Liy10 : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#PowerBI #DAX
+
+===== TIKTOK =====
+Une seule mesure Power BI, trois chiffres différents. Pourquoi ? 🤔
+CALCULATE change le filtre de ta mesure.
+
+CALCULATE([CA], Ventes[Catégorie] = "Riz") ne garde que les lignes de riz : 1 000 000 F sur 1 500 000 F au total.
+
+Le piège : sur une même colonne, le filtre de CALCULATE remplace celui du visuel, il ne s’y ajoute pas.
+
+C’est le niveau 13 de Power BI sur LIY10. Tu l’avais compris comme ça ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#powerbi #dax #data #apprendresurtiktok #liy10
+
+===== STORY =====
+CALCULATE en DAX, simplement 📈 Une mesure, trois chiffres. Regarde 👆

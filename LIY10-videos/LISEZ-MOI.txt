@@ -1,0 +1,69 @@
+LIY10 Learning — toutes les vidéos prêtes à poster
+
+Un dossier par vidéo : la vidéo, sa couverture quand elle en a une (couverture.jpg), et legendes.txt (textes Instagram, Facebook, TikTok, story).
+_octobre-rose : les images du mois et leurs légendes.
+
+pr00-presentation-site — Présentation de LIY10 Learning (voix)
+p00-presentation — La nouvelle version de LIY10
+n02-assistant-ia — Voici Liy10, ton assistant
+n03-liy10-cherche — Il cherche. Il vérifie. Il te montre ses sources.
+n04-tes-couleurs — Ton appli, tes couleurs
+n05-six-nouveautes — 6 nouveautés en 35 secondes
+n06-liy10-encoche — Liy10 sort de l’appli
+n07-parle-a-liy10 — Ne tape plus. Parle-lui.
+n08-reponse-rapide — Sa réponse en moins de 10 secondes
+n09-synchro — Ta progression te suit partout
+a01-recherchex — Comment marche RECHERCHEX ?
+a02-figer-ligne — Figer la première ligne dans Excel
+a03-tcd — C’est quoi un tableau croisé dynamique ?
+a04-calculate — CALCULATE en DAX, simplement
+a05-where-having — WHERE ou HAVING ?
+a07-lexique — 305 fonctions expliquées une par une
+a06-emmene-moi — Demande-lui. Il t’y emmène.
+t01-nombre-texte — Ton total est faux et Excel ne dit rien
+t02-dollar — Le dollar qui bloque
+t04-saut-section — L’en-tête qui se recopie partout
+t05-format-avant — Le format se choisit avant
+t06-mesure-colonne — Une mesure, pas une colonne
+t07-null — NULL, le piège permanent
+t08-jointure-double — La jointure qui double ton total
+t09-requete-action — Une requête action, sans casse
+m01-on-tape — On apprend en tapant, pas en regardant
+m03-executer — ▶ Exécuter : le résultat monte
+m04-revision — Il te repose ce que tu oublies
+m05-placement — Ton niveau en 2 minutes
+m06-gratuit — Trois leçons par jour. Gratuitement. Pour toujours.
+m07-hors-ligne — Même dans le taxi. Sans réseau.
+m08-ecran-accueil — Les super-pouvoirs de LIY10 sur ton téléphone
+m09-defi — Le défi de la semaine
+m10-classement — Monte dans le classement
+m11-elan — Ne casse pas ta flamme
+m12-certifications — Prépare les certifications officielles
+m13-widget-liy10 — Il m’attend depuis 3 jours…
+l01-excel — De la première cellule au tableau croisé
+l02-word — Écrire d’abord, styler après
+l03-powerpoint — Une idée par diapositive
+l04-powerbi — Charger, nettoyer, modéliser, mesurer, publier
+l05-access — La marche entre Excel et SQL Server
+l06-sql — Une requête peut être juste et catastrophique
+l07-automate — Automatise ce que tu refais tous les lundis
+l08-fabric — OneLake, Lakehouse, PySpark, sans avoir peur
+r01-illimite — Clés illimitées. Énergie illimitée.
+r02-fichiers — Le vrai fichier derrière chaque leçon
+r04-lancement — Offre de lancement : moitié prix
+h01-pov-tcd — POV : ton chef veut un tableau croisé pour 14 h
+h02-trois-formules — 3 formules Excel que personne ne t’a apprises
+ac01-a-quoi-sert — Access · Niveau 1 · À quoi sert Access (avec couverture)
+sq01-a-quoi-sert — SQL Server · Niveau 1 · À quoi sert SQL Server (avec couverture)
+pa01-a-quoi-sert — Power Automate · Niveau 1 · À quoi sert Power Automate (avec couverture)
+fa01-a-quoi-sert — Microsoft Fabric · Niveau 1 · À quoi sert Fabric (avec couverture)
+an01-quatre-logiciels — Annonce · +4 logiciels au programme (avec couverture)
+ex11-texte — Excel · Niveau 11 · Le texte et le nettoyage (avec couverture)
+ex12-erreurs — Excel · Niveau 12 · Lire les erreurs d’Excel (avec couverture)
+ex13-validation — Excel · Niveau 13 · La validation des données (avec couverture)
+sq02-raccourcis — SQL Server · Niveau 2 · Les raccourcis de SSMS (avec couverture)
+sq03-interface-ssms — SQL Server · Niveau 3 · L’interface de SSMS, fenêtre par fenêtre (avec couverture)
+sq04-premiere-requete — SQL Server · Niveau 4 · Ta première requête (avec couverture)
+pa02-ecran — Power Automate · Niveau 2 · L’écran de Power Automate, zone par zone (avec couverture)
+pb11-power-query — Power BI · Niveau 11 · Power Query dans Power BI (avec couverture)
+fa02-ecran — Microsoft Fabric · Niveau 2 · L’écran de Fabric, zone par zone (avec couverture)

@@ -1,0 +1,49 @@
+WHERE ou HAVING ?
+
+===== INSTAGRAM =====
+WHERE ou HAVING ? Tu les as déjà confondus, avoue 😅
+
+WHERE filtre les lignes avant le GROUP BY. HAVING filtre les groupes après.
+
+C’est pour ça que WHERE SUM(Montant) > 500000 plante : à ce moment-là, les groupes n’existent pas encore.
+
+Le moteur SQL ne lit pas ta requête dans l’ordre où tu l’écris. Liy10 te montre l’ordre réel en image.
+
+👉 Lien en bio : apprends SQL en pratiquant.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#SQL #SQLServer #ApprendreSQL #DataAnalyse #CoteDIvoire
+
+===== FACEBOOK =====
+WHERE ou HAVING ? Tu les as déjà confondus, avoue 😅
+
+WHERE filtre les lignes avant le GROUP BY. HAVING filtre les groupes après.
+
+C’est pour ça que WHERE SUM(Montant) > 500000 plante : à ce moment-là, les groupes n’existent pas encore.
+
+Le moteur SQL ne lit pas ta requête dans l’ordre où tu l’écris. Liy10 te montre l’ordre réel en image.
+
+👉 Apprends SQL en pratiquant : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#SQL #SQLServer
+
+===== TIKTOK =====
+WHERE ou HAVING ? Tu les as déjà confondus, avoue 😅
+WHERE filtre les lignes avant le GROUP BY. HAVING filtre les groupes après.
+
+C’est pour ça que WHERE SUM(Montant) > 500000 plante : les groupes n’existent pas encore.
+
+Le moteur ne lit pas ta requête dans l’ordre où tu l’écris : FROM d’abord, SELECT presque en dernier.
+
+Tu le savais ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#sql #sqlserver #data #apprendresurtiktok #liy10
+
+===== STORY =====
+WHERE ou HAVING ? Tu sais ? 🤔 Vote en réponse, puis regarde 👆

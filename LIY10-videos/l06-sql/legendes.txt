@@ -1,0 +1,49 @@
+Une requête peut être juste et catastrophique
+
+===== INSTAGRAM =====
+SQL : une requête peut être juste… et catastrophique 💥
+
+12 niveaux, 24 leçons, 264 questions : SELECT, WHERE, ORDER BY, NULL (le piège permanent), les jointures et le doublon qui double le total, le fenêtrage, les index et le plan d’exécution.
+
+Interroger une vraie base de données, en exécutant le code.
+
+Certifications visées : DP-900 et DP-300.
+
+👉 Lien en bio : commence SQL gratuitement.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#SQL #SQLServer #ApprendreSQL #DataAnalyse #CoteDIvoire
+
+===== FACEBOOK =====
+SQL : une requête peut être juste… et catastrophique 💥
+
+12 niveaux, 24 leçons, 264 questions : SELECT, WHERE, ORDER BY, NULL (le piège permanent), les jointures et le doublon qui double le total, le fenêtrage, les index et le plan d’exécution.
+
+Interroger une vraie base de données, en exécutant le code.
+
+Certifications visées : DP-900 et DP-300.
+
+👉 Commence SQL gratuitement : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#SQL #SQLServer
+
+===== TIKTOK =====
+SQL : une requête peut être juste… et catastrophique 💥
+Le parcours SQL Server : 12 niveaux, 24 leçons, 264 questions.
+
+Le NULL qui fait disparaître une ligne. La jointure qui double le total, sans aucune erreur. Le DELETE sans WHERE, rattrapé par un ROLLBACK. Et l’index : même requête, même résultat, 200 fois plus vite.
+
+Tu exécutes le code et tu vois ce qui sort. Certifications visées : DP-900 et DP-300.
+
+Ton dernier DELETE avait bien un WHERE ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#sqlserver #sql #apprendresql #apprendresurtiktok #liy10
+
+===== STORY =====
+SQL : une requête peut être juste et catastrophique 💥 Le parcours 👆

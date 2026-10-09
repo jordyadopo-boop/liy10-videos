@@ -1,0 +1,47 @@
+SQL Server · Niveau 2 · Les raccourcis de SSMS
+
+===== INSTAGRAM =====
+Les raccourcis de SSMS : dix gestes, une règle ⌨️
+
+SQL Server, niveau 2 : les raccourcis de SSMS.
+
+F5 exécute. Ctrl+R cache la grille (encore Ctrl+R : elle revient). Maj+↓ puis F5 : seulement la sélection, le geste le plus utile. Ctrl+K puis Ctrl+C commente la ligne, Ctrl+K puis Ctrl+U enlève le commentaire. Ctrl+Maj+L / Ctrl+Maj+U : minuscules, MAJUSCULES. Ctrl+Maj+Q ouvre le concepteur de requêtes. Alt+F1 sur le nom d’une table : colonnes, index, contraintes. Ctrl+Maj+M remplit le modèle. F4 ouvre la fenêtre Propriétés. Ctrl+L affiche le plan estimé, sans exécuter la requête.
+
+Le piège : rien de sélectionné, F5 lance toute la fenêtre, y compris le DELETE oublié en haut. On sélectionne, puis on exécute.
+
+👉 Lien en bio : commence gratuitement.
+🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)
+
+#SQL #SQLServer #SSMS #LIY10 #CoteDIvoire
+
+===== FACEBOOK =====
+Les raccourcis de SSMS : dix gestes, une règle ⌨️
+
+SQL Server, niveau 2 : les raccourcis de SSMS.
+
+F5 exécute. Ctrl+R cache la grille (encore Ctrl+R : elle revient). Maj+↓ puis F5 : seulement la sélection, le geste le plus utile. Ctrl+K puis Ctrl+C commente la ligne, Ctrl+K puis Ctrl+U enlève le commentaire. Ctrl+Maj+L / Ctrl+Maj+U : minuscules, MAJUSCULES. Ctrl+Maj+Q ouvre le concepteur de requêtes. Alt+F1 sur le nom d’une table : colonnes, index, contraintes. Ctrl+Maj+M remplit le modèle. F4 ouvre la fenêtre Propriétés. Ctrl+L affiche le plan estimé, sans exécuter la requête.
+
+Le piège : rien de sélectionné, F5 lance toute la fenêtre, y compris le DELETE oublié en haut. On sélectionne, puis on exécute.
+
+👉 Commence gratuitement : https://www.liy10learning.com
+🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning)
+
+#SQLServer #LIY10
+
+===== TIKTOK =====
+Les raccourcis de SSMS : dix gestes, une règle ⌨️
+SQL Server, niveau 2 : les raccourcis de SSMS.
+
+F5, Ctrl+R, Maj+↓, Ctrl+K puis Ctrl+C ou Ctrl+U, Ctrl+Maj+L ou U, Ctrl+Maj+Q, Alt+F1, Ctrl+Maj+M, F4, Ctrl+L : la touche s’allume sur le clavier, et ce qu’elle fait s’affiche en dessous.
+
+Le piège : rien de sélectionné, F5 lance toute la fenêtre, y compris le DELETE oublié en haut. On sélectionne, puis on exécute.
+
+L’explorateur d’objets, tu sais t’en servir ? C’est le niveau 3 : abonne-toi pour ne pas le rater 🔔
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#sqlserver #sql #raccourcis #apprendresurtiktok #liy10
+
+===== STORY =====
+SQL Server, niveau 2 : les raccourcis de SSMS 👆

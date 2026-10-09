@@ -1,0 +1,49 @@
+Charger, nettoyer, modéliser, mesurer, publier
+
+===== INSTAGRAM =====
+Power BI : charger, nettoyer, modéliser, mesurer, publier 📊
+
+13 niveaux, 26 leçons, 269 questions : une mesure plutôt qu’une colonne, le sens du filtre, CALCULATE et le contexte, le modèle en étoile.
+
+Du fichier brut au rapport qu’on lit en trois secondes.
+
+Certification visée : PL-300.
+
+👉 Lien en bio : commence Power BI gratuitement.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#PowerBI #DAX #DataAnalyse #Bureautique #CoteDIvoire
+
+===== FACEBOOK =====
+Power BI : charger, nettoyer, modéliser, mesurer, publier 📊
+
+13 niveaux, 26 leçons, 269 questions : une mesure plutôt qu’une colonne, le sens du filtre, CALCULATE et le contexte, le modèle en étoile.
+
+Du fichier brut au rapport qu’on lit en trois secondes.
+
+Certification visée : PL-300.
+
+👉 Commence Power BI gratuitement : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#PowerBI #DAX
+
+===== TIKTOK =====
+Power BI : charger, nettoyer, modéliser, mesurer, publier 📊
+Du fichier brut au rapport qu’on lit en trois secondes.
+
+D’abord, transformer dans Power Query : chaque étape se rejoue. Puis le modèle en étoile, où le filtre descend. Et la mesure, tu l’écris toi-même, une fois, et elle est calculée partout : CA = SUM(Ventes[Montant]).
+
+13 niveaux, 26 leçons, 269 questions, jusqu’à la PL-300.
+
+Tu calcules encore tes totaux dans une colonne ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#powerbi #dax #dataanalyse #apprendresurtiktok #liy10
+
+===== STORY =====
+Power BI, de la donnée brute au rapport 📊 Le parcours 👆

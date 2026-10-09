@@ -1,0 +1,49 @@
+Le dollar qui bloque
+
+===== INSTAGRAM =====
+Tu fais sûrement cette erreur dans Excel : la recopie qui casse tout
+
+Tu écris =B3*C1 et tu recopies vers le bas : C1 devient C2, C3, C4… et les erreurs tombent en cascade.
+
+La solution : bloquer la ligne avec C$1. Dans la formule, place le curseur sur C1 et appuie deux fois sur F4 : le dollar s’ajoute tout seul.
+
+Résultat : tous les prix TTC se recalculent avec le même coefficient (1,18 pour une TVA de 18 %).
+
+👉 Lien en bio : apprends le piège avant qu’il te coûte des heures.
+
+🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+
+#Excel #AstuceExcel #ApprendreExcel #Bureautique #CoteDIvoire
+
+===== FACEBOOK =====
+Tu fais sûrement cette erreur dans Excel : la recopie qui casse tout
+
+Tu écris =B3*C1 et tu recopies vers le bas : C1 devient C2, C3, C4… et les erreurs tombent en cascade.
+
+La solution : bloquer la ligne avec C$1. Dans la formule, place le curseur sur C1 et appuie deux fois sur F4 : le dollar s’ajoute tout seul.
+
+Résultat : tous les prix TTC se recalculent avec le même coefficient (1,18 pour une TVA de 18 %).
+
+👉 Apprends le piège avant qu’il te coûte des heures : https://www.liy10learning.com
+
+🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)
+
+#Excel #AstuceExcel
+
+===== TIKTOK =====
+Tu fais sûrement cette erreur dans Excel : la recopie qui casse tout 😬
+Tu écris =B3*C1 et tu recopies vers le bas : C1 devient C2, C3, C4… et les erreurs tombent en cascade.
+
+La solution : bloquer la ligne avec C$1. Dans la formule, place le curseur sur C1 et appuie deux fois sur F4 : le dollar s’ajoute tout seul.
+
+Tous les prix TTC se recalculent avec le même coefficient (1,18 pour une TVA de 18 %).
+
+Tu connaissais F4 ? 👇
+
+📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)
+🌐 liy10learning.com
+
+#excel #astuceexcel #formuleexcel #apprendresurtiktok #liy10
+
+===== STORY =====
+Le dollar qui bloque ta référence Excel 💲 La touche F4 à connaître 👆
