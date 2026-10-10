@@ -1,0 +1,1768 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LIY10 Learning//Programme des publications//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LIY10 · En plus
+X-WR-CALDESC:Octobre Rose à 09:00 et le bonus de 18:30 (heure d’Abidjan)
+ .
+X-WR-TIMEZONE:Africa/Abidjan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:liy10-2026-10-10-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261010T090000Z
+DTEND:20261010T091500Z
+SUMMARY:🎗️ Octobre Rose · Le ruban rose (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Le symbole du ruban rose\nPublie l’image sur I
+ nstagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : http
+ s://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose/o
+ ctobre-rose-2026-10-10.png\n\n— Légende (à copier\, la même sur Insta
+ gram et Facebook) —\nOctobre Rose 🎗️\n\nLe ruban rose\, c'est un ra
+ ppel tout simple : parler du cancer du sein\, c'est déjà aider. Porte-le
+  avec nous.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la lutte co
+ ntre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Autopalpat
+ ion\, mammographie : parles-en à un professionnel de santé\, et partage 
+ ce message à une femme qui compte pour toi 💗\n\n#OctobreRose #CancerDu
+ Sein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PDF) : htt
+ ps://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme
+ -liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-
+ boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Le ruban rose (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-10-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261010T183000Z
+DTEND:20261010T184500Z
+SUMMARY:Bonus · Insta/FB : Comment marche RECHERCHEX ? | TikTok : Le dol
+ lar qui bloque
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Comment marche REC
+ HERCHEX ? (dossier « a01-recherchex » du zip)\n⬇ Télécharger la vi
+ déo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/a01
+ -recherchex.mp4\n📱 Story vers 20:00 : https://github.com/jordyadopo-boo
+ p/liy10-videos/raw/main/stories-images/a01-recherchex.jpg\n   Texte de la 
+ story : « Comment marche RECHERCHEX ? 📗 Tout comprendre en 30 second
+ es 👆 »\n\n— Légende Instagram (à copier) —\nComment marche RECHE
+ RCHEX ? La réponse en 30 secondes\n\nLa formule de la vidéo : =RECHER
+ CHEX(F2\;A2:A9\;C2:C9).\n\nTrois arguments obligatoires : ce que tu cherc
+ hes\, où tu le cherches\, ce que tu rapportes. Si le produit n’existe p
+ as\, Excel affiche l’erreur N/A : un 4e argument te permet d’écrire 
+ « Non trouvé » à la place.\n\nChange le nom dans la cellule : le 
+ prix suit tout seul.\n\n👉 Lien en bio : demande à Liy10 la fonction q
+ ui te bloque.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.l
+ earning (abonne-toi partout 👻)\n\n#Excel #RechercheX #ApprendreExcel #B
+ ureautique #CoteDIvoire\n\n— Légende Facebook (à copier) —\nComment 
+ marche RECHERCHEX ? La réponse en 30 secondes\n\nLa formule de la vidé
+ o : =RECHERCHEX(F2\;A2:A9\;C2:C9).\n\nTrois arguments obligatoires : ce 
+ que tu cherches\, où tu le cherches\, ce que tu rapportes. Si le produit 
+ n’existe pas\, Excel affiche l’erreur N/A : un 4e argument te permet 
+ d’écrire « Non trouvé » à la place.\n\nChange le nom dans la ce
+ llule : le prix suit tout seul.\n\n👉 Demande à Liy10 la fonction qui 
+ te bloque : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur Ti
+ kTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.in
+ stagram.com/liy10.learning)\n\n#Excel #RechercheX\n\n━━ TIKTOK ━━\
+ nVidéo : Le dollar qui bloque (dossier « t02-dollar » du zip)\n⬇ Tél
+ écharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/
+ main/videos/t02-dollar.mp4\n\n— Légende TikTok (à copier) —\nTu fais
+  sûrement cette erreur dans Excel : la recopie qui casse tout 😬\nTu 
+ écris =B3*C1 et tu recopies vers le bas : C1 devient C2\, C3\, C4… et
+  les erreurs tombent en cascade.\n\nLa solution : bloquer la ligne avec 
+ C$1. Dans la formule\, place le curseur sur C1 et appuie deux fois sur F4
+  : le dollar s’ajoute tout seul.\n\nTous les prix TTC se recalculent a
+ vec le même coefficient (1\,18 pour une TVA de 18 %).\n\nTu connaissais 
+ F4 ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@l
+ iy10.learning)\n🌐 liy10learning.com\n\n#excel #astuceexcel #formuleexce
+ l #apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://g
+ ithub.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10
+ .pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/l
+ iy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Comment marche RECHERCHEX ? | TikTok : Le
+  dollar qui bloque
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-11-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261011T090000Z
+DTEND:20261011T091500Z
+SUMMARY:🎗️ Octobre Rose · 2\,4 millions de femmes (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Chiffres clés dans le monde\nPublie l’image s
+ ur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : 
+ https://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-ro
+ se/octobre-rose-2026-10-11.png\n\n— Légende (à copier\, la même sur I
+ nstagram et Facebook) —\nOctobre Rose 🎗️\n\nDerrière ces chiffres\
+ , il y a des mères\, des sœurs\, des filles\, des amies. S'informer\, c'
+ est un premier pas.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la 
+ lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Au
+ topalpation\, mammographie : parles-en à un professionnel de santé\, et 
+ partage ce message à une femme qui compte pour toi 💗\n\n#OctobreRose #
+ CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PD
+ F) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/p
+ rogramme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jor
+ dyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · 2\,4 millions de femmes (Insta + Facebo
+ ok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-11-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261011T183000Z
+DTEND:20261011T184500Z
+SUMMARY:Bonus · Insta/FB : Le défi de la semaine | TikTok : Trois leçons
+  par jour. Gratuitement. Pour toujours.
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Le défi de la sem
+ aine (dossier « m09-defi » du zip)\n⬇ Télécharger la vidéo : https:
+ //github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m09-defi.mp4\n
+ 📱 Story vers 20:00 : https://github.com/jordyadopo-boop/liy10-videos/ra
+ w/main/stories/m09-defi.mp4\n   Texte de la story : « Défi de la semaine
+  🧩 10 questions\, 6 réussies = 5 clés. Tu relèves ? 👆 »\n\n—
+  Légende Instagram (à copier) —\nLe défi de la semaine : réussis-en
+  6\, gagne 5 clés 🧩\n\n10 questions de calcul et de logique. Réussis-
+ en 6 et gagne 5 clés de plus\, qui ne disparaissent pas à minuit.\n\nUn 
+ nouveau défi arrive chaque lundi.\n\nTu relèves ?\n\n👉 Lien en bio
+  : relève le défi.\n\n🎵 Plus d’astuces sur TikTok et Facebook : 
+ @liy10.learning (abonne-toi partout 👻)\n\n#LIY10 #Defi #Logique #Bureau
+ tique #CoteDIvoire\n\n— Légende Facebook (à copier) —\nLe défi de l
+ a semaine : réussis-en 6\, gagne 5 clés 🧩\n\n10 questions de calcul 
+ et de logique. Réussis-en 6 et gagne 5 clés de plus\, qui ne disparaisse
+ nt pas à minuit.\n\nUn nouveau défi arrive chaque lundi.\n\nTu relèves
+  ?\n\n👉 Relève le défi : https://www.liy10learning.com\n\n🎵 Abo
+ nne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Insta
+ gram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Defi\n\n━━ 
+ TIKTOK ━━\nVidéo : Trois leçons par jour. Gratuitement. Pour toujour
+ s. (dossier « m06-gratuit » du zip)\n⬇ Télécharger la vidéo : https
+ ://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m06-gratuit.mp4
+ \n\n— Légende TikTok (à copier) —\n3 leçons par jour. Gratuit. Pour
+  toujours. 🔑\n\nChaque jour\, tu as 3 clés : une clé ouvre une leç
+ on jamais faite\, et les 3 reviennent à minuit. Les révisions\, elles\, 
+ sont illimitées.\n\nTrois leçons par jour pendant 30 jours\, c’est 90 
+ leçons. Compte facultatif\, ça marche hors ligne\, rien à installer.\n\
+ nTu commences par lequel des 8 logiciels ? 👇\n\n📲 Aussi sur Instag
+ ram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.c
+ om\n\n#gratuit #excel #bureautique #apprendresurtiktok #liy10\n\n\n📄 To
+ ut le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/bl
+ ob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : htt
+ ps://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos
+ .zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Le défi de la semaine | TikTok : Trois le
+ çons par jour. Gratuitement. Pour toujours.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-12-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261012T090000Z
+DTEND:20261012T091500Z
+SUMMARY:🎗️ Octobre Rose · En Côte d'Ivoire (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Chiffres clés en Côte d'Ivoire\nPublie l’ima
+ ge sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’imag
+ e : https://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobr
+ e-rose/octobre-rose-2026-10-12.png\n\n— Légende (à copier\, la même s
+ ur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nEn Côte d'Ivoire\,
+  c'est aussi le cancer qui cause le plus de décès chez les femmes : la d
+ étection précoce compte.\n\nCe mois-ci\, LIY10 se met en rose pour soute
+ nir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne mi
+ eux. Autopalpation\, mammographie : parles-en à un professionnel de sant
+ é\, et partage ce message à une femme qui compte pour toi 💗\n\n#Octob
+ reRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le progr
+ amme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/pro
+ gramme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github
+ .com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · En Côte d'Ivoire (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-12-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261012T183000Z
+DTEND:20261012T184500Z
+SUMMARY:Bonus · Insta/FB : Prépare les certifications officielles | TikTo
+ k : Il te repose ce que tu oublies
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Prépare les certi
+ fications officielles (dossier « m12-certifications » du zip)\n⬇ Tél
+ écharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/
+ main/videos/m12-certifications.mp4\n📱 Story vers 20:00 : https://github
+ .com/jordyadopo-boop/liy10-videos/raw/main/stories/m12-certifications.mp4\
+ n   Texte de la story : « Du premier clic à la certification 🎓 Laquel
+ le tu vises ? 👆 »\n\n— Légende Instagram (à copier) —\nPrépar
+ e les certifications officielles\, pas à pas 🎓\n\nAu bout de chaque pa
+ rcours\, LIY10 t’oriente vers la certification Microsoft qui correspond
+  : MO-210 et MO-211 (Excel)\, MO-110 et MO-111 (Word)\, MO-310 (PowerPoin
+ t)\, MO-500 (Access)\, PL-300 (Power BI)\, DP-900 et DP-300 (SQL)\, PL-900
+  (Power Automate)\, DP-600 et DP-700 (Fabric).\n\n12 certifications visée
+ s\, les liens vers les entraînements officiels (gratuits ou payants selon
+  l’examen)\, et jamais de « dumps ».\n\nLIY10 n’est pas affilié
+  à Microsoft.\n\n👉 Lien en bio : découvre ton parcours.\n\n🎵 Plus
+  d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partou
+ t 👻)\n\n#Certification #Excel #PowerBI #SQL #CoteDIvoire\n\n— Légend
+ e Facebook (à copier) —\nPrépare les certifications officielles\, pas 
+ à pas 🎓\n\nAu bout de chaque parcours\, LIY10 t’oriente vers la cert
+ ification Microsoft qui correspond : MO-210 et MO-211 (Excel)\, MO-110 et
+  MO-111 (Word)\, MO-310 (PowerPoint)\, MO-500 (Access)\, PL-300 (Power BI)
+ \, DP-900 et DP-300 (SQL)\, PL-900 (Power Automate)\, DP-600 et DP-700 (Fa
+ bric).\n\n12 certifications visées\, les liens vers les entraînements of
+ ficiels (gratuits ou payants selon l’examen)\, et jamais de « dumps
+  ».\n\nLIY10 n’est pas affilié à Microsoft.\n\n👉 Découvre ton p
+ arcours : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikT
+ ok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.inst
+ agram.com/liy10.learning)\n\n#Certification #Bureautique\n\n━━ TIKTOK 
+ ━━\nVidéo : Il te repose ce que tu oublies (dossier « m04-revision 
+ » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-bo
+ op/liy10-videos/raw/main/videos/m04-revision.mp4\n\n— Légende TikTok (
+ à copier) —\nIl te repose exactement ce que tu es en train d’oublier 
+ 🧠\n\nLIY10 se souvient de chaque question que tu as vue. Réussie\, ell
+ e revient de plus en plus tard : demain\, puis dans 3\, 7\, 16\, jusqu
+ ’à 35 jours. Ratée\, elle revient tout de suite.\n\nTa révision du jo
+ ur t’attend dans l’onglet Pratique : des questions de tous tes logic
+ iels\, sans clé ni énergie à dépenser.\n\nTu oublies vite\, toi aussi
+  ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy
+ 10.learning)\n🌐 liy10learning.com\n\n#revision #memoire #bureautique #a
+ pprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://githu
+ b.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf
+ \n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10
+ -videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Prépare les certifications officielles | T
+ ikTok : Il te repose ce que tu oublies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-13-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261013T090000Z
+DTEND:20261013T091500Z
+SUMMARY:🎗️ Octobre Rose · Une boule ? Consulte. (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Signe d'alerte : une boule\nPublie l’image sur
+  Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : ht
+ tps://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose
+ /octobre-rose-2026-10-13.png\n\n— Légende (à copier\, la même sur Ins
+ tagram et Facebook) —\nOctobre Rose 🎗️\n\nUne boule dans le sein ou
+  sous le bras\, même indolore\, ça se montre à un médecin. Sans honte\
+ , sans attendre.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la lut
+ te contre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Autop
+ alpation\, mammographie : parles-en à un professionnel de santé\, et par
+ tage ce message à une femme qui compte pour toi 💗\n\n#OctobreRose #Can
+ cerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PDF) 
+ : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/prog
+ ramme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordya
+ dopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Une boule ? Consulte. (Insta + Facebook
+ )
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-13-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261013T183000Z
+DTEND:20261013T184500Z
+SUMMARY:Bonus · Insta/FB : Le vrai fichier derrière chaque leçon | TikTo
+ k : On apprend en tapant\, pas en regardant
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Le vrai fichier de
+ rrière chaque leçon (dossier « r02-fichiers » du zip)\n⬇ Télécharg
+ er la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vi
+ deos/r02-fichiers.mp4\n📱 Story vers 20:00 : https://github.com/jordyado
+ po-boop/liy10-videos/raw/main/stories/r02-fichiers.mp4\n   Texte de la sto
+ ry : « Le vrai fichier derrière chaque leçon 📁 Bientôt avec LIY10 P
+ ro 👆 »\n\n— Légende Instagram (à copier) —\nLe vrai fichier derr
+ ière chaque leçon : bientôt avec LIY10 Pro 📁\n\nAvec Pro\, tu pourr
+ as ouvrir le classeur\, le document\, la présentation ou le rapport de ch
+ aque leçon\, et travailler sur des cas réels : une facture\, un état d
+ e paie\, un bilan trimestriel.\n\nEt aussi des fiches PDF (raccourcis\, r
+ écapitulatifs) et une attestation par parcours à joindre à ta candidatu
+ re.\n\nLe paiement Pro ouvre bientôt. Le gratuit reste gratuit pour toujo
+ urs.\n\n👉 Lien en bio : commence gratuitement en attendant.\n\n🎵 Pl
+ us d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi part
+ out 👻)\n\n#LIY10 #LIY10Pro #Excel #Bureautique #CoteDIvoire\n\n— Lég
+ ende Facebook (à copier) —\nLe vrai fichier derrière chaque leçon : 
+ bientôt avec LIY10 Pro 📁\n\nAvec Pro\, tu pourras ouvrir le classeur\,
+  le document\, la présentation ou le rapport de chaque leçon\, et travai
+ ller sur des cas réels : une facture\, un état de paie\, un bilan trime
+ striel.\n\nEt aussi des fiches PDF (raccourcis\, récapitulatifs) et une a
+ ttestation par parcours à joindre à ta candidature.\n\nLe paiement Pro o
+ uvre bientôt. Le gratuit reste gratuit pour toujours.\n\n👉 Commence gr
+ atuitement en attendant : https://www.liy10learning.com\n\n🎵 Abonne-to
+ i aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (
+ https://www.instagram.com/liy10.learning)\n\n#LIY10 #LIY10Pro\n\n━━ TI
+ KTOK ━━\nVidéo : On apprend en tapant\, pas en regardant (dossier « 
+ m01-on-tape » du zip)\n⬇ Télécharger la vidéo : https://github.com/j
+ ordyadopo-boop/liy10-videos/raw/main/videos/m01-on-tape.mp4\n\n— Légend
+ e TikTok (à copier) —\nOn apprend en tapant\, pas en regardant. ⌨️\
+ n\nUn tuto qu’on regarde se brouille le lendemain. Une ligne qu’on a r
+ econstruite soi-même reste.\n\nDans LIY10\, tu assembles =SOMME(B2:B9) mo
+ rceau par morceau\, et le piège est enseigné : avec B2\;B9\, Excel n
+ ’additionne que deux cellules. Une seule idée par leçon\, trois minute
+ s suffisent.\n\nTu apprends plutôt en regardant ou en tapant ? 👇\n\n
+ 📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\
+ n🌐 liy10learning.com\n\n#excel #astuceexcel #bureautique #apprendresurt
+ iktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordya
+ dopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toute
+ s les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/arch
+ ive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Le vrai fichier derrière chaque leçon | T
+ ikTok : On apprend en tapant\, pas en regardant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-14-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261014T090000Z
+DTEND:20261014T091500Z
+SUMMARY:🎗️ Octobre Rose · Les signes qui alertent (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Signes d'alerte : peau\, mamelon\, forme\nPublie
+  l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger 
+ l’image : https://github.com/jordyadopo-boop/liy10-videos/raw/main/image
+ s/octobre-rose/octobre-rose-2026-10-14.png\n\n— Légende (à copier\, la
+  même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nLes seins c
+ hangent au fil des années\, c'est normal \; ce qui compte\, c'est de rep
+ érer ce qui est inhabituel.\n\nCe mois-ci\, LIY10 se met en rose pour sou
+ tenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne 
+ mieux. Autopalpation\, mammographie : parles-en à un professionnel de san
+ té\, et partage ce message à une femme qui compte pour toi 💗\n\n#Octo
+ breRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le prog
+ ramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/pr
+ ogramme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://githu
+ b.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Les signes qui alertent (Insta + Facebo
+ ok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-14-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261014T183000Z
+DTEND:20261014T184500Z
+SUMMARY:Bonus · Insta/FB : ▶ Exécuter : le résultat monte | TikTok : 
+ La nouvelle version de LIY10
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : ▶ Exécuter : l
+ e résultat monte (dossier « m03-executer » du zip)\n⬇ Télécharger l
+ a vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos
+ /m03-executer.mp4\n📱 Story vers 20:00 : https://github.com/jordyadopo-b
+ oop/liy10-videos/raw/main/stories/m03-executer.mp4\n   Texte de la story :
+  « Tu ne regardes pas le code\, tu l’exécutes ▶️ Regarde 👆 »\n
+ \n— Légende Instagram (à copier) —\nTu ne regardes pas le code. Tu l
+ ’exécutes. ▶️\n\nUn code a un trou. Tu choisis ce qui le remplit\, 
+ tu touches ▶ Exécuter et le résultat monte\, comme dans le vrai logici
+ el.\n\nMême une mauvaise option montre SON résultat : on comprend en vo
+ yant ce qui sort.\n\nVBA\, DAX\, SQL\, Power Automate\, PySpark\, T-SQL\, 
+ KQL : un seul geste pour les sept.\n\n👉 Lien en bio : exécute ton pr
+ emier code.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.lea
+ rning (abonne-toi partout 👻)\n\n#LIY10 #VBA #DAX #SQL #CoteDIvoire\n\n
+ — Légende Facebook (à copier) —\nTu ne regardes pas le code. Tu l’
+ exécutes. ▶️\n\nUn code a un trou. Tu choisis ce qui le remplit\, tu 
+ touches ▶ Exécuter et le résultat monte\, comme dans le vrai logiciel.
+ \n\nMême une mauvaise option montre SON résultat : on comprend en voyan
+ t ce qui sort.\n\nVBA\, DAX\, SQL\, Power Automate\, PySpark\, T-SQL\, KQL
+  : un seul geste pour les sept.\n\n👉 Exécute ton premier code : http
+ s://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www
+ .tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10
+ .learning)\n\n#LIY10 #SQL\n\n━━ TIKTOK ━━\nVidéo : La nouvelle ve
+ rsion de LIY10 (dossier « p00-presentation » du zip)\n⬇ Télécharger 
+ la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/video
+ s/p00-presentation.mp4\n\n— Légende TikTok (à copier) —\nLIY10 fait 
+ peau neuve. Regarde tout ce qui change 👻\nLiy10\, ton assistant IA\, r
+ épond à tes questions sur les 8 logiciels\, et tu peux même lui parler.
+ \n\nIl cherche dans tes leçons et sur Internet\, puis il te montre ses so
+ urces. Tu choisis ton style et la couleur de ton fantôme\, et avec ton co
+ mpte Google\, ta progression te suit sur tous tes appareils.\n\nGratuit 
+ : 3 leçons neuves par jour\, pour toujours\, et LIY10 Pro arrive bientôt
+ .\n\nQuelle nouveauté tu essaies en premier ? 👇\n\n📲 Aussi sur In
+ stagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learni
+ ng.com\n\n#assistantia #bureautique #excel #apprendresurtiktok #liy10\n\n\
+ n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-v
+ ideos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zi
+ p) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zi
+ p-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : ▶ Exécuter : le résultat monte | TikTo
+ k : La nouvelle version de LIY10
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-15-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261015T090000Z
+DTEND:20261015T091500Z
+SUMMARY:🎗️ Octobre Rose · Connais tes seins (Insta + Facebook)
+DESCRIPTION:Octobre Rose : L'autopalpation\nPublie l’image sur Instagram 
+ et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : https://githu
+ b.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose/octobre-ro
+ se-2026-10-15.png\n\n— Légende (à copier\, la même sur Instagram et F
+ acebook) —\nOctobre Rose 🎗️\n\nConnaître tes seins\, c'est savoir 
+ ce qui est normal pour toi et repérer plus vite un changement.\n\nCe mois
+ -ci\, LIY10 se met en rose pour soutenir la lutte contre le cancer du sein
+ .\n\nDétecté tôt\, il se soigne mieux. Autopalpation\, mammographie : p
+ arles-en à un professionnel de santé\, et partage ce message à une femm
+ e qui compte pour toi 💗\n\n#OctobreRose #CancerDuSein #Prevention #LIY1
+ 0 #CoteDIvoire\n\n📄 Tout le programme (PDF) : https://github.com/jordya
+ dopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toute
+ s les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/arch
+ ive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Connais tes seins (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-15-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261015T183000Z
+DTEND:20261015T184500Z
+SUMMARY:Bonus · Insta/FB : Liy10 sort de l’appli | TikTok : Prépare les
+  certifications officielles
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Liy10 sort de l’
+ appli (dossier « n06-liy10-encoche » du zip)\n⬇ Télécharger la vidé
+ o : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/n06-li
+ y10-encoche.mp4\n📱 Story vers 20:00 : partage la publication en story (
+ bouton ✈ › Ajouter à ta story).\n   Texte de la story : « Liy10 vit 
+ dans l’encoche de ton téléphone 📱 Android bientôt sur Google Play 
+ 👆 »\n\n— Légende Instagram (à copier) —\nBientôt : Liy10 sort 
+ de l’appli et vit dans l’encoche de ton téléphone 📱\n\nSur Androi
+ d\, il s’installe en petite bulle sous la caméra. Touche-le : la bulle
+  s’étire en bande\, tu poses ta question\, la réponse se déplie\, pui
+ s tout se replie.\n\nIl répond uniquement sur les 8 logiciels de l’appl
+ i\, et tu peux même continuer ta leçon dans sa bulle (même progression 
+ que dans l’appli).\n\nTu l’actives en autorisant « Afficher par-des
+ sus les autres applis ». Android : bientôt sur Google Play. iPhone :
+  en préparation.\n\n👉 Lien en bio pour suivre l’arrivée de l’appl
+ i.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (ab
+ onne-toi partout 👻)\n\n#Liy10 #Android #AppliMobile #Excel #CoteDIvoire
+ \n\n— Légende Facebook (à copier) —\nBientôt : Liy10 sort de l’a
+ ppli et vit dans l’encoche de ton téléphone 📱\n\nSur Android\, il s
+ ’installe en petite bulle sous la caméra. Touche-le : la bulle s’ét
+ ire en bande\, tu poses ta question\, la réponse se déplie\, puis tout s
+ e replie.\n\nIl répond uniquement sur les 8 logiciels de l’appli\, et t
+ u peux même continuer ta leçon dans sa bulle (même progression que dans
+  l’appli).\n\nTu l’actives en autorisant « Afficher par-dessus les 
+ autres applis ». Android : bientôt sur Google Play. iPhone : en pré
+ paration.\n\n👉 Pour suivre l’arrivée de l’appli : https://www.liy
+ 10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com
+ /@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning)\
+ n\n#Liy10 #Android\n\n━━ TIKTOK ━━\nVidéo : Prépare les certific
+ ations officielles (dossier « m12-certifications » du zip)\n⬇ Téléch
+ arger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main
+ /videos/m12-certifications.mp4\n\n— Légende TikTok (à copier) —\nPr
+ épare les certifications officielles\, pas à pas 🎓\nAu bout de chaque
+  parcours\, LIY10 t’oriente vers la certification Microsoft qui correspo
+ nd. 12 en tout\, comme MO-210 pour Excel ou PL-300 pour Power BI.\n\nTu de
+ mandes à Liy10 « Quelle certification pour Power BI ? »\, il te r
+ épond tout de suite : la PL-300\, avec son entraînement officiel gratu
+ it sur Microsoft Learn. Que de l’officiel\, gratuit ou payant selon l’
+ examen\, et jamais de « dumps ».\n\nLIY10 n’est pas affilié à Mi
+ crosoft.\n\nTu vises laquelle ? 👇\n\n📲 Aussi sur Instagram et Face
+ book : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#cert
+ ification #excel #powerbi #bureautique #liy10\n\n\n📄 Tout le programme 
+ (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programm
+ e/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/
+ jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Liy10 sort de l’appli | TikTok : Prépare
+  les certifications officielles
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-16-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261016T090000Z
+DTEND:20261016T091500Z
+SUMMARY:🎗️ Octobre Rose · « On n'en guérit pas » ? Faux. (Insta + 
+ Facebook)
+DESCRIPTION:Octobre Rose : Idée reçue : « on n'en guérit pas »\nPublie
+  l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger 
+ l’image : https://github.com/jordyadopo-boop/liy10-videos/raw/main/image
+ s/octobre-rose/octobre-rose-2026-10-16.png\n\n— Légende (à copier\, la
+  même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nLe cancer d
+ u sein n'est pas une fatalité : plus il est détecté tôt\, moins les tr
+ aitements sont lourds.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir 
+ la lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux.
+  Autopalpation\, mammographie : parles-en à un professionnel de santé\, 
+ et partage ce message à une femme qui compte pour toi 💗\n\n#OctobreRos
+ e #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme 
+ (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programm
+ e/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/
+ jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · « On n'en guérit pas » ? Faux. (Inst
+ a + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-16-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261016T183000Z
+DTEND:20261016T184500Z
+SUMMARY:Bonus · Insta/FB : Il m’attend depuis 3 jours… | TikTok : Ton 
+ niveau en 2 minutes
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Il m’attend depu
+ is 3 jours… (dossier « m13-widget-liy10 » du zip)\n⬇ Télécharger l
+ a vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos
+ /m13-widget-liy10.mp4\n📱 Story vers 20:00 : partage la publication en s
+ tory (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « Il m
+ ’attend depuis 3 jours… 🥺 Ne le fais pas attendre 👆 »\n\n— L
+ égende Instagram (à copier) —\nIl m’attend depuis 3 jours… 🥺\n\
+ nSur l’écran d’accueil\, le widget de Liy10 est content. Puis\, jour 
+ après jour\, il change d’humeur : timide\, triste\, endormi\, avec un 
+ petit message.\n\nTu ouvres l’appli\, tu fais une leçon : il retrouve 
+ la joie. Et le soir\, un rappel : « 🔥 Ta série de 12 jours t’att
+ end ! »\n\nWidgets et rappels : sur l’appli Android (bientôt sur 
+ Google Play).\n\n👉 Lien en bio : suis l’arrivée de l’appli.\n\n
+ 🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-t
+ oi partout 👻)\n\n#Liy10 #Android #Widget #Motivation #CoteDIvoire\n\n
+ — Légende Facebook (à copier) —\nIl m’attend depuis 3 jours… 
+ 🥺\n\nSur l’écran d’accueil\, le widget de Liy10 est content. Puis\
+ , jour après jour\, il change d’humeur : timide\, triste\, endormi\, a
+ vec un petit message.\n\nTu ouvres l’appli\, tu fais une leçon : il re
+ trouve la joie. Et le soir\, un rappel : « 🔥 Ta série de 12 jours 
+ t’attend ! »\n\nWidgets et rappels : sur l’appli Android (bient
+ ôt sur Google Play).\n\n👉 Suis l’arrivée de l’appli : https://ww
+ w.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tikto
+ k.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learn
+ ing)\n\n#Liy10 #Android\n\n━━ TIKTOK ━━\nVidéo : Ton niveau en 2 
+ minutes (dossier « m05-placement » du zip)\n⬇ Télécharger la vidéo 
+ : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m05-plac
+ ement.mp4\n\n— Légende TikTok (à copier) —\nTu connais déjà Excel
+  ? Teste ton niveau en 2 minutes ⏱️\n\nLe test de placement pose une
+  question par niveau\, de plus en plus difficile : 14 questions pour Exc
+ el. Une erreur ne t’arrête pas. Deux de suite\, oui.\n\nÀ la fin\, il 
+ te dit à quel niveau commencer. En gratuit\, les premières leçons passe
+ nt alors très vite \; avec LIY10 Pro (bientôt)\, ton chemin démarrera
+  directement au bon niveau.\n\nTu paries sur quel niveau ? 👇\n\n📲 
+ Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐
+  liy10learning.com\n\n#excel #testexcel #bureautique #apprendresurtiktok #
+ liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-bo
+ op/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les v
+ idéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/ref
+ s/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Il m’attend depuis 3 jours… | TikTok : 
+ Ton niveau en 2 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-17-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261017T090000Z
+DTEND:20261017T091500Z
+SUMMARY:🎗️ Octobre Rose · La mammographie\, c'est quoi ? (Insta + Fac
+ ebook)
+DESCRIPTION:Octobre Rose : La mammographie\, c'est quoi ?\nPublie l’image
+  sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image 
+ : https://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-
+ rose/octobre-rose-2026-10-17.png\n\n— Légende (à copier\, la même sur
+  Instagram et Facebook) —\nOctobre Rose 🎗️\n\nLe jour de ta mammogr
+ aphie\, évite crème\, parfum et déodorant sur les seins et sous les bra
+ s : ça peut gêner l'examen.\n\nCe mois-ci\, LIY10 se met en rose pour so
+ utenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne
+  mieux. Autopalpation\, mammographie : parles-en à un professionnel de sa
+ nté\, et partage ce message à une femme qui compte pour toi 💗\n\n#Oct
+ obreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le pro
+ gramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/p
+ rogramme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://gith
+ ub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · La mammographie\, c'est quoi ? (Insta +
+  Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-17-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261017T183000Z
+DTEND:20261017T184500Z
+SUMMARY:Bonus · Offre de lancement : moitié prix (Insta\, Facebook\, Tik
+ Tok)
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Offre de lancement
+  : moitié prix (dossier « r04-lancement » du zip)\n⬇ Télécharger l
+ a vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos
+ /r04-lancement.mp4\n📱 Story vers 20:00 : partage la publication en stor
+ y (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « Offre d
+ e lancement Pro : 18 000 F l’année 🎁 Bientôt. Active les notifi
+ cations 🔔 👆 »\n\n— Légende Instagram (à copier) —\nOffre de l
+ ancement LIY10 Pro : moitié prix\, bientôt 🎁\n\nOffre de lancement 
+ : 18 000 F l’année\, soit 1 500 F par mois\, la moitié du prix m
+ ensuel (3 000 F par mois)\, avec un tarif gardé au renouvellement. Pro
+  annuel hors offre : 24 000 F l’année.\n\nPaiement par Wave\, Orang
+ e Money\, MTN\, Moov ou carte.\n\nL’ouverture du paiement Pro arrive bie
+ ntôt : on te prévient ici. Le gratuit reste gratuit pour toujours.\n\n
+ 👉 Lien en bio : commence gratuitement en attendant.\n\n🎵 Plus d’a
+ stuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻
+ )\n\n#LIY10 #LIY10Pro #Excel #Bureautique #CoteDIvoire\n\n— Légende Fac
+ ebook (à copier) —\nOffre de lancement LIY10 Pro : moitié prix\, bien
+ tôt 🎁\n\nOffre de lancement : 18 000 F l’année\, soit 1 500 
+ F par mois\, la moitié du prix mensuel (3 000 F par mois)\, avec un ta
+ rif gardé au renouvellement. Pro annuel hors offre : 24 000 F l’ann
+ ée.\n\nPaiement par Wave\, Orange Money\, MTN\, Moov ou carte.\n\nL’ouv
+ erture du paiement Pro arrive bientôt : on te prévient ici. Le gratuit 
+ reste gratuit pour toujours.\n\n👉 Commence gratuitement en attendant :
+  https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https:
+ //www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/
+ liy10.learning)\n\n#LIY10 #LIY10Pro\n\n━━ TIKTOK ━━\nVidéo : Offr
+ e de lancement : moitié prix (dossier « r04-lancement » du zip)\n⬇ T
+ élécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/r
+ aw/main/videos/r04-lancement.mp4\n\n— Légende TikTok (à copier) —\nO
+ ffre de lancement LIY10 Pro : moitié prix\, bientôt 🎁\n\nPro mensue
+ l : 3 000 F par mois. Au lancement : 18 000 F l’année\, soit 
+ 1 500 F par mois\, moitié prix\, avec un tarif gardé au renouvellemen
+ t. Pro annuel hors offre : 24 000 F l’année.\n\nPaiement prévu pa
+ r Wave\, Orange Money\, MTN\, Moov ou carte. L’ouverture du paiement arr
+ ive bientôt : abonne-toi\, on te prévient ici. Le gratuit\, c’est ma
+ intenant\, et pour toujours.\n\nTu paierais avec quoi ? 👇\n\n📲 Aus
+ si sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 li
+ y10learning.com\n\n#liy10pro #excel #bureautique #cotedivoire #liy10\n\n\n
+ 📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-vi
+ deos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip
+ ) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip
+ -videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Offre de lancement : moitié prix (Insta\, Facebook\,
+  TikTok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-18-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261018T090000Z
+DTEND:20261018T091500Z
+SUMMARY:🎗️ Octobre Rose · Parles-en à une proche (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Parles-en à une proche\nPublie l’image sur In
+ stagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : https
+ ://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose/oc
+ tobre-rose-2026-10-18.png\n\n— Légende (à copier\, la même sur Instag
+ ram et Facebook) —\nOctobre Rose 🎗️\n\nAujourd'hui\, envoie un mess
+ age doux à une femme qui compte pour toi : « Prends soin de toi\, pense 
+ au dépistage. »\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la lu
+ tte contre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Auto
+ palpation\, mammographie : parles-en à un professionnel de santé\, et pa
+ rtage ce message à une femme qui compte pour toi 💗\n\n#OctobreRose #Ca
+ ncerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PDF)
+  : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/pro
+ gramme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordy
+ adopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Parles-en à une proche (Insta + Facebo
+ ok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-18-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261018T183000Z
+DTEND:20261018T184500Z
+SUMMARY:Bonus · Même dans le taxi. Sans réseau. (Insta\, Facebook\, TikT
+ ok)
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Même dans le taxi
+ . Sans réseau. (dossier « m07-hors-ligne » du zip)\n⬇ Télécharger l
+ a vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos
+ /m07-hors-ligne.mp4\n📱 Story vers 20:00 : partage la publication en sto
+ ry (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « Pas de
+  réseau dans le taxi ? Ta leçon continue 🚕 Regarde 👆 »\n\n— L
+ égende Instagram (à copier) —\nMême dans le taxi. Sans réseau. 🚕\
+ n\nLa barre réseau tombe à zéro et la leçon continue sans accroc : da
+ ns l’appli\, toutes les leçons marchent sans Internet.\n\nTa progressio
+ n est gardée sur le téléphone et se synchronise au retour du réseau. L
+ e lexique de 305 fiches marche aussi sans connexion.\n\nPlus de réseau 
+ ? Ta leçon continue.\n\n👉 Lien en bio : commence gratuitement.\n\n
+ 🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-t
+ oi partout 👻)\n\n#LIY10 #HorsLigne #Bureautique #Abidjan #CoteDIvoire\n
+ \n— Légende Facebook (à copier) —\nMême dans le taxi. Sans réseau.
+  🚕\n\nLa barre réseau tombe à zéro et la leçon continue sans accroc
+  : dans l’appli\, toutes les leçons marchent sans Internet.\n\nTa prog
+ ression est gardée sur le téléphone et se synchronise au retour du rés
+ eau. Le lexique de 305 fiches marche aussi sans connexion.\n\nPlus de rés
+ eau ? Ta leçon continue.\n\n👉 Commence gratuitement : https://www.l
+ iy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.c
+ om/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learning
+ )\n\n#LIY10 #Abidjan\n\n━━ TIKTOK ━━\nVidéo : Même dans le taxi.
+  Sans réseau. (dossier « m07-hors-ligne » du zip)\n⬇ Télécharger la
+  vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/
+ m07-hors-ligne.mp4\n\n— Légende TikTok (à copier) —\nMême dans le t
+ axi. Sans réseau. 🚕\n\nLa barre réseau tombe à zéro et la leçon co
+ ntinue : dans l’appli\, toutes les leçons marchent sans Internet. Ta 
+ progression est gardée sur le téléphone et se synchronise au retour du 
+ réseau.\n\nLe lexique de 305 fiches marche aussi sans connexion. Une ques
+ tion à Liy10\, l’assistant de l’appli ? Il la garde et répond tout
+  seul dès que le réseau revient.\n\nToi\, tu apprends où ? 👇\n\n
+ 📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\
+ n🌐 liy10learning.com\n\n#horsligne #bureautique #abidjan #apprendresurt
+ iktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordya
+ dopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toute
+ s les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/arch
+ ive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Même dans le taxi. Sans réseau. (Insta\, Facebook\, 
+ TikTok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-19-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261019T090000Z
+DTEND:20261019T091500Z
+SUMMARY:🎗️ Octobre Rose · Le dépistage\, à quel âge ? (Insta + Fac
+ ebook)
+DESCRIPTION:Octobre Rose : Le dépistage : à quel âge ?\nPublie l’image
+  sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image 
+ : https://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-
+ rose/octobre-rose-2026-10-19.png\n\n— Légende (à copier\, la même sur
+  Instagram et Facebook) —\nOctobre Rose 🎗️\n\nLe dépistage\, c'est
+  chercher un cancer avant qu'il ne donne des signes : demande à ton méde
+ cin ce qui est conseillé pour toi.\n\nCe mois-ci\, LIY10 se met en rose p
+ our soutenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se 
+ soigne mieux. Autopalpation\, mammographie : parles-en à un professionnel
+  de santé\, et partage ce message à une femme qui compte pour toi 💗\n
+ \n#OctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout 
+ le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/
+ main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https:
+ //github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zi
+ p
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Le dépistage\, à quel âge ? (Insta +
+  Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-19-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261019T183000Z
+DTEND:20261019T184500Z
+SUMMARY:Bonus · Insta/FB : On apprend en tapant\, pas en regardant | TikTo
+ k : Liy10 sort de l’appli
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : On apprend en tapa
+ nt\, pas en regardant (dossier « m01-on-tape » du zip)\n⬇ Télécharge
+ r la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vid
+ eos/m01-on-tape.mp4\n📱 Story vers 20:00 : partage la publication en sto
+ ry (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « On app
+ rend en tapant\, pas en regardant ⌨️ Regarde pourquoi 👆 »\n\n— L
+ égende Instagram (à copier) —\nOn apprend en tapant\, pas en regardant
+ .\n\nUn tuto qu’on regarde se brouille le lendemain. Une ligne qu’on a
+  reconstruite soi-même reste.\n\nDans LIY10\, tu assembles la formule mor
+ ceau par morceau\, dans l’ordre (par exemple =SOMME(B2:B9))\, au lieu de
+  reconnaître la bonne réponse.\n\nUne seule idée par leçon\, le piège
+  est enseigné\, et trois minutes suffisent.\n\n👉 Lien en bio : tape t
+ a première formule.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @
+ liy10.learning (abonne-toi partout 👻)\n\n#LIY10 #Excel #ApprendreExcel 
+ #Bureautique #CoteDIvoire\n\n— Légende Facebook (à copier) —\nOn app
+ rend en tapant\, pas en regardant.\n\nUn tuto qu’on regarde se brouille 
+ le lendemain. Une ligne qu’on a reconstruite soi-même reste.\n\nDans LI
+ Y10\, tu assembles la formule morceau par morceau\, dans l’ordre (par ex
+ emple =SOMME(B2:B9))\, au lieu de reconnaître la bonne réponse.\n\nUne s
+ eule idée par leçon\, le piège est enseigné\, et trois minutes suffise
+ nt.\n\n👉 Tape ta première formule : https://www.liy10learning.com\n\n
+ 🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) 
+ et Instagram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Excel\n
+ \n━━ TIKTOK ━━\nVidéo : Liy10 sort de l’appli (dossier « n06-l
+ iy10-encoche » du zip)\n⬇ Télécharger la vidéo : https://github.com/
+ jordyadopo-boop/liy10-videos/raw/main/videos/n06-liy10-encoche.mp4\n\n— 
+ Légende TikTok (à copier) —\nBientôt : Liy10 sort de l’appli et v
+ it dans l’encoche de ton téléphone 📱\nSur Android\, il s’installe
+  en petite bulle sous la caméra.\n\nTouche-le : la bulle s’étire\, t
+ u poses ta question\, la réponse se déplie\, puis tout se replie. Il ré
+ pond seulement sur les 8 logiciels\, et tu peux même continuer ta leçon 
+ dans sa bulle\, avec la même progression que dans l’appli. Bientôt sur
+  Google Play pour Android\, en préparation sur iPhone.\n\nTu le veux dans
+  ton encoche ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Le
+ arning (@liy10.learning)\n🌐 liy10learning.com\n\n#android #assistantia 
+ #excel #apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : http
+ s://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-
+ liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-b
+ oop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : On apprend en tapant\, pas en regardant | T
+ ikTok : Liy10 sort de l’appli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-20-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261020T090000Z
+DTEND:20261020T091500Z
+SUMMARY:🎗️ Octobre Rose · Toutes concernées (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Facteurs de risque : toutes concernées\nPublie 
+ l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l
+ ’image : https://github.com/jordyadopo-boop/liy10-videos/raw/main/images
+ /octobre-rose/octobre-rose-2026-10-20.png\n\n— Légende (à copier\, la 
+ même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nPas de facte
+ ur de risque connu ? Tu restes concernée : connais tes seins et parles-en
+  à un professionnel de santé.\n\nCe mois-ci\, LIY10 se met en rose pour 
+ soutenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se soig
+ ne mieux. Autopalpation\, mammographie : parles-en à un professionnel de 
+ santé\, et partage ce message à une femme qui compte pour toi 💗\n\n#O
+ ctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le p
+ rogramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main
+ /programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://gi
+ thub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Toutes concernées (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-20-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261020T183000Z
+DTEND:20261020T184500Z
+SUMMARY:Bonus · Insta/FB : Monte dans le classement | TikTok : Ne casse pa
+ s ta flamme
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Monte dans le clas
+ sement (dossier « m10-classement » du zip)\n⬇ Télécharger la vidéo 
+ : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m10-clas
+ sement.mp4\n📱 Story vers 20:00 : partage la publication en story (bouto
+ n ✈ › Ajouter à ta story).\n   Texte de la story : « Qui sera premie
+ r cette semaine ? 🏆 Le classement repart lundi 👆 »\n\n— Légend
+ e Instagram (à copier) —\nQui sera premier cette semaine ? 🏆\n\nCh
+ aque semaine\, un podium partagé entre tous les apprenants. Même sans co
+ mpte\, tu as ton pseudo animal (par exemple « Pieuvre Turbo 87 »).\n
+ \nChaque leçon finie rapporte des XP\, avec 10 XP de bonus sans aucune fa
+ ute. Les XP te font passer de Bronze à Argent (400 XP)\, Or (1 200 XP)\
+ , puis Saphir et Légende.\n\nLe classement repart chaque lundi : défie 
+ tes amis.\n\n👉 Lien en bio : monte au classement.\n\n🎵 Plus d’ast
+ uces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\
+ n\n#LIY10 #Classement #Defi #Bureautique #CoteDIvoire\n\n— Légende Face
+ book (à copier) —\nQui sera premier cette semaine ? 🏆\n\nChaque se
+ maine\, un podium partagé entre tous les apprenants. Même sans compte\, 
+ tu as ton pseudo animal (par exemple « Pieuvre Turbo 87 »).\n\nChaqu
+ e leçon finie rapporte des XP\, avec 10 XP de bonus sans aucune faute. Le
+ s XP te font passer de Bronze à Argent (400 XP)\, Or (1 200 XP)\, puis 
+ Saphir et Légende.\n\nLe classement repart chaque lundi : défie tes ami
+ s.\n\n👉 Monte au classement : https://www.liy10learning.com\n\n🎵 Ab
+ onne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Inst
+ agram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Classement\n\n
+ ━━ TIKTOK ━━\nVidéo : Ne casse pas ta flamme (dossier « m11-elan
+  » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-b
+ oop/liy10-videos/raw/main/videos/m11-elan.mp4\n\n— Légende TikTok (à c
+ opier) —\nNe casse pas ta flamme 🔥\nL’élan\, c’est le nombre de 
+ jours d’affilée où tu as appris : une leçon\, un jour de plus. Un j
+ our manqué\, et ta série repart à 1.\n\nChaque leçon te rapporte aussi
+  des XP et des pièces\, et tu gardes ta meilleure séquence.\n\nTrois le
+ çons par jour pendant un mois valent mieux que trente en un dimanche.\n\n
+ Ta série en est à combien de jours ? 👇\n\n📲 Aussi sur Instagram 
+ et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n
+ \n#motivation #habitudes #bureautique #apprendresurtiktok #liy10\n\n\n📄
+  Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos
+ /blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : 
+ https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-vid
+ eos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Monte dans le classement | TikTok : Ne cass
+ e pas ta flamme
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-21-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261021T090000Z
+DTEND:20261021T091500Z
+SUMMARY:🎗️ Octobre Rose · Ton histoire familiale (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Facteurs de risque : les antécédents familiaux
+ \nPublie l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télé
+ charger l’image : https://github.com/jordyadopo-boop/liy10-videos/raw/ma
+ in/images/octobre-rose/octobre-rose-2026-10-21.png\n\n— Légende (à cop
+ ier\, la même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nPas
+  d'antécédents dans ta famille ? Reste attentive quand même : la plupar
+ t des femmes touchées n'en ont pas.\n\nCe mois-ci\, LIY10 se met en rose 
+ pour soutenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se
+  soigne mieux. Autopalpation\, mammographie : parles-en à un professionne
+ l de santé\, et partage ce message à une femme qui compte pour toi 💗\
+ n\n#OctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout
+  le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob
+ /main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https
+ ://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.z
+ ip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Ton histoire familiale (Insta + Faceboo
+ k)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-21-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261021T183000Z
+DTEND:20261021T184500Z
+SUMMARY:Bonus · Insta/FB : Clés illimitées. Énergie illimitée. | TikTo
+ k : Sa réponse en moins de 10 secondes
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Clés illimitées.
+  Énergie illimitée. (dossier « r01-illimite » du zip)\n⬇ Télécharg
+ er la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vi
+ deos/r01-illimite.mp4\n📱 Story vers 20:00 : https://github.com/jordyado
+ po-boop/liy10-videos/raw/main/stories/r01-illimite.mp4\n   Texte de la sto
+ ry : « LIY10 Pro arrive bientôt ⭐ Clés et énergie illimitées 👆 
+ »\n\n— Légende Instagram (à copier) —\nClés illimitées. Énergie 
+ illimitée. Bientôt avec LIY10 Pro 🔑\n\nAujourd’hui\, tu as 3 clés 
+ par jour et 5 gouttes d’énergie. Avec LIY10 Pro\, tu pourras faire dix 
+ leçons dans la journée si tu veux\, et une mauvaise réponse ne coûtera
+  plus rien : on se trompe\, on comprend\, on continue.\n\nPro n’est pas
+  encore ouvert : le paiement arrive bientôt. En attendant\, le gratuit r
+ este gratuit pour toujours (3 leçons neuves par jour).\n\n👉 Lien en bi
+ o : commence gratuitement en attendant.\n\n🎵 Plus d’astuces sur TikT
+ ok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#LIY10 #LI
+ Y10Pro #Excel #Bureautique #CoteDIvoire\n\n— Légende Facebook (à copie
+ r) —\nClés illimitées. Énergie illimitée. Bientôt avec LIY10 Pro 
+ 🔑\n\nAujourd’hui\, tu as 3 clés par jour et 5 gouttes d’énergie. 
+ Avec LIY10 Pro\, tu pourras faire dix leçons dans la journée si tu veux\
+ , et une mauvaise réponse ne coûtera plus rien : on se trompe\, on comp
+ rend\, on continue.\n\nPro n’est pas encore ouvert : le paiement arrive
+  bientôt. En attendant\, le gratuit reste gratuit pour toujours (3 leçon
+ s neuves par jour).\n\n👉 Commence gratuitement en attendant : https://
+ www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tik
+ tok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.lea
+ rning)\n\n#LIY10 #LIY10Pro\n\n━━ TIKTOK ━━\nVidéo : Sa réponse e
+ n moins de 10 secondes (dossier « n08-reponse-rapide » du zip)\n⬇ Tél
+ écharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/
+ main/videos/n08-reponse-rapide.mp4\n\n— Légende TikTok (à copier) —\
+ nLiy10 te répond en moins de 10 secondes ⏱️\nChrono lancé : les pr
+ emiers mots arrivent en 2 à 3 secondes\, la réponse complète en moins d
+ e 10.\n\nIci\, tu lui demandes comment marche SOMME.SI : la réponse s
+ ’écrit en direct et le chrono s’arrête avant 10 secondes. Une questi
+ on déjà posée revient instantanément\, et « Plus de détails » o
+ uvre l’explication complète. Un petit écran pour chacun des 8 logiciel
+ s.\n\nEt toi\, tu trouves une formule en combien de temps ? 👇\n\n📲
+  Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n
+ 🌐 liy10learning.com\n\n#excel #assistantia #powerbi #apprendresurtiktok
+  #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-
+ boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les
+  vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/r
+ efs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Clés illimitées. Énergie illimitée. | T
+ ikTok : Sa réponse en moins de 10 secondes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-22-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261022T090000Z
+DTEND:20261022T091500Z
+SUMMARY:🎗️ Octobre Rose · Bouge\, mange équilibré (Insta + Facebook
+ )
+DESCRIPTION:Octobre Rose : Alimentation et activité physique\nPublie l’i
+ mage sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’im
+ age : https://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octo
+ bre-rose/octobre-rose-2026-10-22.png\n\n— Légende (à copier\, la même
+  sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nMarche\, danse\, 
+ ménage\, sport : toute activité physique compte\, et un peu vaut toujour
+ s mieux que rien.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la lu
+ tte contre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Auto
+ palpation\, mammographie : parles-en à un professionnel de santé\, et pa
+ rtage ce message à une femme qui compte pour toi 💗\n\n#OctobreRose #Ca
+ ncerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PDF)
+  : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/pro
+ gramme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordy
+ adopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Bouge\, mange équilibré (Insta + Face
+ book)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-22-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261022T183000Z
+DTEND:20261022T184500Z
+SUMMARY:Bonus · Ta progression te suit partout (Insta\, Facebook\, TikTok)
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Ta progression te 
+ suit partout (dossier « n09-synchro » du zip)\n⬇ Télécharger la vid
+ éo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/n09-
+ synchro.mp4\n📱 Story vers 20:00 : https://github.com/jordyadopo-boop/li
+ y10-videos/raw/main/stories/n09-synchro.mp4\n   Texte de la story : « Com
+ mence dans le bus\, termine au bureau 🚌💼 Ta progression te suit part
+ out 👆 »\n\n— Légende Instagram (à copier) —\nFinie sur le télé
+ phone. Cochée sur l’ordinateur ✅\n\nConnecte-toi avec Google : leço
+ ns faites\, XP\, pièces\, élan\, classement… ta progression te suit su
+ r le téléphone et sur l’ordinateur. Si deux appareils avancent chacun 
+ de leur côté\, les progrès s’additionnent.\n\nSans compte\, tout rest
+ e sur ton appareil. Aucun traceur publicitaire.\n\nCommence dans le bus\, 
+ termine au bureau.\n\n👉 Lien en bio pour commencer.\n\n🎵 Plus d’as
+ tuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+ \n\n#LIY10 #Bureautique #Excel #CoteDIvoire #AfriqueFrancophone\n\n— Lé
+ gende Facebook (à copier) —\nFinie sur le téléphone. Cochée sur l’
+ ordinateur ✅\n\nConnecte-toi avec Google : leçons faites\, XP\, pièce
+ s\, élan\, classement… ta progression te suit sur le téléphone et sur
+  l’ordinateur. Si deux appareils avancent chacun de leur côté\, les pr
+ ogrès s’additionnent.\n\nSans compte\, tout reste sur ton appareil. Auc
+ un traceur publicitaire.\n\nCommence dans le bus\, termine au bureau.\n\n
+ 👉 Pour commencer : https://www.liy10learning.com\n\n🎵 Abonne-toi au
+ ssi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (http
+ s://www.instagram.com/liy10.learning)\n\n#LIY10 #Bureautique\n\n━━ TIK
+ TOK ━━\nVidéo : Ta progression te suit partout (dossier « n09-synchr
+ o » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-
+ boop/liy10-videos/raw/main/videos/n09-synchro.mp4\n\n— Légende TikTok (
+ à copier) —\nFinie sur le téléphone. Cochée sur l’ordinateur ✅\n
+ Connecte-toi avec Google : leçons faites\, XP\, pièces\, élan\, class
+ ement\, tout te suit sur le téléphone et sur l’ordinateur.\n\nSi deux 
+ appareils avancent chacun de leur côté\, les progrès s’additionnent. 
+ Sans compte\, tout reste sur ton appareil. Aucun traceur publicitaire.\n\n
+ Tu apprends plutôt dans le bus ou au bureau ? 👇\n\n📲 Aussi sur In
+ stagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learni
+ ng.com\n\n#bureautique #excel #applimobile #apprendresurtiktok #liy10\n\n\
+ n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-v
+ ideos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zi
+ p) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zi
+ p-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Ta progression te suit partout (Insta\, Facebook\, Tik
+ Tok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-23-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261023T090000Z
+DTEND:20261023T091500Z
+SUMMARY:🎗️ Octobre Rose · Alcool et tabac (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Alcool et tabac\nPublie l’image sur Instagram 
+ et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : https://githu
+ b.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose/octobre-ro
+ se-2026-10-23.png\n\n— Légende (à copier\, la même sur Instagram et F
+ acebook) —\nOctobre Rose 🎗️\n\nNe pas fumer et limiter l'alcool\, c
+ 'est réduire ton risque de cancer\, dont celui du sein.\n\nCe mois-ci\, L
+ IY10 se met en rose pour soutenir la lutte contre le cancer du sein.\n\nD
+ étecté tôt\, il se soigne mieux. Autopalpation\, mammographie : parles-
+ en à un professionnel de santé\, et partage ce message à une femme qui 
+ compte pour toi 💗\n\n#OctobreRose #CancerDuSein #Prevention #LIY10 #Cot
+ eDIvoire\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-b
+ oop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les 
+ vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/re
+ fs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Alcool et tabac (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-23-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261023T183000Z
+DTEND:20261023T184500Z
+SUMMARY:Bonus · Insta/FB : Ne tape plus. Parle-lui. | TikTok : Il cherche.
+  Il vérifie. Il te montre ses sources.
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Ne tape plus. Parl
+ e-lui. (dossier « n07-parle-a-liy10 » du zip)\n⬇ Télécharger la vid
+ éo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/n07-
+ parle-a-liy10.mp4\n📱 Story vers 20:00 : partage la publication en story
+  (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « Pas envi
+ e de taper ? Parle à Liy10 🎤 Regarde 👆 »\n\n— Légende Instagr
+ am (à copier) —\nNe tape plus. Parle-lui. 🎤\n\nTouche le micro et po
+ se ta question à voix haute : le texte s’écrit dans la case pendant q
+ ue tu parles. Tu relis\, tu corriges\, tu envoies.\n\nRien n’est enregis
+ tré : seul le texte reconnu arrive dans la case.\n\nExemple : « Comm
+ ent je fige la première ligne ? » Liy10 répond avec son petit écra
+ n Excel.\n\n👉 Lien en bio : parle à Liy10.\n\n🎵 Plus d’astuces s
+ ur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#Li
+ y10 #AssistantIA #Excel #Bureautique #ApprendreExcel\n\n— Légende Faceb
+ ook (à copier) —\nNe tape plus. Parle-lui. 🎤\n\nTouche le micro et p
+ ose ta question à voix haute : le texte s’écrit dans la case pendant 
+ que tu parles. Tu relis\, tu corriges\, tu envoies.\n\nRien n’est enregi
+ stré : seul le texte reconnu arrive dans la case.\n\nExemple : « Com
+ ment je fige la première ligne ? » Liy10 répond avec son petit écr
+ an Excel.\n\n👉 Parle à Liy10 : https://www.liy10learning.com\n\n🎵 
+ Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et In
+ stagram (https://www.instagram.com/liy10.learning)\n\n#Liy10 #Excel\n\n━
+ ━ TIKTOK ━━\nVidéo : Il cherche. Il vérifie. Il te montre ses sour
+ ces. (dossier « n03-liy10-cherche » du zip)\n⬇ Télécharger la vidéo
+  : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/n03-liy
+ 10-cherche.mp4\n\n— Légende TikTok (à copier) —\nIl cherche. Il vér
+ ifie. Il te montre ses sources. 🔎\nTu poses ta question à Liy10 : il
+  cherche dans tes leçons LIY10 (même sans réseau) et sur Internet.\n\nS
+ a réponse arrive avec ses sources : chaque phrase a la sienne. Pour les
+  calculs simples\, il vérifie lui-même le résultat. Pas de « fais-mo
+ i confiance » : tu vois d’où vient la réponse.\n\nTu vérifies le
+ s réponses d’une IA\, toi ? 👇\n\n📲 Aussi sur Instagram et Faceb
+ ook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#assis
+ tantia #excel #bureautique #apprendresurtiktok #liy10\n\n\n📄 Tout le pr
+ ogramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/
+ programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://git
+ hub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Ne tape plus. Parle-lui. | TikTok : Il cher
+ che. Il vérifie. Il te montre ses sources.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-24-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261024T090000Z
+DTEND:20261024T091500Z
+SUMMARY:🎗️ Octobre Rose · Les hommes aussi (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Idée reçue : les hommes ne sont pas concernés
+ \nPublie l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télé
+ charger l’image : https://github.com/jordyadopo-boop/liy10-videos/raw/ma
+ in/images/octobre-rose/octobre-rose-2026-10-24.png\n\n— Légende (à cop
+ ier\, la même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nEt 
+ toi\, l'homme qui lis ce message : une boule ou un changement du mamelon\,
+  ça se montre aussi à un médecin.\n\nCe mois-ci\, LIY10 se met en rose 
+ pour soutenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se
+  soigne mieux. Autopalpation\, mammographie : parles-en à un professionne
+ l de santé\, et partage ce message à une femme qui compte pour toi 💗\
+ n\n#OctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout
+  le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob
+ /main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https
+ ://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.z
+ ip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Les hommes aussi (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-24-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261024T183000Z
+DTEND:20261024T184500Z
+SUMMARY:Bonus · Insta/FB : Il cherche. Il vérifie. Il te montre ses sourc
+ es. | TikTok : Clés illimitées. Énergie illimitée.
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Il cherche. Il vé
+ rifie. Il te montre ses sources. (dossier « n03-liy10-cherche » du zip)\
+ n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-vi
+ deos/raw/main/videos/n03-liy10-cherche.mp4\n📱 Story vers 20:00 : https:
+ //github.com/jordyadopo-boop/liy10-videos/raw/main/stories/n03-liy10-cherc
+ he.mp4\n   Texte de la story : « Liy10 cherche\, vérifie… et te montre
+  ses sources 🔎 Regarde 👆 »\n\n— Légende Instagram (à copier) 
+ —\nIl cherche. Il vérifie. Il te montre ses sources. 🔎\n\nQuand tu p
+ oses une question à Liy10\, il cherche dans tes leçons LIY10 (même sans
+  réseau) et sur Internet.\n\nSa réponse arrive avec ses sources (Microso
+ ft Learn\, Wikipédia…). Et pour les calculs simples\, il vérifie lui-m
+ ême le résultat.\n\nPas de « fais-moi confiance » : tu vois d’o
+ ù vient la réponse.\n\n👉 Lien en bio : demande-lui et regarde ses so
+ urces.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning
+  (abonne-toi partout 👻)\n\n#Liy10 #AssistantIA #Excel #PowerBI #Bureaut
+ ique\n\n— Légende Facebook (à copier) —\nIl cherche. Il vérifie. Il
+  te montre ses sources. 🔎\n\nQuand tu poses une question à Liy10\, il 
+ cherche dans tes leçons LIY10 (même sans réseau) et sur Internet.\n\nSa
+  réponse arrive avec ses sources (Microsoft Learn\, Wikipédia…). Et po
+ ur les calculs simples\, il vérifie lui-même le résultat.\n\nPas de «
+  fais-moi confiance » : tu vois d’où vient la réponse.\n\n👉 D
+ emande-lui et regarde ses sources : https://www.liy10learning.com\n\n🎵
+  Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et I
+ nstagram (https://www.instagram.com/liy10.learning)\n\n#Liy10 #AssistantIA
+ \n\n━━ TIKTOK ━━\nVidéo : Clés illimitées. Énergie illimitée.
+  (dossier « r01-illimite » du zip)\n⬇ Télécharger la vidéo : https:
+ //github.com/jordyadopo-boop/liy10-videos/raw/main/videos/r01-illimite.mp4
+ \n\n— Légende TikTok (à copier) —\nClés illimitées. Énergie illim
+ itée. Bientôt avec LIY10 Pro 🔑\n\nAujourd’hui : 3 clés par jour\
+ , 5 gouttes d’énergie\, et chaque erreur te coûte une goutte. Avec LIY
+ 10 Pro\, tu pourras faire dix leçons dans la journée si tu veux\, et te 
+ tromper ne coûtera plus rien : on se trompe\, on comprend\, on continue
+ .\n\nPro arrive bientôt\, le paiement n’est pas encore ouvert. Le gratu
+ it reste gratuit pour toujours : 3 leçons neuves par jour\, sans compte
+ .\n\nTu as déjà vidé tes 5 gouttes en une seule leçon ? 👇\n\n📲
+  Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n
+ 🌐 liy10learning.com\n\n#liy10pro #excel #bureautique #apprendresurtikto
+ k #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo
+ -boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes le
+ s vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/
+ refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Il cherche. Il vérifie. Il te montre ses s
+ ources. | TikTok : Clés illimitées. Énergie illimitée.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-25-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261025T090000Z
+DTEND:20261025T091500Z
+SUMMARY:🎗️ Octobre Rose · Trop jeune ? Pas forcément. (Insta + Faceb
+ ook)
+DESCRIPTION:Octobre Rose : Idée reçue : « trop jeune pour être concern
+ ée »\nPublie l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ 
+ Télécharger l’image : https://github.com/jordyadopo-boop/liy10-videos/
+ raw/main/images/octobre-rose/octobre-rose-2026-10-25.png\n\n— Légende (
+ à copier\, la même sur Instagram et Facebook) —\nOctobre Rose 🎗️\
+ n\nLe cancer du sein est plus fréquent avec l'âge\, mais à tout âge\, 
+ un changement inhabituel se montre à un professionnel de santé.\n\nCe mo
+ is-ci\, LIY10 se met en rose pour soutenir la lutte contre le cancer du se
+ in.\n\nDétecté tôt\, il se soigne mieux. Autopalpation\, mammographie :
+  parles-en à un professionnel de santé\, et partage ce message à une fe
+ mme qui compte pour toi 💗\n\n#OctobreRose #CancerDuSein #Prevention #LI
+ Y10 #CoteDIvoire\n\n📄 Tout le programme (PDF) : https://github.com/jord
+ yadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Tou
+ tes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/ar
+ chive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Trop jeune ? Pas forcément. (Insta + F
+ acebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-25-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261025T183000Z
+DTEND:20261025T184500Z
+SUMMARY:Bonus · Insta/FB : Ton niveau en 2 minutes | TikTok : Ne tape plus
+ . Parle-lui.
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Ton niveau en 2 mi
+ nutes (dossier « m05-placement » du zip)\n⬇ Télécharger la vidéo : 
+ https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m05-placem
+ ent.mp4\n📱 Story vers 20:00 : partage la publication en story (bouton 
+ ✈ › Ajouter à ta story).\n   Texte de la story : « Quel est ton nive
+ au en Excel ? ⏱️ Teste-le en 2 minutes 👆 »\n\n— Légende Insta
+ gram (à copier) —\nTu connais déjà Excel ? Teste ton niveau en 2 mi
+ nutes ⏱️\n\nLe test de placement pose une question par niveau\, de plu
+ s en plus difficile : 14 questions pour Excel.\n\nUne erreur ne t’arrê
+ te pas. Deux de suite\, oui.\n\nÀ la fin\, il te dit à quel niveau comme
+ ncer : en gratuit\, les premières leçons passent alors très vite \; a
+ vec LIY10 Pro (bientôt)\, ton chemin démarrera directement au bon niveau
+ .\n\n👉 Lien en bio : teste ton niveau.\n\n🎵 Plus d’astuces sur Ti
+ kTok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#Excel #
+ TestExcel #ApprendreExcel #Bureautique #CoteDIvoire\n\n— Légende Facebo
+ ok (à copier) —\nTu connais déjà Excel ? Teste ton niveau en 2 minu
+ tes ⏱️\n\nLe test de placement pose une question par niveau\, de plus 
+ en plus difficile : 14 questions pour Excel.\n\nUne erreur ne t’arrête
+  pas. Deux de suite\, oui.\n\nÀ la fin\, il te dit à quel niveau commenc
+ er : en gratuit\, les premières leçons passent alors très vite \; ave
+ c LIY10 Pro (bientôt)\, ton chemin démarrera directement au bon niveau.\
+ n\n👉 Teste ton niveau : https://www.liy10learning.com\n\n🎵 Abonne-t
+ oi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram 
+ (https://www.instagram.com/liy10.learning)\n\n#Excel #Bureautique\n\n━
+ ━ TIKTOK ━━\nVidéo : Ne tape plus. Parle-lui. (dossier « n07-parle
+ -a-liy10 » du zip)\n⬇ Télécharger la vidéo : https://github.com/jord
+ yadopo-boop/liy10-videos/raw/main/videos/n07-parle-a-liy10.mp4\n\n— Lég
+ ende TikTok (à copier) —\nNe tape plus. Parle-lui. 🎤\nTouche le micr
+ o et pose ta question à voix haute : le texte s’écrit pendant que tu
+  parles\, puis tu relis\, tu corriges\, tu envoies.\n\nExemple : « Co
+ mment je fige la première ligne ? »\, et Liy10 répond avec son peti
+ t écran Excel. Rien n’est enregistré : seul le texte reconnu arrive 
+ dans la case.\n\nTu préfères taper ou parler ? 👇\n\n📲 Aussi sur 
+ Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10lear
+ ning.com\n\n#excel #assistantia #astuceexcel #apprendresurtiktok #liy10\n\
+ n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10
+ -videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (
+ zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/
+ zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Ton niveau en 2 minutes | TikTok : Ne tape 
+ plus. Parle-lui.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-26-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261026T090000Z
+DTEND:20261026T091500Z
+SUMMARY:🎗️ Octobre Rose · Fais examiner tes seins (Insta + Facebook)
+DESCRIPTION:Octobre Rose : L'examen des seins par un professionnel\nPublie 
+ l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l
+ ’image : https://github.com/jordyadopo-boop/liy10-videos/raw/main/images
+ /octobre-rose/octobre-rose-2026-10-26.png\n\n— Légende (à copier\, la 
+ même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nMédecin\, g
+ ynécologue ou sage-femme : pense à demander un examen de tes seins lors 
+ d'une consultation.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la 
+ lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Au
+ topalpation\, mammographie : parles-en à un professionnel de santé\, et 
+ partage ce message à une femme qui compte pour toi 💗\n\n#OctobreRose #
+ CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PD
+ F) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/p
+ rogramme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jor
+ dyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Fais examiner tes seins (Insta + Facebo
+ ok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-26-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261026T183000Z
+DTEND:20261026T184500Z
+SUMMARY:Bonus · Insta/FB : Ne casse pas ta flamme | TikTok : ▶ Exécuter
+  : le résultat monte
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Ne casse pas ta fl
+ amme (dossier « m11-elan » du zip)\n⬇ Télécharger la vidéo : https:
+ //github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m11-elan.mp4\n
+ 📱 Story vers 20:00 : partage la publication en story (bouton ✈ › Aj
+ outer à ta story).\n   Texte de la story : « Combien de jours d’affil
+ ée ? 🔥 Ne casse pas ta flamme 👆 »\n\n— Légende Instagram (à 
+ copier) —\nNe casse pas ta flamme 🔥\n\nL’élan\, c’est le nombre 
+ de jours d’affilée où tu as appris. Un jour manqué\, la série repart
+  à 1.\n\nChaque leçon te rapporte des XP et des pièces\, et tu gardes t
+ a meilleure séquence.\n\nTrois leçons par jour pendant un mois valent mi
+ eux que trente en un dimanche.\n\n👉 Lien en bio : lance ta série.\n\n
+ 🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-t
+ oi partout 👻)\n\n#LIY10 #Motivation #Habitudes #Bureautique #CoteDIvoir
+ e\n\n— Légende Facebook (à copier) —\nNe casse pas ta flamme 🔥\n\
+ nL’élan\, c’est le nombre de jours d’affilée où tu as appris. Un 
+ jour manqué\, la série repart à 1.\n\nChaque leçon te rapporte des XP 
+ et des pièces\, et tu gardes ta meilleure séquence.\n\nTrois leçons par
+  jour pendant un mois valent mieux que trente en un dimanche.\n\n👉 Lanc
+ e ta série : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur 
+ TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.
+ instagram.com/liy10.learning)\n\n#LIY10 #Motivation\n\n━━ TIKTOK ━
+ ━\nVidéo : ▶ Exécuter : le résultat monte (dossier « m03-executer
+  » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-b
+ oop/liy10-videos/raw/main/videos/m03-executer.mp4\n\n— Légende TikTok (
+ à copier) —\nTu ne regardes pas le code. Tu l’exécutes. ▶️\n\nUn
+  code a un trou. Tu choisis ce qui le remplit\, tu touches ▶ Exécuter e
+ t le résultat monte\, comme dans le vrai logiciel.\n\nDans la vidéo\, Fo
+ r i = 1 To ___ doit numéroter A1 à A5. Avec 10\, la boucle va trop loin
+  \; avec 4\, elle s’arrête à A4 \; avec 5\, c’est exact. Même u
+ ne mauvaise option montre son résultat : on comprend en voyant ce qui s
+ ort.\n\nVBA\, DAX\, SQL\, Power Automate\, PySpark\, T-SQL\, KQL : un se
+ ul geste pour les sept.\n\nTu commences par lequel ? 👇\n\n📲 Aussi 
+ sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10
+ learning.com\n\n#vba #excel #sql #apprendresurtiktok #liy10\n\n\n📄 Tout
+  le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob
+ /main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https
+ ://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.z
+ ip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Ne casse pas ta flamme | TikTok : ▶ Exéc
+ uter : le résultat monte
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-27-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261027T090000Z
+DTEND:20261027T091500Z
+SUMMARY:🎗️ Octobre Rose · N'attends pas (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Consulter sans tarder\nPublie l’image sur Inst
+ agram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : https:/
+ /github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose/octo
+ bre-rose-2026-10-27.png\n\n— Légende (à copier\, la même sur Instagra
+ m et Facebook) —\nOctobre Rose 🎗️\n\nEn Afrique subsaharienne\, bea
+ ucoup de femmes sont diagnostiquées à un stade avancé : consulter tôt\
+ , c'est se donner plus de chances.\n\nCe mois-ci\, LIY10 se met en rose po
+ ur soutenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se s
+ oigne mieux. Autopalpation\, mammographie : parles-en à un professionnel 
+ de santé\, et partage ce message à une femme qui compte pour toi 💗\n\
+ n#OctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout l
+ e programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/m
+ ain/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https:/
+ /github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · N'attends pas (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-27-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261027T183000Z
+DTEND:20261027T184500Z
+SUMMARY:Bonus · Insta/FB : Les super-pouvoirs de LIY10 sur ton téléphone
+  | TikTok : Le défi de la semaine
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Les super-pouvoirs
+  de LIY10 sur ton téléphone (dossier « m08-ecran-accueil » du zip)\n
+ ⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-vid
+ eos/raw/main/videos/m08-ecran-accueil.mp4\n📱 Story vers 20:00 : partage
+  la publication en story (bouton ✈ › Ajouter à ta story).\n   Texte d
+ e la story : « Les 8 super-pouvoirs de LIY10 sur ton téléphone 📱 Leq
+ uel tu veux ? 👆 »\n\n— Légende Instagram (à copier) —\nLes 8 s
+ uper-pouvoirs de LIY10 sur ton téléphone 📱\n\n① La bulle de Liy10 p
+ ar-dessus les autres applis · ② l’encoche · ③ le micro · ④ une 
+ leçon jouée dans la bulle · ⑤ les widgets · ⑥ les rappels du soir 
+ · ⑦ les leçons sans Internet · ⑧ Siri sur iPhone (en préparation).
+ \n\nCes pouvoirs arrivent avec l’appli Android\, bientôt sur Google Pla
+ y (Siri et l’Île dynamique : avec l’appli iPhone\, en préparation).
+  En attendant\, tu peux ajouter LIY10 à ton écran d’accueil depuis liy
+ 10learning.com.\n\n👉 Lien en bio : ajoute LIY10 à ton écran d’accu
+ eil.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (
+ abonne-toi partout 👻)\n\n#LIY10 #Android #AppliMobile #Bureautique #Cot
+ eDIvoire\n\n— Légende Facebook (à copier) —\nLes 8 super-pouvoirs de
+  LIY10 sur ton téléphone 📱\n\n① La bulle de Liy10 par-dessus les au
+ tres applis · ② l’encoche · ③ le micro · ④ une leçon jouée da
+ ns la bulle · ⑤ les widgets · ⑥ les rappels du soir · ⑦ les leço
+ ns sans Internet · ⑧ Siri sur iPhone (en préparation).\n\nCes pouvoirs
+  arrivent avec l’appli Android\, bientôt sur Google Play (Siri et l’
+ Île dynamique : avec l’appli iPhone\, en préparation). En attendant\,
+  tu peux ajouter LIY10 à ton écran d’accueil depuis liy10learning.com.
+ \n\n👉 Ajoute LIY10 à ton écran d’accueil : https://www.liy10learni
+ ng.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.
+ learning) et Instagram (https://www.instagram.com/liy10.learning)\n\n#LIY1
+ 0 #AppliMobile\n\n━━ TIKTOK ━━\nVidéo : Le défi de la semaine (d
+ ossier « m09-defi » du zip)\n⬇ Télécharger la vidéo : https://githu
+ b.com/jordyadopo-boop/liy10-videos/raw/main/videos/m09-defi.mp4\n\n— Lé
+ gende TikTok (à copier) —\n47 + 38 = ? Tu as 15 secondes ⏱️\nC’
+ est le défi de la semaine : 10 questions de calcul et de logique.\n\nR
+ éussis-en 6 et tu gagnes 5 clés de plus\, qui ne s’effacent pas à min
+ uit. Une erreur ? Pas grave. Un nouveau défi arrive chaque lundi.\n\nTu
+  as trouvé combien ? Réponds en commentaire 👇\n\n📲 Aussi sur Ins
+ tagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learnin
+ g.com\n\n#defi #logique #calculmental #apprendresurtiktok #liy10\n\n\n📄
+  Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos
+ /blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : 
+ https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-vid
+ eos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Les super-pouvoirs de LIY10 sur ton télép
+ hone | TikTok : Le défi de la semaine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-28-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261028T090000Z
+DTEND:20261028T091500Z
+SUMMARY:🎗️ Octobre Rose · Être là\, tout simplement (Insta + Facebo
+ ok)
+DESCRIPTION:Octobre Rose : Soutenir une proche malade\nPublie l’image sur
+  Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : ht
+ tps://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-rose
+ /octobre-rose-2026-10-28.png\n\n— Légende (à copier\, la même sur Ins
+ tagram et Facebook) —\nOctobre Rose 🎗️\n\nSi une proche est malade\
+ , sois là : un message\, une visite\, une main tenue\, parfois juste du s
+ ilence.\n\nCe mois-ci\, LIY10 se met en rose pour soutenir la lutte contre
+  le cancer du sein.\n\nDétecté tôt\, il se soigne mieux. Autopalpation\
+ , mammographie : parles-en à un professionnel de santé\, et partage ce m
+ essage à une femme qui compte pour toi 💗\n\n#OctobreRose #CancerDuSein
+  #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le programme (PDF) : https:/
+ /github.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy
+ 10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop
+ /liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Être là\, tout simplement (Insta + Fa
+ cebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-28-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261028T183000Z
+DTEND:20261028T184500Z
+SUMMARY:Bonus · Insta/FB : Il te repose ce que tu oublies | TikTok : Ton a
+ ppli\, tes couleurs
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Il te repose ce qu
+ e tu oublies (dossier « m04-revision » du zip)\n⬇ Télécharger la vid
+ éo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/m04-
+ revision.mp4\n📱 Story vers 20:00 : partage la publication en story (bou
+ ton ✈ › Ajouter à ta story).\n   Texte de la story : « Il te repose 
+ ce que tu oublies 🧠 La révision du jour 👆 »\n\n— Légende Instag
+ ram (à copier) —\nIl te repose exactement ce que tu es en train d’oub
+ lier 🧠\n\nLIY10 se souvient de chaque question que tu as vue. Une quest
+ ion réussie revient de plus en plus tard \; une question ratée revient
+  tout de suite.\n\nDans l’onglet Pratique\, tu trouves ta révision du j
+ our : des questions de tous tes logiciels\, sans clé ni énergie à dép
+ enser.\n\nElle entretient ta série et te rapporte des XP.\n\n👉 Lien en
+  bio : teste la révision intelligente.\n\n🎵 Plus d’astuces sur TikT
+ ok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#LIY10 #Re
+ vision #Memoire #Bureautique #CoteDIvoire\n\n— Légende Facebook (à cop
+ ier) —\nIl te repose exactement ce que tu es en train d’oublier 🧠\n
+ \nLIY10 se souvient de chaque question que tu as vue. Une question réussi
+ e revient de plus en plus tard \; une question ratée revient tout de su
+ ite.\n\nDans l’onglet Pratique\, tu trouves ta révision du jour : des 
+ questions de tous tes logiciels\, sans clé ni énergie à dépenser.\n\nE
+ lle entretient ta série et te rapporte des XP.\n\n👉 Teste la révision
+  intelligente : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi su
+ r TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://ww
+ w.instagram.com/liy10.learning)\n\n#LIY10 #Revision\n\n━━ TIKTOK ━
+ ━\nVidéo : Ton appli\, tes couleurs (dossier « n04-tes-couleurs » du 
+ zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy
+ 10-videos/raw/main/videos/n04-tes-couleurs.mp4\n\n— Légende TikTok (à 
+ copier) —\nTon appli\, tes couleurs. Et ton fantôme aussi 🎨\nThème 
+ clair\, sombre ou automatique\, et un effet verre translucide.\n\nLiy10 pr
+ end ta couleur : blanc\, bleu\, vert\, rose\, violet\, or\, translucide 
+ ou transparent. À chaque changement\, il fait un petit bond de joie. Tu r
+ ègles tout dans le panneau Apparence\, et ça vaut pour le site comme pou
+ r l’appli.\n\nTu le mets en quelle couleur ? 👇\n\n📲 Aussi sur In
+ stagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learni
+ ng.com\n\n#personnalisation #applimobile #bureautique #apprendresurtiktok 
+ #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-b
+ oop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les 
+ vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/re
+ fs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : Il te repose ce que tu oublies | TikTok : T
+ on appli\, tes couleurs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-29-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261029T090000Z
+DTEND:20261029T091500Z
+SUMMARY:🎗️ Octobre Rose · Jusqu'au bout (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Aller au bout du traitement\nPublie l’image su
+ r Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger l’image : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/raw/main/images/octobre-ros
+ e/octobre-rose-2026-10-29.png\n\n— Légende (à copier\, la même sur In
+ stagram et Facebook) —\nOctobre Rose 🎗️\n\nSi une proche est en tra
+ itement\, encourage-la à le suivre jusqu'au bout et à poser ses question
+ s à son équipe soignante.\n\nCe mois-ci\, LIY10 se met en rose pour sout
+ enir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se soigne m
+ ieux. Autopalpation\, mammographie : parles-en à un professionnel de sant
+ é\, et partage ce message à une femme qui compte pour toi 💗\n\n#Octob
+ reRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout le progr
+ amme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/pro
+ gramme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github
+ .com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Jusqu'au bout (Insta + Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-29-1830@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261029T183000Z
+DTEND:20261029T184500Z
+SUMMARY:Bonus · Insta/FB : La nouvelle version de LIY10 | TikTok : Monte d
+ ans le classement
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : La nouvelle versio
+ n de LIY10 (dossier « p00-presentation » du zip)\n⬇ Télécharger la v
+ idéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/p0
+ 0-presentation.mp4\n📱 Story vers 20:00 : partage la publication en stor
+ y (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « La nouv
+ elle version de LIY10 est là 👻 Regarde tout ce qui change 👆 »\n\n
+ — Légende Instagram (à copier) —\nLIY10 fait peau neuve. Regarde tou
+ t ce qui change 👻\n\nLiy10\, ton assistant IA\, répond à tes question
+ s sur 8 logiciels en moins de 10 secondes.\n\nParle-lui\, il cherche dans 
+ tes leçons et sur Internet\, et il te montre ses sources.\n\nTon style\, 
+ ta couleur de fantôme\, ta progression sur tous tes appareils : tout cha
+ nge.\n\nGratuit : 3 leçons par jour\, pour toujours. LIY10 Pro arrive bi
+ entôt.\n\n👉 Lien en bio pour commencer gratuitement.\n\n🎵 Plus d’
+ astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 
+ 👻)\n\n#LIY10 #Excel #Bureautique #AssistantIA #CoteDIvoire\n\n— Lége
+ nde Facebook (à copier) —\nLIY10 fait peau neuve. Regarde tout ce qui c
+ hange 👻\n\nLiy10\, ton assistant IA\, répond à tes questions sur 8 lo
+ giciels en moins de 10 secondes.\n\nParle-lui\, il cherche dans tes leçon
+ s et sur Internet\, et il te montre ses sources.\n\nTon style\, ta couleur
+  de fantôme\, ta progression sur tous tes appareils : tout change.\n\nGr
+ atuit : 3 leçons par jour\, pour toujours. LIY10 Pro arrive bientôt.\n\
+ n👉 Pour commencer gratuitement : https://www.liy10learning.com\n\n🎵
+  Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et I
+ nstagram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Bureautique
+ \n\n━━ TIKTOK ━━\nVidéo : Monte dans le classement (dossier « m1
+ 0-classement » du zip)\n⬇ Télécharger la vidéo : https://github.com/
+ jordyadopo-boop/liy10-videos/raw/main/videos/m10-classement.mp4\n\n— Lé
+ gende TikTok (à copier) —\nQui sera premier cette semaine ? 🏆\nMê
+ me sans compte\, tu as ton pseudo animal\, comme « Pieuvre Turbo 87 
+ ».\n\nChaque leçon finie te rapporte des XP\, avec 10 XP de bonus sans a
+ ucune faute. Tu passes de Bronze à Argent\, puis Or\, Saphir\, jusqu’à
+  Légende. Zéro triche : c’est le serveur qui compte les XP.\n\nLe cl
+ assement repart chaque lundi. Identifie l’ami que tu vas dépasser 👇\
+ n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learnin
+ g)\n🌐 liy10learning.com\n\n#classement #defi #bureautique #apprendresur
+ tiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordy
+ adopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Tout
+ es les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/arc
+ hive/refs/heads/zip-videos.zip
+CATEGORIES:Bonus
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Bonus · Insta/FB : La nouvelle version de LIY10 | TikTok : Mon
+ te dans le classement
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-30-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261030T090000Z
+DTEND:20261030T091500Z
+SUMMARY:🎗️ Octobre Rose · Méfie-toi des « miracles » (Insta + Face
+ book)
+DESCRIPTION:Octobre Rose : Se méfier des traitements « miracles »\nPubli
+ e l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger
+  l’image : https://github.com/jordyadopo-boop/liy10-videos/raw/main/imag
+ es/octobre-rose/octobre-rose-2026-10-30.png\n\n— Légende (à copier\, l
+ a même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nMéfie-toi
+  de qui promet une guérison miracle ou conseille d'arrêter les traitemen
+ ts : demande toujours l'avis de l'équipe médicale.\n\nCe mois-ci\, LIY10
+  se met en rose pour soutenir la lutte contre le cancer du sein.\n\nDétec
+ té tôt\, il se soigne mieux. Autopalpation\, mammographie : parles-en à
+  un professionnel de santé\, et partage ce message à une femme qui compt
+ e pour toi 💗\n\n#OctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvo
+ ire\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/l
+ iy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidé
+ os (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/he
+ ads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Méfie-toi des « miracles » (Insta + 
+ Facebook)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-31-0900@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261031T090000Z
+DTEND:20261031T091500Z
+SUMMARY:🎗️ Octobre Rose · Toute l'année (Insta + Facebook)
+DESCRIPTION:Octobre Rose : Toute l'année (clôture d'Octobre Rose)\nPublie
+  l’image sur Instagram et Facebook (pas sur TikTok).\n⬇ Télécharger 
+ l’image : https://github.com/jordyadopo-boop/liy10-videos/raw/main/image
+ s/octobre-rose/octobre-rose-2026-10-31.png\n\n— Légende (à copier\, la
+  même sur Instagram et Facebook) —\nOctobre Rose 🎗️\n\nOctobre Ros
+ e se termine : merci de l'avoir vécu avec nous. Garde ces réflexes toute
+  l'année et continue de partager.\n\nCe mois-ci\, LIY10 se met en rose po
+ ur soutenir la lutte contre le cancer du sein.\n\nDétecté tôt\, il se s
+ oigne mieux. Autopalpation\, mammographie : parles-en à un professionnel 
+ de santé\, et partage ce message à une femme qui compte pour toi 💗\n\
+ n#OctobreRose #CancerDuSein #Prevention #LIY10 #CoteDIvoire\n\n📄 Tout l
+ e programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/m
+ ain/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https:/
+ /github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Octobre Rose
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:🎗️ Octobre Rose · Toute l'année (Insta + Facebook)
+END:VALARM
+END:VEVENT
+END:VCALENDAR

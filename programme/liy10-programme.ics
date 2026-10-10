@@ -1,0 +1,2347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LIY10 Learning//Programme des publications//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LIY10 · Programme
+X-WR-CALDESC:Les publications LIY10 Learning : 10:00 astuce\, 13:00 leçon\
+ , 16:00 nouveau niveau (heure d’Abidjan).
+X-WR-TIMEZONE:Africa/Abidjan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:liy10-2026-10-10-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261010T100000Z
+DTEND:20261010T101500Z
+SUMMARY:✅ Auto · Astuce · Insta/FB : Demande-lui. Il t’y emmène. | T
+ ikTok : Comment marche RECHERCHEX ?
+DESCRIPTION:✅ AUTOMATIQUE : Metricool publie déjà ces vidéos à 10:00.
+  Toi\, vérifie seulement qu’elles sont en ligne\, puis fais la story.\n
+ \n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Demande-lui. Il t’y emmè
+ ne. (dossier « a06-emmene-moi » du zip)\n⬇ Télécharger la vidéo : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/a06-emmene-
+ moi.mp4\n📱 Story vers 10:30 : https://github.com/jordyadopo-boop/liy10-
+ videos/raw/main/stories-images/a06-emmene-moi.jpg\n   Texte de la story : 
+ « Demande-lui. Il t’y emmène 🧭 Regarde 👆 »\n\n— Légende Inst
+ agram (à copier) —\n« Quelle certification pour Power BI ? » De
+ mande à Liy10 🎓\n\nLiy10 répond tout de suite : PL-300\, niveau inte
+ rmédiaire\, avec un entraînement officiel gratuit sur Microsoft Learn\, 
+ et des touches pour t’y emmener (🎓 la certification dans le parcours 
+ Power BI · 🎯 le test de placement · 🧠 m’entraîner).\n\nDemande-
+ lui « Emmène-moi au classement » : il te répond « Je t’y emm
+ ène 👇 »\, avec une touche « 🏆 Le classement » qui t’ouvr
+ e l’écran.\n\nIl te fait naviguer partout dans l’appli.\n\n👉 Lien 
+ en bio : demande-lui où tu veux aller.\n\n🎵 Plus d’astuces sur TikT
+ ok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#PowerBI #
+ PL300 #Certification #Liy10 #CoteDIvoire\n\n— Légende Facebook (à copi
+ er) —\n« Quelle certification pour Power BI ? » Demande à Liy10
+  🎓\n\nLiy10 répond tout de suite : PL-300\, niveau intermédiaire\, a
+ vec un entraînement officiel gratuit sur Microsoft Learn\, et des touches
+  pour t’y emmener (🎓 la certification dans le parcours Power BI · 
+ 🎯 le test de placement · 🧠 m’entraîner).\n\nDemande-lui « Emm
+ ène-moi au classement » : il te répond « Je t’y emmène 👇 
+ »\, avec une touche « 🏆 Le classement » qui t’ouvre l’écran
+ .\n\nIl te fait naviguer partout dans l’appli.\n\n👉 Demande-lui où t
+ u veux aller : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur
+  TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www
+ .instagram.com/liy10.learning)\n\n#PowerBI #Liy10\n\n━━ TIKTOK ━━\
+ nVidéo : Comment marche RECHERCHEX ? (dossier « a01-recherchex » du z
+ ip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy1
+ 0-videos/raw/main/videos/a01-recherchex.mp4\n\n— Légende TikTok (à cop
+ ier) —\nComment marche RECHERCHEX ? La réponse en 30 secondes\nLa for
+ mule de la vidéo : =RECHERCHEX(F2\;A2:A9\;C2:C9).\n\nTrois arguments ob
+ ligatoires : ce que tu cherches\, où tu le cherches\, ce que tu rapport
+ es. Change le nom dans la cellule : le prix suit tout seul. Si le produi
+ t n’existe pas\, Excel affiche l’erreur N/A : un 4e argument te perm
+ et d’écrire « Non trouvé » à la place.\n\nTu utilises encore RE
+ CHERCHEV ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learni
+ ng (@liy10.learning)\n🌐 liy10learning.com\n\n#excel #astuceexcel #reche
+ rchex #apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https
+ ://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-l
+ iy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-bo
+ op/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:✅ Auto · Astuce · Insta/FB : Demande-lui. Il t’y emmène.
+  | TikTok : Comment marche RECHERCHEX ?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-10-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261010T130000Z
+DTEND:20261010T131500Z
+SUMMARY:✅ Auto · ★ Leçon · Insta/FB : SQL Server niveau 1 | TikTok :
+  Access niveau 1
+DESCRIPTION:✅ AUTOMATIQUE : Metricool publie déjà ces vidéos à 13:00.
+  Toi\, vérifie seulement qu’elles sont en ligne\, puis fais la story.\n
+ \n★ Priorité du jour : si tu ne publies qu’une fois aujourd’hui\, p
+ ublie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : SQL Server
+  · Niveau 1 · À quoi sert SQL Server (dossier « sq01-a-quoi-sert » du
+  zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/li
+ y10-videos/raw/main/videos/sq01-a-quoi-sert.mp4\n🖼 Couverture : https:/
+ /github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/sq01-a-quoi-
+ sert.jpg\n📱 Story vers 14:00 : https://github.com/jordyadopo-boop/liy10
+ -videos/raw/main/stories-images/sq01-a-quoi-sert.jpg\n   Texte de la story
+  : « SQL Server\, niveau 1 : à quoi il sert 👆 »\n\n— Légende In
+ stagram (à copier) —\nTon classeur Excel rame ? 🐢\n\nSQL Server\, 
+ niveau 1 : à quoi il sert.\n\nHuit raisons d’avoir une vraie base :
+  une seule vérité\, tout le monde en même temps\, des types stricts\, u
+ ne clé par ligne\, des tables qui se parlent\, tu demandes au lieu de che
+ rcher\, des droits\, des sauvegardes.\n\nLe piège : croire qu’il faut
+  choisir. SQL Server garde\, Excel montre.\n\n👉 Lien en bio : commenc
+ e gratuitement.\n🎵 Tous nos niveaux sur TikTok : @liy10.learning · a
+ ussi sur Facebook (LIY10 Learning)\n\n#SQL #SQLServer #Data #LIY10 #CoteDI
+ voire\n\n— Légende Facebook (à copier) —\nTon classeur Excel rame 
+ ? 🐢\n\nSQL Server\, niveau 1 : à quoi il sert.\n\nHuit raisons d’a
+ voir une vraie base : une seule vérité\, tout le monde en même temps\
+ , des types stricts\, une clé par ligne\, des tables qui se parlent\, tu 
+ demandes au lieu de chercher\, des droits\, des sauvegardes.\n\nLe piège
+  : croire qu’il faut choisir. SQL Server garde\, Excel montre.\n\n👉
+  Commence gratuitement : https://www.liy10learning.com\n🎵 Tous nos ni
+ veaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Ins
+ tagram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Bureautique\n
+ \n━━ TIKTOK ━━\nVidéo : Access · Niveau 1 · À quoi sert Access
+  (dossier « ac01-a-quoi-sert » du zip)\n⬇ Télécharger la vidéo : ht
+ tps://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/ac01-a-quoi-
+ sert.mp4\n🖼 Couverture : https://github.com/jordyadopo-boop/liy10-video
+ s/raw/main/couvertures/ac01-a-quoi-sert.jpg\n\n— Légende TikTok (à cop
+ ier) —\nTon fichier recopie le même client sur 300 lignes ? 👀\nAcc
+ ess\, niveau 1 : à quoi il sert.\n\nDes tables\, chacune sa clé primai
+ re\, et le client s’écrit une seule fois. Tu poses une question\, la ba
+ se répond. Un formulaire pour saisir sans erreur\, un état pour imprimer
+  proprement.\n\nLe ruban d’Access\, tu connais ? C’est le niveau 2
+  : abonne-toi pour ne pas le rater 🔔\n\n📲 Aussi sur Instagram et F
+ acebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#a
+ ccess #basededonnees #bureautique #apprendresurtiktok #liy10\n\n\n📄 Tou
+ t le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blo
+ b/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : http
+ s://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.
+ zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:✅ Auto · ★ Leçon · Insta/FB : SQL Server niveau 1 | TikT
+ ok : Access niveau 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-11-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261011T100000Z
+DTEND:20261011T101500Z
+SUMMARY:✅ Auto · Astuce · Insta/FB : Le dollar qui bloque | TikTok : NU
+ LL\, le piège permanent
+DESCRIPTION:✅ AUTOMATIQUE : Metricool publie déjà ces vidéos à 10:00.
+  Toi\, vérifie seulement qu’elles sont en ligne\, puis fais la story.\n
+ \n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Le dollar qui bloque (dossi
+ er « t02-dollar » du zip)\n⬇ Télécharger la vidéo : https://github.
+ com/jordyadopo-boop/liy10-videos/raw/main/videos/t02-dollar.mp4\n📱 Stor
+ y vers 10:30 : https://github.com/jordyadopo-boop/liy10-videos/raw/main/st
+ ories-images/t02-dollar.jpg\n   Texte de la story : « Le dollar qui bloqu
+ e ta référence Excel 💲 La touche F4 à connaître 👆 »\n\n— Lég
+ ende Instagram (à copier) —\nTu fais sûrement cette erreur dans Excel
+  : la recopie qui casse tout\n\nTu écris =B3*C1 et tu recopies vers le b
+ as : C1 devient C2\, C3\, C4… et les erreurs tombent en cascade.\n\nLa 
+ solution : bloquer la ligne avec C$1. Dans la formule\, place le curseur 
+ sur C1 et appuie deux fois sur F4 : le dollar s’ajoute tout seul.\n\nR
+ ésultat : tous les prix TTC se recalculent avec le même coefficient (1\
+ ,18 pour une TVA de 18 %).\n\n👉 Lien en bio : apprends le piège avan
+ t qu’il te coûte des heures.\n\n🎵 Plus d’astuces sur TikTok et Fac
+ ebook : @liy10.learning (abonne-toi partout 👻)\n\n#Excel #AstuceExcel
+  #ApprendreExcel #Bureautique #CoteDIvoire\n\n— Légende Facebook (à co
+ pier) —\nTu fais sûrement cette erreur dans Excel : la recopie qui cas
+ se tout\n\nTu écris =B3*C1 et tu recopies vers le bas : C1 devient C2\, 
+ C3\, C4… et les erreurs tombent en cascade.\n\nLa solution : bloquer la
+  ligne avec C$1. Dans la formule\, place le curseur sur C1 et appuie deux 
+ fois sur F4 : le dollar s’ajoute tout seul.\n\nRésultat : tous les pr
+ ix TTC se recalculent avec le même coefficient (1\,18 pour une TVA de 18
+  %).\n\n👉 Apprends le piège avant qu’il te coûte des heures : htt
+ ps://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://ww
+ w.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy1
+ 0.learning)\n\n#Excel #AstuceExcel\n\n━━ TIKTOK ━━\nVidéo : NULL\
+ , le piège permanent (dossier « t07-null » du zip)\n⬇ Télécharger l
+ a vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos
+ /t07-null.mp4\n\n— Légende TikTok (à copier) —\nTa requête SQL oubl
+ ie 2 lignes. Sans aucune erreur. 😬\nSQL Server : NULL\, le piège per
+ manent.\n\nWHERE Prime <> 100 devrait rendre 4 lignes sur 6. Tu n’en obt
+ iens que 2. Les lignes dont la prime est NULL disparaissent sans un messag
+ e : NULL <> 100 n’est ni vrai ni faux\, c’est inconnu\, et WHERE ne 
+ garde que le vrai.\n\nLa solution : OR Prime IS NULL\, ou COALESCE(Prime
+ \, 0) pour remplir les trous.\n\nÇa t’est déjà arrivé ? 👇\n\n
+ 📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\
+ n🌐 liy10learning.com\n\n#sql #sqlserver #data #apprendresurtiktok #liy1
+ 0\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/l
+ iy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidé
+ os (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/he
+ ads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:✅ Auto · Astuce · Insta/FB : Le dollar qui bloque | TikTok 
+ : NULL\, le piège permanent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-11-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261011T130000Z
+DTEND:20261011T131500Z
+SUMMARY:✅ Auto · ★ Leçon · Insta/FB : Access niveau 1 | TikTok : Pow
+ er Automate niveau 1
+DESCRIPTION:✅ AUTOMATIQUE : Metricool publie déjà ces vidéos à 13:00.
+  Toi\, vérifie seulement qu’elles sont en ligne\, puis fais la story.\n
+ \n★ Priorité du jour : si tu ne publies qu’une fois aujourd’hui\, p
+ ublie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Access · 
+ Niveau 1 · À quoi sert Access (dossier « ac01-a-quoi-sert » du zip)\n
+ ⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-vid
+ eos/raw/main/videos/ac01-a-quoi-sert.mp4\n🖼 Couverture : https://github
+ .com/jordyadopo-boop/liy10-videos/raw/main/couvertures/ac01-a-quoi-sert.jp
+ g\n📱 Story vers 14:00 : https://github.com/jordyadopo-boop/liy10-videos
+ /raw/main/stories-images/ac01-a-quoi-sert.jpg\n   Texte de la story : « A
+ ccess\, niveau 1 : à quoi il sert\, en 45 secondes 👆 »\n\n— Lége
+ nde Instagram (à copier) —\nTon fichier recopie le même client sur 300
+  lignes ? 👀\n\nAccess\, niveau 1 : à quoi sert Access.\n\nDes tabl
+ es\, chacune sa clé primaire\, et le client s’écrit une seule fois. Tu
+  poses une question\, la base répond. Un formulaire pour saisir sans erre
+ ur\, un état pour imprimer proprement.\n\nEt quand ça devient trop gros
+  ? Au-delà de 2 Go\, place à SQL Server.\n\n👉 Lien en bio : comme
+ nce gratuitement.\n🎵 Tous nos niveaux sur TikTok : @liy10.learning ·
+  aussi sur Facebook (LIY10 Learning)\n\n#Access #BaseDeDonnees #Bureautiqu
+ e #LIY10 #CoteDIvoire\n\n— Légende Facebook (à copier) —\nTon fichie
+ r recopie le même client sur 300 lignes ? 👀\n\nAccess\, niveau 1 :
+  à quoi sert Access.\n\nDes tables\, chacune sa clé primaire\, et le cli
+ ent s’écrit une seule fois. Tu poses une question\, la base répond. Un
+  formulaire pour saisir sans erreur\, un état pour imprimer proprement.\n
+ \nEt quand ça devient trop gros ? Au-delà de 2 Go\, place à SQL Serve
+ r.\n\n👉 Commence gratuitement : https://www.liy10learning.com\n🎵 T
+ ous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aus
+ si sur Instagram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Bur
+ eautique\n\n━━ TIKTOK ━━\nVidéo : Power Automate · Niveau 1 · 
+ À quoi sert Power Automate (dossier « pa01-a-quoi-sert » du zip)\n⬇ T
+ élécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/r
+ aw/main/videos/pa01-a-quoi-sert.mp4\n🖼 Couverture : https://github.com/
+ jordyadopo-boop/liy10-videos/raw/main/couvertures/pa01-a-quoi-sert.jpg\n\n
+ — Légende TikTok (à copier) —\nTu ranges encore tes pièces jointes 
+ à la main ? 📎\nPower Automate\, niveau 1 : à quoi il sert.\n\nQua
+ nd un e-mail arrive\, alors il range la facture\, puis il prévient l’é
+ quipe. Dans le cloud\, même ton PC éteint.\n\nLe piège : il fait exac
+ tement ce que tu lui dis\, mille fois. Teste toujours sur ta propre boîte
+  d’abord.\n\nL’écran de Power Automate\, tu sais t’y retrouver ? 
+ C’est le niveau 2 : abonne-toi 🔔\n\n📲 Aussi sur Instagram et Fac
+ ebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#pow
+ erautomate #automatisation #bureautique #apprendresurtiktok #liy10\n\n\n
+ 📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-vi
+ deos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip
+ ) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip
+ -videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:✅ Auto · ★ Leçon · Insta/FB : Access niveau 1 | TikTok :
+  Power Automate niveau 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-12-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261012T100000Z
+DTEND:20261012T101500Z
+SUMMARY:Astuce · Figer la première ligne dans Excel (Insta\, Facebook\, T
+ ikTok)
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Figer la première
+  ligne dans Excel (dossier « a02-figer-ligne » du zip)\n⬇ Télécharge
+ r la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vid
+ eos/a02-figer-ligne.mp4\n📱 Story vers 10:30 : https://github.com/jordya
+ dopo-boop/liy10-videos/raw/main/stories-images/a02-figer-ligne.jpg\n   Tex
+ te de la story : « Figer la première ligne dans Excel : 10 secondes 
+ 🧊 Regarde 👆 »\n\n— Légende Instagram (à copier) —\nTu descend
+ s dans ton tableau Excel et tu perds les titres ?\n\nLa solution : Affi
+ chage › Figer les volets › Figer la ligne supérieure. Tu peux défile
+ r jusqu’à la ligne 2 000\, les titres restent là.\n\nAstuce : le m
+ ême menu permet de figer la première colonne.\n\nLiy10 te montre le chem
+ in dans un petit écran Excel.\n\n👉 Lien en bio : pose ta question à 
+ Liy10.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning
+  (abonne-toi partout 👻)\n\n#Excel #AstuceExcel #ApprendreExcel #Bureaut
+ ique #CoteDIvoire\n\n— Légende Facebook (à copier) —\nTu descends da
+ ns ton tableau Excel et tu perds les titres ?\n\nLa solution : Affichag
+ e › Figer les volets › Figer la ligne supérieure. Tu peux défiler ju
+ squ’à la ligne 2 000\, les titres restent là.\n\nAstuce : le même 
+ menu permet de figer la première colonne.\n\nLiy10 te montre le chemin da
+ ns un petit écran Excel.\n\n👉 Pose ta question à Liy10 : https://www
+ .liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok
+ .com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learni
+ ng)\n\n#Excel #AstuceExcel\n\n━━ TIKTOK ━━\nVidéo : Figer la prem
+ ière ligne dans Excel (dossier « a02-figer-ligne » du zip)\n⬇ Téléc
+ harger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/mai
+ n/videos/a02-figer-ligne.mp4\n\n— Légende TikTok (à copier) —\nTu de
+ scends dans ton tableau Excel et tu perds les titres ? 🧊\nLa solution
+  : Affichage › Figer les volets › Figer la ligne supérieure.\n\nTu 
+ peux défiler jusqu’à la ligne 2 000\, les titres restent là.\n\nAst
+ uce : le même menu fige aussi la première colonne.\n\nTu connaissais
+  ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy
+ 10.learning)\n🌐 liy10learning.com\n\n#excel #astuceexcel #bureautique #
+ apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://gith
+ ub.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pd
+ f\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy1
+ 0-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Figer la première ligne dans Excel (Insta\, Facebook
+ \, TikTok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-12-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261012T130000Z
+DTEND:20261012T131500Z
+SUMMARY:★ Leçon · Insta/FB : Power Automate niveau 1 | TikTok : Fabric 
+ niveau 1
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Power Automate · Niveau 1 · À quoi sert Power Automate (dossier « pa01
+ -a-quoi-sert » du zip)\n⬇ Télécharger la vidéo : https://github.com/
+ jordyadopo-boop/liy10-videos/raw/main/videos/pa01-a-quoi-sert.mp4\n🖼 Co
+ uverture : https://github.com/jordyadopo-boop/liy10-videos/raw/main/couver
+ tures/pa01-a-quoi-sert.jpg\n📱 Story vers 14:00 : https://github.com/jor
+ dyadopo-boop/liy10-videos/raw/main/stories-images/pa01-a-quoi-sert.jpg\n  
+  Texte de la story : « Power Automate\, niveau 1 : fini les corvées du
+  lundi 👆 »\n\n— Légende Instagram (à copier) —\nTu ranges encore
+  tes pièces jointes à la main ? 📎\n\nPower Automate\, niveau 1.\n\n
+ Quand un e-mail arrive\, alors il range la facture\, puis il prévient l
+ ’équipe. Dans le cloud\, même ton PC éteint.\n\nLe piège : il fait
+  exactement ce que tu lui dis\, mille fois. Teste toujours sur ta propre b
+ oîte d’abord.\n\n👉 Lien en bio : commence gratuitement.\n🎵 Tous
+  nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 L
+ earning)\n\n#PowerAutomate #Automatisation #Bureautique #LIY10 #CoteDIvoir
+ e\n\n— Légende Facebook (à copier) —\nTu ranges encore tes pièces j
+ ointes à la main ? 📎\n\nPower Automate\, niveau 1.\n\nQuand un e-mai
+ l arrive\, alors il range la facture\, puis il prévient l’équipe. Dans
+  le cloud\, même ton PC éteint.\n\nLe piège : il fait exactement ce q
+ ue tu lui dis\, mille fois. Teste toujours sur ta propre boîte d’abord.
+ \n\n👉 Commence gratuitement : https://www.liy10learning.com\n🎵 Tou
+ s nos niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi
+  sur Instagram (https://www.instagram.com/liy10.learning)\n\n#LIY10 #Burea
+ utique\n\n━━ TIKTOK ━━\nVidéo : Microsoft Fabric · Niveau 1 · 
+ À quoi sert Fabric (dossier « fa01-a-quoi-sert » du zip)\n⬇ Télécha
+ rger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/
+ videos/fa01-a-quoi-sert.mp4\n🖼 Couverture : https://github.com/jordyado
+ po-boop/liy10-videos/raw/main/couvertures/fa01-a-quoi-sert.jpg\n\n— Lég
+ ende TikTok (à copier) —\nTes chiffres sont dans cinq endroits différe
+ nts ? 🧩\nMicrosoft Fabric\, niveau 1 : un seul endroit pour tout\, 
+ de la source au rapport Power BI.\n\nLe piège : Fabric n’est pas obli
+ gatoire. Un rapport Power BI sur un fichier Excel n’en a pas besoin. Fab
+ ric sert quand les données sont grosses\, viennent de partout\, ou serven
+ t à plusieurs équipes.\n\nL’écran de Fabric\, tu sais t’y retrouver
+  ? C’est le niveau 2 : abonne-toi 🔔\n\n📲 Aussi sur Instagram e
+ t Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\
+ n#microsoftfabric #powerbi #data #apprendresurtiktok #liy10\n\n\n📄 Tout
+  le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob
+ /main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https
+ ://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.z
+ ip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Power Automate niveau 1 | TikTok : Fab
+ ric niveau 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-12-1600@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261012T160000Z
+DTEND:20261012T161500Z
+SUMMARY:★ Nouveau niveau · Power Automate niveau 2 (Insta\, Facebook\, T
+ ikTok)
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Power Automate · Niveau 2 · L’écran de Power Automate\, zone par zone
+  (dossier « pa02-ecran » du zip)\n⬇ Télécharger la vidéo : https://
+ github.com/jordyadopo-boop/liy10-videos/raw/main/videos/pa02-ecran.mp4\n
+ 🖼 Couverture : https://github.com/jordyadopo-boop/liy10-videos/raw/main
+ /couvertures/pa02-ecran.jpg\n📱 Story vers 16:30 : https://github.com/jo
+ rdyadopo-boop/liy10-videos/raw/main/stories/pa02-ecran.mp4\n   Texte de la
+  story : « Power Automate\, niveau 2 : l’écran\, zone par zone 👆 »
+ \n\n— Légende Instagram (à copier) —\nPower Automate : par où comme
+ ncer ? 🧭\n\nPower Automate\, niveau 2 : l’écran\, zone par zone.\n\n
+ Pas de ruban\, quatre zones : le menu de gauche (Créer\, Mes flux)\, l’
+ environnement en haut à droite (chaque flux vit dans un environnement)\, 
+ le concepteur (une pile de cartes : le déclencheur\, puis les actions \; 
+ le « + » insère une étape) et les paramètres (l’éclair pour le con
+ tenu dynamique\, fx pour une expression). En haut : Enregistrer\, puis Tes
+ ter.\n\nLe piège : enregistrer n’est pas tester. Un flux à moitié fin
+ i\, enregistré et activé\, tourne déjà. Désactive-le dans Mes flux.\n
+ \n👉 Lien en bio : commence gratuitement.\n🎵 Tous nos niveaux sur Tik
+ Tok : @liy10.learning · aussi sur Facebook (LIY10 Learning)\n\nCaptures :
+  Microsoft Learn (CC BY 4.0)\n\n#PowerAutomate #Automatisation #Bureautiqu
+ e #LIY10 #CoteDIvoire\n\n— Légende Facebook (à copier) —\nPower Auto
+ mate : par où commencer ? 🧭\n\nPower Automate\, niveau 2 : l’écran\
+ , zone par zone.\n\nPas de ruban\, quatre zones : le menu de gauche (Crée
+ r\, Mes flux)\, l’environnement en haut à droite (chaque flux vit dans 
+ un environnement)\, le concepteur (une pile de cartes : le déclencheur\, 
+ puis les actions \; le « + » insère une étape) et les paramètres (l
+ ’éclair pour le contenu dynamique\, fx pour une expression). En haut : 
+ Enregistrer\, puis Tester.\n\nLe piège : enregistrer n’est pas tester. 
+ Un flux à moitié fini\, enregistré et activé\, tourne déjà. Désacti
+ ve-le dans Mes flux.\n\n👉 Commence gratuitement : https://www.liy10lear
+ ning.com\n🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com/@liy10.
+ learning) · aussi sur Instagram (https://www.instagram.com/liy10.learning
+ )\n\nCaptures : Microsoft Learn (CC BY 4.0)\n\n#PowerAutomate #LIY10\n\n
+ ━━ TIKTOK ━━\nVidéo : Power Automate · Niveau 2 · L’écran de
+  Power Automate\, zone par zone (dossier « pa02-ecran » du zip)\n⬇ Té
+ lécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw
+ /main/videos/pa02-ecran.mp4\n🖼 Couverture : https://github.com/jordyado
+ po-boop/liy10-videos/raw/main/couvertures/pa02-ecran.jpg\n\n— Légende T
+ ikTok (à copier) —\nPower Automate : par où commencer ? 🧭\nPower Au
+ tomate\, niveau 2 : l’écran\, zone par zone.\n\nLe menu de gauche\, l
+ ’environnement\, le concepteur et ses cartes\, les paramètres avec l’
+ éclair et fx\, puis Enregistrer et Tester.\n\nLe piège : enregistrer n
+ ’est pas tester. Un flux à moitié fini\, enregistré et activé\, tour
+ ne déjà. Désactive-le dans Mes flux.\n\nTon premier flux\, tu le fais q
+ uand ? C’est le niveau 3 : abonne-toi pour ne pas le rater 🔔\n\n📲 
+ Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 l
+ iy10learning.com\n\nCaptures : Microsoft Learn (CC BY 4.0)\n\n#powerautoma
+ te #automatisation #bureautique #apprendresurtiktok #liy10\n\n\n📄 Tout 
+ le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/
+ main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https:
+ //github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zi
+ p
+CATEGORIES:Nouveau niveau
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Nouveau niveau · Power Automate niveau 2 (Insta\, Facebook
+ \, TikTok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-13-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261013T100000Z
+DTEND:20261013T101500Z
+SUMMARY:Astuce · Insta/FB : Une requête action\, sans casse | TikTok : Le
+  format se choisit avant
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Une requête actio
+ n\, sans casse (dossier « t09-requete-action » du zip)\n⬇ Télécharge
+ r la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vid
+ eos/t09-requete-action.mp4\n📱 Story vers 10:30 : https://github.com/jor
+ dyadopo-boop/liy10-videos/raw/main/stories-images/t09-requete-action.jpg\n
+    Texte de la story : « Une requête suppression sans critère\, et tout
+  part ⚠️ La méthode sans casse 👆 »\n\n— Légende Instagram (à 
+ copier) —\nRequête suppression Access : sans critère\, tout part. ⚠
+ ️\n\nDans la vidéo\, 10 commandes disparaissent d’un clic\, et Ctrl +
+  Z ne ramène rien : une requête action ne s’annule pas.\n\nLa méthod
+ e en trois gestes : d’abord en sélection\, vérifier les lignes visée
+ s\, puis seulement la transformer en suppression.\n\nAccess te demande con
+ firmation : « Vous allez supprimer 3 ligne(s) ». Le 3 attendu ? A
+ lors oui.\n\n👉 Lien en bio : apprends Access en pratiquant.\n\n🎵 Pl
+ us d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi part
+ out 👻)\n\n#Access #MicrosoftAccess #BaseDeDonnees #Bureautique #CoteDIv
+ oire\n\n— Légende Facebook (à copier) —\nRequête suppression Access
+  : sans critère\, tout part. ⚠️\n\nDans la vidéo\, 10 commandes dis
+ paraissent d’un clic\, et Ctrl + Z ne ramène rien : une requête actio
+ n ne s’annule pas.\n\nLa méthode en trois gestes : d’abord en sélec
+ tion\, vérifier les lignes visées\, puis seulement la transformer en sup
+ pression.\n\nAccess te demande confirmation : « Vous allez supprimer 3
+  ligne(s) ». Le 3 attendu ? Alors oui.\n\n👉 Apprends Access en pra
+ tiquant : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikT
+ ok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.inst
+ agram.com/liy10.learning)\n\n#Access #BaseDeDonnees\n\n━━ TIKTOK ━
+ ━\nVidéo : Le format se choisit avant (dossier « t05-format-avant » d
+ u zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/l
+ iy10-videos/raw/main/videos/t05-format-avant.mp4\n\n— Légende TikTok (
+ à copier) —\nTa présentation PowerPoint se déforme à la fin ? Voil
+ à pourquoi 📐\nTes diapos sont en 4:3\, tu passes en 16:9 : le rond d
+ evient un œuf\, le titre s’aplatit.\n\nLa règle : choisir le format 
+ AVANT. Conception › Taille des diapositives\, puis 16:9. Ensuite seuleme
+ nt le thème\, les dispositions\, le contenu.\n\nSi tu changes après coup
+ \, Maximiser rogne les bords et Garantir l’ajustement laisse des bandes 
+ vides.\n\nEt toi\, tu choisis le format en premier ? 👇\n\n📲 Aussi 
+ sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10
+ learning.com\n\n#powerpoint #astucepowerpoint #bureautique #apprendresurti
+ ktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyad
+ opo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes
+  les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archi
+ ve/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : Une requête action\, sans casse | TikTok 
+ : Le format se choisit avant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-13-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261013T130000Z
+DTEND:20261013T131500Z
+SUMMARY:★ Leçon · Insta/FB : Fabric niveau 1 | TikTok : Excel niveau 11
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Microsoft Fabric · Niveau 1 · À quoi sert Fabric (dossier « fa01-a-quo
+ i-sert » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordya
+ dopo-boop/liy10-videos/raw/main/videos/fa01-a-quoi-sert.mp4\n🖼 Couvertu
+ re : https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/
+ fa01-a-quoi-sert.jpg\n📱 Story vers 14:00 : https://github.com/jordyadop
+ o-boop/liy10-videos/raw/main/stories-images/fa01-a-quoi-sert.jpg\n   Texte
+  de la story : « Fabric\, niveau 1 : à quoi il sert 👆 »\n\n— Lé
+ gende Instagram (à copier) —\nTes chiffres sont dans cinq endroits diff
+ érents ? 🧩\n\nMicrosoft Fabric\, niveau 1 : un seul endroit pour t
+ out\, de la source au rapport Power BI.\n\nLe piège : Fabric n’est pa
+ s obligatoire. Un rapport Power BI sur un fichier Excel n’en a pas besoi
+ n. Fabric sert quand les données sont grosses\, viennent de partout\, ou 
+ servent à plusieurs équipes.\n\n👉 Lien en bio : commence gratuiteme
+ nt.\n🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Fac
+ ebook (LIY10 Learning)\n\n#MicrosoftFabric #PowerBI #Data #LIY10 #CoteDIvo
+ ire\n\n— Légende Facebook (à copier) —\nTes chiffres sont dans cinq 
+ endroits différents ? 🧩\n\nMicrosoft Fabric\, niveau 1 : un seul e
+ ndroit pour tout\, de la source au rapport Power BI.\n\nLe piège : Fabr
+ ic n’est pas obligatoire. Un rapport Power BI sur un fichier Excel n’e
+ n a pas besoin. Fabric sert quand les données sont grosses\, viennent de 
+ partout\, ou servent à plusieurs équipes.\n\n👉 Commence gratuitement
+  : https://www.liy10learning.com\n🎵 Tous nos niveaux sur TikTok (http
+ s://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.in
+ stagram.com/liy10.learning)\n\n#LIY10 #Bureautique\n\n━━ TIKTOK ━━
+ \nVidéo : Excel · Niveau 11 · Le texte et le nettoyage (dossier « ex11
+ -texte » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordya
+ dopo-boop/liy10-videos/raw/main/videos/ex11-texte.mp4\n🖼 Couverture : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/ex11-t
+ exte.jpg\n\n— Légende TikTok (à copier) —\nUn fichier reçu tout sal
+ e ? 🧽\nExcel\, niveau 11 : le texte et le nettoyage.\n\nConvertir\, SUP
+ PRESPACE\, NOMPROPRE\, GAUCHE\, STXT\, DROITE\, &\, CONCAT\, TEXTE et Ctrl
+ +E : le fichier se nettoie morceau par morceau.\n\nLe piège : un espace c
+ aché à la fin de « Bouaké »\, et RECHERCHEV répond #N/A. SUPPRESPACE
+  d’abord.\n\n#VALEUR!\, #REF!\, #NOM? : tu sais les lire ? C’est le ni
+ veau 12 : abonne-toi pour ne pas le rater 🔔\n\n📲 Aussi sur Instagram
+  et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\
+ n#excel #astuceexcel #apprendreexcel #apprendresurtiktok #liy10\n\n\n📄 
+ Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/
+ blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-vide
+ os.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Fabric niveau 1 | TikTok : Excel nivea
+ u 11
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-13-1600@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261013T160000Z
+DTEND:20261013T161500Z
+SUMMARY:★ Nouveau niveau · Fabric niveau 2 (Insta\, Facebook\, TikTok)
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Microsoft Fabric · Niveau 2 · L’écran de Fabric\, zone par zone (doss
+ ier « fa02-ecran » du zip)\n⬇ Télécharger la vidéo : https://github
+ .com/jordyadopo-boop/liy10-videos/raw/main/videos/fa02-ecran.mp4\n🖼 Cou
+ verture : https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvert
+ ures/fa02-ecran.jpg\n📱 Story vers 16:30 : https://github.com/jordyadopo
+ -boop/liy10-videos/raw/main/stories/fa02-ecran.mp4\n   Texte de la story :
+  « Fabric\, niveau 2 : l’écran\, zone par zone 👆 »\n\n— Légende
+  Instagram (à copier) —\nMicrosoft Fabric : par où commencer ? 🧭\n\
+ nMicrosoft Fabric\, niveau 2 : l’écran\, zone par zone.\n\nL’accueil 
+ et ses zones\, le commutateur Fabric / Power BI\, les espaces de travail d
+ ans le volet de gauche\, le bouton Nouvel élément (obtenir\, stocker\, v
+ isualiser)\, le catalogue OneLake pour retrouver tes données\, et Surveil
+ ler pour suivre ce qui tourne.\n\nLe piège : tout ranger dans « Mon espa
+ ce de travail ». Il est personnel : toi seul y as accès\, et si ton comp
+ te part\, il part avec. Pour l’équipe\, crée un vrai espace de travail
+ .\n\n👉 Lien en bio : commence gratuitement.\n🎵 Tous nos niveaux sur 
+ TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)\n\nCapture
+ s : Microsoft Learn (CC BY 4.0)\n\n#MicrosoftFabric #PowerBI #Data #LIY10 
+ #CoteDIvoire\n\n— Légende Facebook (à copier) —\nMicrosoft Fabric : 
+ par où commencer ? 🧭\n\nMicrosoft Fabric\, niveau 2 : l’écran\, zon
+ e par zone.\n\nL’accueil et ses zones\, le commutateur Fabric / Power BI
+ \, les espaces de travail dans le volet de gauche\, le bouton Nouvel élé
+ ment (obtenir\, stocker\, visualiser)\, le catalogue OneLake pour retrouve
+ r tes données\, et Surveiller pour suivre ce qui tourne.\n\nLe piège : t
+ out ranger dans « Mon espace de travail ». Il est personnel : toi seul y
+  as accès\, et si ton compte part\, il part avec. Pour l’équipe\, cré
+ e un vrai espace de travail.\n\n👉 Commence gratuitement : https://www.l
+ iy10learning.com\n🎵 Tous nos niveaux sur TikTok (https://www.tiktok.com
+ /@liy10.learning) · aussi sur Instagram (https://www.instagram.com/liy10.
+ learning)\n\nCaptures : Microsoft Learn (CC BY 4.0)\n\n#MicrosoftFabric #L
+ IY10\n\n━━ TIKTOK ━━\nVidéo : Microsoft Fabric · Niveau 2 · L
+ ’écran de Fabric\, zone par zone (dossier « fa02-ecran » du zip)\n⬇
+  Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos
+ /raw/main/videos/fa02-ecran.mp4\n🖼 Couverture : https://github.com/jord
+ yadopo-boop/liy10-videos/raw/main/couvertures/fa02-ecran.jpg\n\n— Légen
+ de TikTok (à copier) —\nMicrosoft Fabric : par où commencer ? 🧭\nMi
+ crosoft Fabric\, niveau 2 : l’écran\, zone par zone.\n\nL’accueil\, l
+ es espaces de travail\, Nouvel élément\, le catalogue OneLake et Surveil
+ ler : où tout se trouve.\n\nLe piège : tout ranger dans « Mon espace de
+  travail ». Il est personnel : toi seul y as accès\, et si ton compte pa
+ rt\, il part avec. Pour l’équipe\, crée un vrai espace de travail.\n\n
+ Ton premier espace de travail\, tu le crées quand ? C’est le niveau 3 :
+  abonne-toi pour ne pas le rater 🔔\n\n📲 Aussi sur Instagram et Faceb
+ ook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\nCaptures
+  : Microsoft Learn (CC BY 4.0)\n\n#microsoftfabric #powerbi #data #apprend
+ resurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/
+ jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦
+  Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-video
+ s/archive/refs/heads/zip-videos.zip
+CATEGORIES:Nouveau niveau
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Nouveau niveau · Fabric niveau 2 (Insta\, Facebook\, TikTo
+ k)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-14-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261014T100000Z
+DTEND:20261014T101500Z
+SUMMARY:Astuce · Insta/FB : WHERE ou HAVING ? | TikTok : 305 fonctions e
+ xpliquées une par une
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : WHERE ou HAVING 
+ ? (dossier « a05-where-having » du zip)\n⬇ Télécharger la vidéo : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/a05-where-h
+ aving.mp4\n📱 Story vers 10:30 : https://github.com/jordyadopo-boop/liy1
+ 0-videos/raw/main/stories-images/a05-where-having.jpg\n   Texte de la stor
+ y : « WHERE ou HAVING ? Tu sais ? 🤔 Vote en réponse\, puis regard
+ e 👆 »\n\n— Légende Instagram (à copier) —\nWHERE ou HAVING ? T
+ u les as déjà confondus\, avoue 😅\n\nWHERE filtre les lignes avant le
+  GROUP BY. HAVING filtre les groupes après.\n\nC’est pour ça que WHERE
+  SUM(Montant) > 500000 plante : à ce moment-là\, les groupes n’existe
+ nt pas encore.\n\nLe moteur SQL ne lit pas ta requête dans l’ordre où 
+ tu l’écris. Liy10 te montre l’ordre réel en image.\n\n👉 Lien en b
+ io : apprends SQL en pratiquant.\n\n🎵 Plus d’astuces sur TikTok et F
+ acebook : @liy10.learning (abonne-toi partout 👻)\n\n#SQL #SQLServer #
+ ApprendreSQL #DataAnalyse #CoteDIvoire\n\n— Légende Facebook (à copier
+ ) —\nWHERE ou HAVING ? Tu les as déjà confondus\, avoue 😅\n\nWHER
+ E filtre les lignes avant le GROUP BY. HAVING filtre les groupes après.\n
+ \nC’est pour ça que WHERE SUM(Montant) > 500000 plante : à ce moment-
+ là\, les groupes n’existent pas encore.\n\nLe moteur SQL ne lit pas ta 
+ requête dans l’ordre où tu l’écris. Liy10 te montre l’ordre réel
+  en image.\n\n👉 Apprends SQL en pratiquant : https://www.liy10learning
+ .com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.le
+ arning) et Instagram (https://www.instagram.com/liy10.learning)\n\n#SQL #S
+ QLServer\n\n━━ TIKTOK ━━\nVidéo : 305 fonctions expliquées une p
+ ar une (dossier « a07-lexique » du zip)\n⬇ Télécharger la vidéo : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/a07-lexique
+ .mp4\n\n— Légende TikTok (à copier) —\n305 fonctions expliquées une
+  par une\, même hors ligne 📖\nLe lexique LIY10 : 305 fonctions\, mes
+ ures et commandes des 8 logiciels\, rangées par familles.\n\nChaque fiche
+  : à quoi ça sert\, la syntaxe\, un exemple avec le résultat\, une as
+ tuce. Et un bouton pour que Liy10 t’explique en détail.\n\nUn onglet pa
+ r logiciel\, un filtre pour chercher : SIERREUR\, RECHERCHEX\, CALCULATE
+ …\n\nTu cherches laquelle en premier ? 👇\n\n📲 Aussi sur Instagra
+ m et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com
+ \n\n#excel #powerbi #sql #bureautique #liy10\n\n\n📄 Tout le programme (
+ PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programme
+ /programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/j
+ ordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : WHERE ou HAVING ? | TikTok : 305 fonctio
+ ns expliquées une par une
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-14-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261014T130000Z
+DTEND:20261014T131500Z
+SUMMARY:★ Leçon · Insta/FB : Excel niveau 11 | TikTok : SQL Server nive
+ au 2
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Excel · Niveau 11 · Le texte et le nettoyage (dossier « ex11-texte » d
+ u zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/l
+ iy10-videos/raw/main/videos/ex11-texte.mp4\n🖼 Couverture : https://gith
+ ub.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/ex11-texte.jpg\n
+ 📱 Story vers 14:00 : https://github.com/jordyadopo-boop/liy10-videos/ra
+ w/main/stories-images/ex11-texte.jpg\n   Texte de la story : « Excel\, ni
+ veau 11 : nettoyer un fichier reçu 👆 »\n\n— Légende Instagram (à 
+ copier) —\nUn fichier reçu tout sale ? 🧽\n\nExcel\, niveau 11 : le t
+ exte et le nettoyage.\n\nConvertir pour couper une colonne en trois\, SUPP
+ RESPACE pour les espaces en trop\, NOMPROPRE pour les majuscules\, GAUCHE\
+ , STXT et DROITE pour découper un code\, & et CONCAT pour assembler\, TEX
+ TE pour garder le format d’une date dans une phrase\, Ctrl+E pour rempli
+ r la colonne tout seul.\n\nLe piège : un espace caché à la fin de « Bo
+ uaké »\, et RECHERCHEV répond #N/A. SUPPRESPACE d’abord.\n\n👉 Lien
+  en bio : commence gratuitement.\n🎵 Tous nos niveaux sur TikTok : @liy1
+ 0.learning · aussi sur Facebook (LIY10 Learning)\n\n#Excel #ApprendreExce
+ l #ExcelFacile #LIY10 #CoteDIvoire\n\n— Légende Facebook (à copier) 
+ —\nUn fichier reçu tout sale ? 🧽\n\nExcel\, niveau 11 : le texte et 
+ le nettoyage.\n\nConvertir pour couper une colonne en trois\, SUPPRESPACE 
+ pour les espaces en trop\, NOMPROPRE pour les majuscules\, GAUCHE\, STXT e
+ t DROITE pour découper un code\, & et CONCAT pour assembler\, TEXTE pour 
+ garder le format d’une date dans une phrase\, Ctrl+E pour remplir la col
+ onne tout seul.\n\nLe piège : un espace caché à la fin de « Bouaké »
+ \, et RECHERCHEV répond #N/A. SUPPRESPACE d’abord.\n\n👉 Commence gra
+ tuitement : https://www.liy10learning.com\n🎵 Tous nos niveaux sur TikTo
+ k (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https:/
+ /www.instagram.com/liy10.learning)\n\n#Excel #LIY10 #Bureautique\n\n━━
+  TIKTOK ━━\nVidéo : SQL Server · Niveau 2 · Les raccourcis de SSMS 
+ (dossier « sq02-raccourcis » du zip)\n⬇ Télécharger la vidéo : http
+ s://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/sq02-raccourci
+ s.mp4\n🖼 Couverture : https://github.com/jordyadopo-boop/liy10-videos/r
+ aw/main/couvertures/sq02-raccourcis.jpg\n\n— Légende TikTok (à copier)
+  —\nLes raccourcis de SSMS : dix gestes\, une règle ⌨️\nSQL Server\
+ , niveau 2 : les raccourcis de SSMS.\n\nF5\, Ctrl+R\, Maj+↓\, Ctrl+K pui
+ s Ctrl+C ou Ctrl+U\, Ctrl+Maj+L ou U\, Ctrl+Maj+Q\, Alt+F1\, Ctrl+Maj+M\, 
+ F4\, Ctrl+L : la touche s’allume sur le clavier\, et ce qu’elle fait s
+ ’affiche en dessous.\n\nLe piège : rien de sélectionné\, F5 lance tou
+ te la fenêtre\, y compris le DELETE oublié en haut. On sélectionne\, pu
+ is on exécute.\n\nL’explorateur d’objets\, tu sais t’en servir ? C
+ ’est le niveau 3 : abonne-toi pour ne pas le rater 🔔\n\n📲 Aussi su
+ r Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10lear
+ ning.com\n\n#sqlserver #sql #raccourcis #apprendresurtiktok #liy10\n\n\n
+ 📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-vi
+ deos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip
+ ) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip
+ -videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Excel niveau 11 | TikTok : SQL Server 
+ niveau 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-14-1600@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261014T160000Z
+DTEND:20261014T161500Z
+SUMMARY:★ Nouveau niveau · Power BI niveau 11 (Insta\, Facebook\, TikTok
+ )
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Power BI · Niveau 11 · Power Query dans Power BI (dossier « pb11-power-
+ query » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyad
+ opo-boop/liy10-videos/raw/main/videos/pb11-power-query.mp4\n🖼 Couvertur
+ e : https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/p
+ b11-power-query.jpg\n📱 Story vers 16:30 : https://github.com/jordyadopo
+ -boop/liy10-videos/raw/main/stories/pb11-power-query.mp4\n   Texte de la s
+ tory : « Power BI\, niveau 11 : Power Query 👆 »\n\n— Légende Insta
+ gram (à copier) —\nUn fichier tout sale dans Power BI ? 🧹\n\nPower B
+ I\, niveau 11 : Power Query.\n\nOn ne touche jamais la source : chaque cli
+ c devient une étape qu’on peut rejouer. Accueil\, Transformer les donn
+ ées\, puis cinq gestes : le type d’abord\, Supprimer la colonne en trop
+ \, Remplacer les valeurs (Bouake devient Bouaké)\, Fractionner la colonne
+ \, Supprimer les doublons. Puis Fermer et appliquer.\n\nLe piège : Charge
+ r tout de suite. La vente de Mariam compte deux fois et le total est faux 
+ : 8 850 000 F au lieu de 7 960 000 F. Transforme d’abord.\n\n👉 Lien e
+ n bio : commence gratuitement.\n🎵 Tous nos niveaux sur TikTok : @liy10.
+ learning · aussi sur Facebook (LIY10 Learning)\n\nCaptures : Microsoft Le
+ arn (CC BY 4.0)\n\n#PowerBI #PowerQuery #Data #LIY10 #CoteDIvoire\n\n— L
+ égende Facebook (à copier) —\nUn fichier tout sale dans Power BI ? 
+ 🧹\n\nPower BI\, niveau 11 : Power Query.\n\nOn ne touche jamais la sour
+ ce : chaque clic devient une étape qu’on peut rejouer. Accueil\, Transf
+ ormer les données\, puis cinq gestes : le type d’abord\, Supprimer la c
+ olonne en trop\, Remplacer les valeurs (Bouake devient Bouaké)\, Fraction
+ ner la colonne\, Supprimer les doublons. Puis Fermer et appliquer.\n\nLe p
+ iège : Charger tout de suite. La vente de Mariam compte deux fois et le t
+ otal est faux : 8 850 000 F au lieu de 7 960 000 F. Transforme d’abord.\
+ n\n👉 Commence gratuitement : https://www.liy10learning.com\n🎵 Tous n
+ os niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi su
+ r Instagram (https://www.instagram.com/liy10.learning)\n\nCaptures : Micro
+ soft Learn (CC BY 4.0)\n\n#PowerBI #LIY10\n\n━━ TIKTOK ━━\nVidéo 
+ : Power BI · Niveau 11 · Power Query dans Power BI (dossier « pb11-powe
+ r-query » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordy
+ adopo-boop/liy10-videos/raw/main/videos/pb11-power-query.mp4\n🖼 Couvert
+ ure : https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures
+ /pb11-power-query.jpg\n\n— Légende TikTok (à copier) —\nUn fichier t
+ out sale dans Power BI ? 🧹\nPower BI\, niveau 11 : Power Query.\n\nLe f
+ ichier reçu se nettoie en cinq gestes\, et chaque geste devient une étap
+ e qu’on peut rejouer. La source\, elle\, ne bouge pas.\n\nLe piège : Ch
+ arger tout de suite. La vente de Mariam compte deux fois et le total est f
+ aux : 8 850 000 F au lieu de 7 960 000 F. Transforme d’abord.\n\nPublier
+  ton rapport et le partager\, tu sais faire ? C’est le niveau 12 : abonn
+ e-toi pour ne pas le rater 🔔\n\n📲 Aussi sur Instagram et Facebook : 
+ LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\nCaptures : Mic
+ rosoft Learn (CC BY 4.0)\n\n#powerbi #powerquery #data #apprendresurtiktok
+  #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-
+ boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les
+  vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/r
+ efs/heads/zip-videos.zip
+CATEGORIES:Nouveau niveau
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Nouveau niveau · Power BI niveau 11 (Insta\, Facebook\, Ti
+ kTok)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-15-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261015T100000Z
+DTEND:20261015T101500Z
+SUMMARY:Astuce · Insta/FB : NULL\, le piège permanent | TikTok : Une requ
+ ête action\, sans casse
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : NULL\, le piège p
+ ermanent (dossier « t07-null » du zip)\n⬇ Télécharger la vidéo : ht
+ tps://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/t07-null.mp4
+ \n📱 Story vers 10:30 : https://github.com/jordyadopo-boop/liy10-videos/
+ raw/main/stories-images/t07-null.jpg\n   Texte de la story : « Ta requêt
+ e SQL oublie 2 lignes sans aucune erreur 😬 Pourquoi ? 👆 »\n\n— 
+ Légende Instagram (à copier) —\nTa requête SQL oublie 2 lignes. Sans 
+ aucune erreur. 😬\n\nWHERE Prime <> 100 devrait rendre 4 lignes sur 6 :
+  tu en obtiens 2. Les lignes dont la prime est NULL (inconnue) disparaisse
+ nt\, sans un message.\n\nPourquoi : NULL <> 100 n’est ni vrai ni faux\,
+  c’est inconnu\, et WHERE ne garde que le vrai.\n\nLa solution : OR Pri
+ me IS NULL\, ou COALESCE(Prime\, 0) pour remplir les trous.\n\n👉 Lien e
+ n bio : apprends SQL en pratiquant.\n\n🎵 Plus d’astuces sur TikTok e
+ t Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#SQL #SQLServe
+ r #ApprendreSQL #DataAnalyse #CoteDIvoire\n\n— Légende Facebook (à cop
+ ier) —\nTa requête SQL oublie 2 lignes. Sans aucune erreur. 😬\n\nWHE
+ RE Prime <> 100 devrait rendre 4 lignes sur 6 : tu en obtiens 2. Les lign
+ es dont la prime est NULL (inconnue) disparaissent\, sans un message.\n\nP
+ ourquoi : NULL <> 100 n’est ni vrai ni faux\, c’est inconnu\, et WHER
+ E ne garde que le vrai.\n\nLa solution : OR Prime IS NULL\, ou COALESCE(P
+ rime\, 0) pour remplir les trous.\n\n👉 Apprends SQL en pratiquant : ht
+ tps://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://w
+ ww.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy
+ 10.learning)\n\n#SQL #SQLServer\n\n━━ TIKTOK ━━\nVidéo : Une requ
+ ête action\, sans casse (dossier « t09-requete-action » du zip)\n⬇ T
+ élécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/r
+ aw/main/videos/t09-requete-action.mp4\n\n— Légende TikTok (à copier) 
+ —\nRequête suppression Access : sans critère\, tout part. ⚠️\nAc
+ cess : une requête action\, sans casse.\n\n10 commandes disparaissent d
+ ’un clic\, et Ctrl + Z ne ramène rien : une requête action ne s’an
+ nule pas.\n\nLa méthode en trois gestes : d’abord une requête sélec
+ tion\, puis tu vérifies les lignes visées\, puis seulement tu la transfo
+ rmes en suppression. Access annonce « Vous allez supprimer 3 ligne(s)
+  ». Le 3 attendu ? Alors oui.\n\nTu as déjà tout effacé par erreur
+  ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy
+ 10.learning)\n🌐 liy10learning.com\n\n#access #basededonnees #bureautiqu
+ e #apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://g
+ ithub.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10
+ .pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/l
+ iy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : NULL\, le piège permanent | TikTok : Une 
+ requête action\, sans casse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-15-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261015T130000Z
+DTEND:20261015T131500Z
+SUMMARY:★ Leçon · Insta/FB : SQL Server niveau 2 | TikTok : Excel nivea
+ u 12
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ SQL Server · Niveau 2 · Les raccourcis de SSMS (dossier « sq02-raccourc
+ is » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo
+ -boop/liy10-videos/raw/main/videos/sq02-raccourcis.mp4\n🖼 Couverture : 
+ https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/sq02-
+ raccourcis.jpg\n📱 Story vers 14:00 : https://github.com/jordyadopo-boop
+ /liy10-videos/raw/main/stories-images/sq02-raccourcis.jpg\n   Texte de la 
+ story : « SQL Server\, niveau 2 : les raccourcis de SSMS 👆 »\n\n— L
+ égende Instagram (à copier) —\nLes raccourcis de SSMS : dix gestes\, u
+ ne règle ⌨️\n\nSQL Server\, niveau 2 : les raccourcis de SSMS.\n\nF5 
+ exécute. Ctrl+R cache la grille (encore Ctrl+R : elle revient). Maj+↓ p
+ uis F5 : seulement la sélection\, le geste le plus utile. Ctrl+K puis Ctr
+ l+C commente la ligne\, Ctrl+K puis Ctrl+U enlève le commentaire. Ctrl+Ma
+ j+L / Ctrl+Maj+U : minuscules\, MAJUSCULES. Ctrl+Maj+Q ouvre le concepteur
+  de requêtes. Alt+F1 sur le nom d’une table : colonnes\, index\, contra
+ intes. Ctrl+Maj+M remplit le modèle. F4 ouvre la fenêtre Propriétés. C
+ trl+L affiche le plan estimé\, sans exécuter la requête.\n\nLe piège :
+  rien de sélectionné\, F5 lance toute la fenêtre\, y compris le DELETE 
+ oublié en haut. On sélectionne\, puis on exécute.\n\n👉 Lien en bio :
+  commence gratuitement.\n🎵 Tous nos niveaux sur TikTok : @liy10.learnin
+ g · aussi sur Facebook (LIY10 Learning)\n\n#SQL #SQLServer #SSMS #LIY10 #
+ CoteDIvoire\n\n— Légende Facebook (à copier) —\nLes raccourcis de SS
+ MS : dix gestes\, une règle ⌨️\n\nSQL Server\, niveau 2 : les raccour
+ cis de SSMS.\n\nF5 exécute. Ctrl+R cache la grille (encore Ctrl+R : elle 
+ revient). Maj+↓ puis F5 : seulement la sélection\, le geste le plus uti
+ le. Ctrl+K puis Ctrl+C commente la ligne\, Ctrl+K puis Ctrl+U enlève le c
+ ommentaire. Ctrl+Maj+L / Ctrl+Maj+U : minuscules\, MAJUSCULES. Ctrl+Maj+Q 
+ ouvre le concepteur de requêtes. Alt+F1 sur le nom d’une table : colonn
+ es\, index\, contraintes. Ctrl+Maj+M remplit le modèle. F4 ouvre la fenê
+ tre Propriétés. Ctrl+L affiche le plan estimé\, sans exécuter la requ
+ ête.\n\nLe piège : rien de sélectionné\, F5 lance toute la fenêtre\, 
+ y compris le DELETE oublié en haut. On sélectionne\, puis on exécute.\n
+ \n👉 Commence gratuitement : https://www.liy10learning.com\n🎵 Tous no
+ s niveaux sur TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur
+  Instagram (https://www.instagram.com/liy10.learning)\n\n#SQLServer #LIY10
+ \n\n━━ TIKTOK ━━\nVidéo : Excel · Niveau 12 · Lire les erreurs 
+ d’Excel (dossier « ex12-erreurs » du zip)\n⬇ Télécharger la vidéo
+  : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/ex12-er
+ reurs.mp4\n🖼 Couverture : https://github.com/jordyadopo-boop/liy10-vide
+ os/raw/main/couvertures/ex12-erreurs.jpg\n\n— Légende TikTok (à copier
+ ) —\nExcel t’affiche #VALEUR! ? 🚨\nExcel\, niveau 12 : lire les err
+ eurs d’Excel.\n\n#VALEUR!\, #REF!\, #NOM?\, #N/A\, #DIV/0!\, #NOMBRE! et
+  ### : ce que chacune dit\, et le réflexe pour la réparer. Plus deux out
+ ils : Repérer les antécédents et Évaluation de formule.\n\nLe piège :
+  faire taire l’erreur avec SIERREUR. Le total s’affiche\, sans alerte\
+ , mais il est faux. Lis l’erreur\, répare la source.\n\nLes listes dér
+ oulantes\, tu sais les faire ? C’est le niveau 13 : abonne-toi pour ne p
+ as le rater 🔔\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning 
+ (@liy10.learning)\n🌐 liy10learning.com\n\n#excel #astuceexcel #apprendr
+ eexcel #apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : http
+ s://github.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-
+ liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-b
+ oop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : SQL Server niveau 2 | TikTok : Excel n
+ iveau 12
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-16-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261016T100000Z
+DTEND:20261016T101500Z
+SUMMARY:Astuce · Insta/FB : CALCULATE en DAX\, simplement | TikTok : WHERE
+  ou HAVING ?
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : CALCULATE en DAX\,
+  simplement (dossier « a04-calculate » du zip)\n⬇ Télécharger la vid
+ éo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/a04-
+ calculate.mp4\n📱 Story vers 10:30 : https://github.com/jordyadopo-boop/
+ liy10-videos/raw/main/stories-images/a04-calculate.jpg\n   Texte de la sto
+ ry : « CALCULATE en DAX\, simplement 📈 Une mesure\, trois chiffres. Re
+ garde 👆 »\n\n— Légende Instagram (à copier) —\nUne seule mesure 
+ Power BI\, trois chiffres différents. Pourquoi ?\n\nCALCULATE change le
+  contexte de ta mesure : CALCULATE([CA]\, Ventes[Catégorie] = "Riz") ne 
+ garde que les lignes de riz\, donc 1 000 000 F sur 1 500 000 F a
+ u total.\n\nPiège enseigné : sur une même colonne\, le filtre de CALCU
+ LATE remplace celui du visuel\, il ne s’y ajoute pas.\n\nTout se voit su
+ r une carte KPI\, puis dans la vraie leçon LIY10 (Power BI\, niveau 13).\
+ n\n👉 Lien en bio : pose ta question DAX à Liy10.\n\n🎵 Plus d’ast
+ uces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\
+ n\n#PowerBI #DAX #ApprendrePowerBI #DataAnalyse #CoteDIvoire\n\n— Légen
+ de Facebook (à copier) —\nUne seule mesure Power BI\, trois chiffres di
+ fférents. Pourquoi ?\n\nCALCULATE change le contexte de ta mesure : CA
+ LCULATE([CA]\, Ventes[Catégorie] = "Riz") ne garde que les lignes de riz\
+ , donc 1 000 000 F sur 1 500 000 F au total.\n\nPiège enseigné
+  : sur une même colonne\, le filtre de CALCULATE remplace celui du visue
+ l\, il ne s’y ajoute pas.\n\nTout se voit sur une carte KPI\, puis dans 
+ la vraie leçon LIY10 (Power BI\, niveau 13).\n\n👉 Pose ta question DAX
+  à Liy10 : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur Ti
+ kTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.in
+ stagram.com/liy10.learning)\n\n#PowerBI #DAX\n\n━━ TIKTOK ━━\nVid
+ éo : WHERE ou HAVING ? (dossier « a05-where-having » du zip)\n⬇ Té
+ lécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw
+ /main/videos/a05-where-having.mp4\n\n— Légende TikTok (à copier) —\n
+ WHERE ou HAVING ? Tu les as déjà confondus\, avoue 😅\nWHERE filtre 
+ les lignes avant le GROUP BY. HAVING filtre les groupes après.\n\nC’est
+  pour ça que WHERE SUM(Montant) > 500000 plante : les groupes n’exist
+ ent pas encore.\n\nLe moteur ne lit pas ta requête dans l’ordre où tu 
+ l’écris : FROM d’abord\, SELECT presque en dernier.\n\nTu le savais
+  ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy
+ 10.learning)\n🌐 liy10learning.com\n\n#sql #sqlserver #data #apprendresu
+ rtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jord
+ yadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Tou
+ tes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/ar
+ chive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : CALCULATE en DAX\, simplement | TikTok : W
+ HERE ou HAVING ?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-16-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261016T130000Z
+DTEND:20261016T131500Z
+SUMMARY:★ Leçon · Insta/FB : SQL Server niveau 3 | TikTok : Excel nivea
+ u 13
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ SQL Server · Niveau 3 · L’interface de SSMS\, fenêtre par fenêtre (d
+ ossier « sq03-interface-ssms » du zip)\n⬇ Télécharger la vidéo : ht
+ tps://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/sq03-interfa
+ ce-ssms.mp4\n🖼 Couverture : https://github.com/jordyadopo-boop/liy10-vi
+ deos/raw/main/couvertures/sq03-interface-ssms.jpg\n📱 Story vers 14:00 :
+  https://github.com/jordyadopo-boop/liy10-videos/raw/main/stories/sq03-int
+ erface-ssms.mp4\n   Texte de la story : « SQL Server\, niveau 3 : SSMS fe
+ nêtre par fenêtre 👆 »\n\n— Légende Instagram (à copier) —\nPas
+  de ruban\, trois fenêtres 🖥️\n\nSQL Server\, niveau 3 : l’interfa
+ ce de SSMS\, fenêtre par fenêtre.\n\nLa boîte de connexion (« . » ou 
+ « (local) » : le serveur de ton PC)\, l’Explorateur d’objets (Bases 
+ de données\, ta base\, Tables\, puis Colonnes\, Clés\, Index)\, la fenê
+ tre de requête (tu écris\, F5 exécute)\, la grille de résultats et l
+ ’onglet Messages\, à lire.\n\nLe piège : la liste des bases affiche ma
+ ster. Ta requête part au mauvais endroit : « Nom d’objet 'Ventes' non 
+ valide. » Regarde la liste avant F5.\n\n👉 Lien en bio : commence gratu
+ itement.\n🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur 
+ Facebook (LIY10 Learning)\n\nCaptures : Microsoft Learn (CC BY 4.0)\n\n#SQ
+ L #SQLServer #SSMS #LIY10 #CoteDIvoire\n\n— Légende Facebook (à copier
+ ) —\nPas de ruban\, trois fenêtres 🖥️\n\nSQL Server\, niveau 3 : l
+ ’interface de SSMS\, fenêtre par fenêtre.\n\nLa boîte de connexion (
+ « . » ou « (local) » : le serveur de ton PC)\, l’Explorateur d’obj
+ ets (Bases de données\, ta base\, Tables\, puis Colonnes\, Clés\, Index)
+ \, la fenêtre de requête (tu écris\, F5 exécute)\, la grille de résul
+ tats et l’onglet Messages\, à lire.\n\nLe piège : la liste des bases a
+ ffiche master. Ta requête part au mauvais endroit : « Nom d’objet 'Ven
+ tes' non valide. » Regarde la liste avant F5.\n\n👉 Commence gratuiteme
+ nt : https://www.liy10learning.com\n🎵 Tous nos niveaux sur TikTok (http
+ s://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.in
+ stagram.com/liy10.learning)\n\nCaptures : Microsoft Learn (CC BY 4.0)\n\n#
+ SQLServer #LIY10\n\n━━ TIKTOK ━━\nVidéo : Excel · Niveau 13 · L
+ a validation des données (dossier « ex13-validation » du zip)\n⬇ Tél
+ écharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/
+ main/videos/ex13-validation.mp4\n🖼 Couverture : https://github.com/jord
+ yadopo-boop/liy10-videos/raw/main/couvertures/ex13-validation.jpg\n\n— L
+ égende TikTok (à copier) —\nAbidjan\, Abj\, Abijan… 😩\nExcel\, ni
+ veau 13 : la validation des données.\n\nUne ville\, trois orthographes ? 
+ La liste déroulante\, le message de saisie\, l’alerte d’erreur\, la p
+ lage nommée\, puis la cascade avec INDIRECT : la ville choisit les agence
+ s.\n\nLe piège : une règle posée après la saisie ne dit rien sur ce qu
+ i est déjà tapé. « Entourer les données non valides » le montre.\n\n
+ Le TCD\, tu connais ? C’est le niveau 14 : abonne-toi pour ne pas le rat
+ er 🔔\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.l
+ earning)\n🌐 liy10learning.com\n\n#excel #astuceexcel #apprendreexcel #a
+ pprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://githu
+ b.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf
+ \n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10
+ -videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : SQL Server niveau 3 | TikTok : Excel n
+ iveau 13
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-17-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261017T100000Z
+DTEND:20261017T101500Z
+SUMMARY:Astuce · Insta/FB : Le format se choisit avant | TikTok : L’en-t
+ ête qui se recopie partout
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Le format se chois
+ it avant (dossier « t05-format-avant » du zip)\n⬇ Télécharger la vid
+ éo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/t05-
+ format-avant.mp4\n📱 Story vers 10:30 : https://github.com/jordyadopo-bo
+ op/liy10-videos/raw/main/stories-images/t05-format-avant.jpg\n   Texte de 
+ la story : « Ta diapo se déforme ? Le format se choisit AVANT 📐 Reg
+ arde 👆 »\n\n— Légende Instagram (à copier) —\nTa présentation P
+ owerPoint se déforme à la fin ? Voilà pourquoi\n\nTu as construit tes
+  diapos en 4:3\, puis tu passes en 16:9 : le rond devient un œuf et le t
+ itre s’aplatit.\n\nLa règle : choisir le format AVANT. Conception › 
+ Taille des diapositives\, puis 16:9. Seulement ensuite le thème\, les dis
+ positions et le contenu.\n\nMaximiser rogne les bords\, Garantir l’ajust
+ ement laisse des bandes vides : mieux vaut ne pas avoir à choisir.\n\n
+ 👉 Lien en bio : apprends PowerPoint en pratiquant.\n\n🎵 Plus d’as
+ tuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)
+ \n\n#PowerPoint #AstucePowerPoint #Presentation #Bureautique #CoteDIvoire\
+ n\n— Légende Facebook (à copier) —\nTa présentation PowerPoint se d
+ éforme à la fin ? Voilà pourquoi\n\nTu as construit tes diapos en 4:3
+ \, puis tu passes en 16:9 : le rond devient un œuf et le titre s’aplat
+ it.\n\nLa règle : choisir le format AVANT. Conception › Taille des dia
+ positives\, puis 16:9. Seulement ensuite le thème\, les dispositions et l
+ e contenu.\n\nMaximiser rogne les bords\, Garantir l’ajustement laisse d
+ es bandes vides : mieux vaut ne pas avoir à choisir.\n\n👉 Apprends Po
+ werPoint en pratiquant : https://www.liy10learning.com\n\n🎵 Abonne-toi
+  aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (h
+ ttps://www.instagram.com/liy10.learning)\n\n#PowerPoint #Bureautique\n\n
+ ━━ TIKTOK ━━\nVidéo : L’en-tête qui se recopie partout (dossie
+ r « t04-saut-section » du zip)\n⬇ Télécharger la vidéo : https://gi
+ thub.com/jordyadopo-boop/liy10-videos/raw/main/videos/t04-saut-section.mp4
+ \n\n— Légende TikTok (à copier) —\nTu changes l’en-tête d’une p
+ age Word… et il change partout 😩\nLa cause : ton document n’est q
+ u’une seule section\, et « Lier au précédent » est actif par dé
+ faut.\n\nLa solution : Mise en page › Sauts › Page suivante\, pour c
+ réer une nouvelle section. Puis double-clic dans son en-tête et décoche
+  « Lier au précédent ».\n\nChaque partie de ton rapport peut avoir
+  son propre en-tête.\n\nTu connaissais ce piège ? 👇\n\n📲 Aussi s
+ ur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10l
+ earning.com\n\n#word #astuceword #bureautique #apprendresurtiktok #liy10\n
+ \n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy1
+ 0-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos 
+ (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads
+ /zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : Le format se choisit avant | TikTok : L’
+ en-tête qui se recopie partout
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-17-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261017T130000Z
+DTEND:20261017T131500Z
+SUMMARY:★ Leçon · Insta/FB : Excel niveau 12 | TikTok : Ta vidéo : Acc
+ ess niveau 2
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Excel · Niveau 12 · Lire les erreurs d’Excel (dossier « ex12-erreurs 
+ » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-bo
+ op/liy10-videos/raw/main/videos/ex12-erreurs.mp4\n🖼 Couverture : https:
+ //github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/ex12-erreur
+ s.jpg\n📱 Story vers 14:00 : partage la publication en story (bouton ✈
+  › Ajouter à ta story).\n   Texte de la story : « Excel\, niveau 12 : 
+ lire les 7 erreurs 👆 »\n\n— Légende Instagram (à copier) —\nExce
+ l t’affiche #VALEUR! ? 🚨\n\nExcel\, niveau 12 : lire les erreurs d’
+ Excel.\n\nSept messages\, sept sens : #VALEUR! (du texte dans un calcul)\,
+  #REF! (la cellule a disparu)\, #NOM? (un nom inconnu)\, #N/A (valeur intr
+ ouvable)\, #DIV/0! (division par zéro)\, #NOMBRE! (nombre impossible)\, e
+ t ### qui n’est pas une erreur : la colonne est trop étroite.\n\nDeux o
+ utils pour remonter à la source : Repérer les antécédents et Évaluati
+ on de formule.\n\nLe piège : faire taire l’erreur avec SIERREUR. Le tot
+ al s’affiche\, sans alerte\, mais il est faux. Lis l’erreur\, répare 
+ la source.\n\n👉 Lien en bio : commence gratuitement.\n🎵 Tous nos niv
+ eaux sur TikTok : @liy10.learning · aussi sur Facebook (LIY10 Learning)\n
+ \n#Excel #ApprendreExcel #ExcelFacile #LIY10 #CoteDIvoire\n\n— Légende 
+ Facebook (à copier) —\nExcel t’affiche #VALEUR! ? 🚨\n\nExcel\, niv
+ eau 12 : lire les erreurs d’Excel.\n\nSept messages\, sept sens : #VALEU
+ R! (du texte dans un calcul)\, #REF! (la cellule a disparu)\, #NOM? (un no
+ m inconnu)\, #N/A (valeur introuvable)\, #DIV/0! (division par zéro)\, #N
+ OMBRE! (nombre impossible)\, et ### qui n’est pas une erreur : la colonn
+ e est trop étroite.\n\nDeux outils pour remonter à la source : Repérer 
+ les antécédents et Évaluation de formule.\n\nLe piège : faire taire l
+ ’erreur avec SIERREUR. Le total s’affiche\, sans alerte\, mais il est 
+ faux. Lis l’erreur\, répare la source.\n\n👉 Commence gratuitement : 
+ https://www.liy10learning.com\n🎵 Tous nos niveaux sur TikTok (https://w
+ ww.tiktok.com/@liy10.learning) · aussi sur Instagram (https://www.instagr
+ am.com/liy10.learning)\n\n#Excel #LIY10 #Bureautique\n\n━━ TIKTOK ━
+ ━\nTa propre vidéo : Access · Niveau 2 · Le ruban d’Access.\nPublie
+ -la avec ta légende (ou demande-moi de l’écrire).\n\n\n📄 Tout le pr
+ ogramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/
+ programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://git
+ hub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Excel niveau 12 | TikTok : Ta vidéo :
+  Access niveau 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-18-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261018T100000Z
+DTEND:20261018T101500Z
+SUMMARY:Astuce · Insta/FB : POV : ton chef veut un tableau croisé pour 1
+ 4 h | TikTok : C’est quoi un tableau croisé dynamique ?
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : POV : ton chef ve
+ ut un tableau croisé pour 14 h (dossier « h01-pov-tcd » du zip)\n⬇ T
+ élécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/r
+ aw/main/videos/h01-pov-tcd.mp4\n📱 Story vers 10:30 : partage la publica
+ tion en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story 
+ : « POV : ton chef veut un tableau croisé pour 14 h 😰 Regarde 👆 
+ »\n\n— Légende Instagram (à copier) —\nPOV : ton chef veut un tabl
+ eau croisé pour 14 h 😰\n\n13 h 52. Un fichier de 2 000 lignes. Tu
+  paniques.\n\nLiy10 te montre le tableau croisé dynamique en 3 gestes. 13
+  h 58 ✓\n\nIdentifie un collègue qui panique toujours à la dernière
+  minute.\n\n👉 Lien en bio : apprends Excel gratuitement.\n\n🎵 Plus 
+ d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout
+  👻)\n\n#Excel #TableauCroiseDynamique #ApprendreExcel #VieDeBureau #Cot
+ eDIvoire\n\n— Légende Facebook (à copier) —\nPOV : ton chef veut un
+  tableau croisé pour 14 h 😰\n\n13 h 52. Un fichier de 2 000 ligne
+ s. Tu paniques.\n\nLiy10 te montre le tableau croisé dynamique en 3 geste
+ s. 13 h 58 ✓\n\nIdentifie un collègue qui panique toujours à la dern
+ ière minute.\n\n👉 Apprends Excel gratuitement : https://www.liy10lear
+ ning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy1
+ 0.learning) et Instagram (https://www.instagram.com/liy10.learning)\n\n#Ex
+ cel #VieDeBureau\n\n━━ TIKTOK ━━\nVidéo : C’est quoi un tableau
+  croisé dynamique ? (dossier « a03-tcd » du zip)\n⬇ Télécharger l
+ a vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos
+ /a03-tcd.mp4\n\n— Légende TikTok (à copier) —\n2 000 lignes de ven
+ tes… résumées en 4 lignes 📊\nC’est ça\, un tableau croisé dynam
+ ique (TCD).\n\nVille en Lignes\, Montant en Valeurs\, Catégorie en Colonn
+ es : quelques glissés et tu as le total par ville et par catégorie.\n\
+ nLe piège : « dynamique » ne veut pas dire « automatique ».
+  Une vente de plus ? Clic droit › Actualiser (ou Alt + F5).\n\nTu util
+ ises déjà les TCD ? 👇\n\n📲 Aussi sur Instagram et Facebook : L
+ IY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#excel #tableau
+ croisedynamique #astuceexcel #apprendresurtiktok #liy10\n\n\n📄 Tout le 
+ programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/mai
+ n/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://g
+ ithub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : POV : ton chef veut un tableau croisé po
+ ur 14 h | TikTok : C’est quoi un tableau croisé dynamique ?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-18-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261018T130000Z
+DTEND:20261018T131500Z
+SUMMARY:★ Leçon · Insta/FB : Excel niveau 13 | TikTok : Ta vidéo : Acc
+ ess niveau 3
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Excel · Niveau 13 · La validation des données (dossier « ex13-validati
+ on » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo
+ -boop/liy10-videos/raw/main/videos/ex13-validation.mp4\n🖼 Couverture : 
+ https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/ex13-
+ validation.jpg\n📱 Story vers 14:00 : partage la publication en story (b
+ outon ✈ › Ajouter à ta story).\n   Texte de la story : « Excel\, niv
+ eau 13 : les listes déroulantes 👆 »\n\n— Légende Instagram (à cop
+ ier) —\nAbidjan\, Abj\, Abijan… 😩\n\nExcel\, niveau 13 : la validat
+ ion des données.\n\nLa liste déroulante (la cellule n’accepte que la l
+ iste)\, le message de saisie (il guide avant la frappe)\, l’alerte d’e
+ rreur (seul Arrêt bloque)\, la plage nommée (un nom au lieu d’une adre
+ sse)\, et la cascade avec INDIRECT : la ville choisit les agences.\n\nLe p
+ iège : une règle posée après la saisie ne dit rien sur ce qui est déj
+ à tapé. « Entourer les données non valides » le montre.\n\n👉 Lien 
+ en bio : commence gratuitement.\n🎵 Tous nos niveaux sur TikTok : @liy10
+ .learning · aussi sur Facebook (LIY10 Learning)\n\n#Excel #ApprendreExcel
+  #ExcelFacile #LIY10 #CoteDIvoire\n\n— Légende Facebook (à copier) —
+ \nAbidjan\, Abj\, Abijan… 😩\n\nExcel\, niveau 13 : la validation des 
+ données.\n\nLa liste déroulante (la cellule n’accepte que la liste)\, 
+ le message de saisie (il guide avant la frappe)\, l’alerte d’erreur (s
+ eul Arrêt bloque)\, la plage nommée (un nom au lieu d’une adresse)\, e
+ t la cascade avec INDIRECT : la ville choisit les agences.\n\nLe piège : 
+ une règle posée après la saisie ne dit rien sur ce qui est déjà tapé
+ . « Entourer les données non valides » le montre.\n\n👉 Commence grat
+ uitement : https://www.liy10learning.com\n🎵 Tous nos niveaux sur TikTok
+  (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (https://
+ www.instagram.com/liy10.learning)\n\n#Excel #LIY10 #Bureautique\n\n━━ 
+ TIKTOK ━━\nTa propre vidéo : Access · Niveau 3 · Les raccourcis d
+ ’Access.\nPublie-la avec ta légende (ou demande-moi de l’écrire).\n\
+ n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10
+ -videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (
+ zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/
+ zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Excel niveau 13 | TikTok : Ta vidéo :
+  Access niveau 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-19-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261019T100000Z
+DTEND:20261019T101500Z
+SUMMARY:Astuce · Insta/FB : L’en-tête qui se recopie partout | TikTok :
+  Une mesure\, pas une colonne
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : L’en-tête qui s
+ e recopie partout (dossier « t04-saut-section » du zip)\n⬇ Télécharg
+ er la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vi
+ deos/t04-saut-section.mp4\n📱 Story vers 10:30 : partage la publication 
+ en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « 
+ L’en-tête Word qui se recopie partout 😩 La solution en 30 secondes 
+ 👆 »\n\n— Légende Instagram (à copier) —\nTu changes l’en-tête
+  d’une page Word… et il change partout 😩\n\nLa cause : tout ton do
+ cument n’est qu’une seule section\, et « Lier au précédent » e
+ st actif par défaut.\n\nLa solution : Mise en page › Sauts › Page su
+ ivante pour créer une nouvelle section\, puis double-clic dans l’en-tê
+ te et décoche « Lier au précédent ».\n\nChaque partie de ton rapp
+ ort peut avoir son propre en-tête.\n\n👉 Lien en bio : apprends Word e
+ n pratiquant.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.l
+ earning (abonne-toi partout 👻)\n\n#Word #AstuceWord #Bureautique #Rappo
+ rt #CoteDIvoire\n\n— Légende Facebook (à copier) —\nTu changes l’e
+ n-tête d’une page Word… et il change partout 😩\n\nLa cause : tout
+  ton document n’est qu’une seule section\, et « Lier au précédent
+  » est actif par défaut.\n\nLa solution : Mise en page › Sauts › 
+ Page suivante pour créer une nouvelle section\, puis double-clic dans l
+ ’en-tête et décoche « Lier au précédent ».\n\nChaque partie de
+  ton rapport peut avoir son propre en-tête.\n\n👉 Apprends Word en prat
+ iquant : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTo
+ k (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.insta
+ gram.com/liy10.learning)\n\n#Word #Bureautique\n\n━━ TIKTOK ━━\nVi
+ déo : Une mesure\, pas une colonne (dossier « t06-mesure-colonne » du z
+ ip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy1
+ 0-videos/raw/main/videos/t06-mesure-colonne.mp4\n\n— Légende TikTok (à
+  copier) —\n22\,5 % ou 16 % ? Lequel est juste dans Power BI ? 
+ 🤔\nPower BI : une mesure\, pas une colonne.\n\nLa colonne calculée s
+ tocke un pourcentage par ligne\, et la carte en fait la moyenne : 22\,5
+  %. La mesure additionne la marge\, additionne le montant\, puis divise
+  : 320 000 ÷ 2 000 000 = 16 %. Tu filtres sur une ville ? La c
+ olonne se trompe encore\, la mesure se recalcule juste.\n\nLa règle : m
+ esure par défaut\, colonne seulement pour filtrer ou grouper.\n\nToi\, tu
+  fais plutôt des colonnes ou des mesures ? 👇\n\n📲 Aussi sur Insta
+ gram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.
+ com\n\n#powerbi #dax #data #apprendresurtiktok #liy10\n\n\n📄 Tout le pr
+ ogramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/
+ programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://git
+ hub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : L’en-tête qui se recopie partout | TikT
+ ok : Une mesure\, pas une colonne
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-19-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261019T130000Z
+DTEND:20261019T131500Z
+SUMMARY:★ Leçon · Insta/FB : SQL Server niveau 4 | TikTok : SQL Server 
+ niveau 3
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ SQL Server · Niveau 4 · Ta première requête (dossier « sq04-premiere-
+ requete » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordy
+ adopo-boop/liy10-videos/raw/main/videos/sq04-premiere-requete.mp4\n🖼 Co
+ uverture : https://github.com/jordyadopo-boop/liy10-videos/raw/main/couver
+ tures/sq04-premiere-requete.jpg\n📱 Story vers 14:00 : https://github.co
+ m/jordyadopo-boop/liy10-videos/raw/main/stories/sq04-premiere-requete.mp4\
+ n   Texte de la story : « SQL Server\, niveau 4 : ta première requête 
+ 👆 »\n\n— Légende Instagram (à copier) —\nTa première requête S
+ QL\, morceau par morceau ⌨️\n\nSQL Server\, niveau 4 : ta première re
+ quête.\n\nSELECT * prend tout\, même ce qui ne sert à rien : choisis te
+ s colonnes. WHERE filtre les lignes. Du texte ? Des apostrophes (entre gui
+ llemets\, SQL Server lit un nom de colonne). AND passe avant OR : mets des
+  parenthèses. ORDER BY … DESC classe\, TOP 10 regarde avant de tout cha
+ rger.\n\nLe piège : deux requêtes dans la fenêtre\, F5 lance tout. Sél
+ ectionne la tienne\, puis F5.\n\n👉 Lien en bio : commence gratuitement.
+ \n🎵 Tous nos niveaux sur TikTok : @liy10.learning · aussi sur Facebook
+  (LIY10 Learning)\n\nCaptures : Microsoft Learn (CC BY 4.0)\n\n#SQL #SQLSe
+ rver #ApprendreSQL #LIY10 #CoteDIvoire\n\n— Légende Facebook (à copier
+ ) —\nTa première requête SQL\, morceau par morceau ⌨️\n\nSQL Serve
+ r\, niveau 4 : ta première requête.\n\nSELECT * prend tout\, même ce qu
+ i ne sert à rien : choisis tes colonnes. WHERE filtre les lignes. Du text
+ e ? Des apostrophes (entre guillemets\, SQL Server lit un nom de colonne).
+  AND passe avant OR : mets des parenthèses. ORDER BY … DESC classe\, TO
+ P 10 regarde avant de tout charger.\n\nLe piège : deux requêtes dans la 
+ fenêtre\, F5 lance tout. Sélectionne la tienne\, puis F5.\n\n👉 Commen
+ ce gratuitement : https://www.liy10learning.com\n🎵 Tous nos niveaux sur
+  TikTok (https://www.tiktok.com/@liy10.learning) · aussi sur Instagram (h
+ ttps://www.instagram.com/liy10.learning)\n\nCaptures : Microsoft Learn (CC
+  BY 4.0)\n\n#SQLServer #LIY10\n\n━━ TIKTOK ━━\nVidéo : SQL Server
+  · Niveau 3 · L’interface de SSMS\, fenêtre par fenêtre (dossier « 
+ sq03-interface-ssms » du zip)\n⬇ Télécharger la vidéo : https://gith
+ ub.com/jordyadopo-boop/liy10-videos/raw/main/videos/sq03-interface-ssms.mp
+ 4\n🖼 Couverture : https://github.com/jordyadopo-boop/liy10-videos/raw/m
+ ain/couvertures/sq03-interface-ssms.jpg\n\n— Légende TikTok (à copier)
+  —\nPas de ruban\, trois fenêtres 🖥️\nSQL Server\, niveau 3 : l’
+ interface de SSMS\, fenêtre par fenêtre.\n\nLa connexion\, l’Explorate
+ ur d’objets\, la fenêtre de requête\, la grille de résultats et l’o
+ nglet Messages : où tout se trouve\, en 48 secondes.\n\nLe piège : la li
+ ste des bases affiche master. Ta requête part au mauvais endroit : « Nom
+  d’objet 'Ventes' non valide. » Regarde la liste avant F5.\n\nTa premi
+ ère requête\, tu la tapes quand ? C’est le niveau 4 : abonne-toi pour 
+ ne pas le rater 🔔\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learn
+ ing (@liy10.learning)\n🌐 liy10learning.com\n\nCaptures : Microsoft Lear
+ n (CC BY 4.0)\n\n#sqlserver #sql #ssms #apprendresurtiktok #liy10\n\n\n
+ 📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-vi
+ deos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip
+ ) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip
+ -videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : SQL Server niveau 4 | TikTok : SQL Ser
+ ver niveau 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-20-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261020T100000Z
+DTEND:20261020T101500Z
+SUMMARY:Astuce · Insta/FB : 305 fonctions expliquées une par une | TikTok
+  : Demande-lui. Il t’y emmène.
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 305 fonctions expl
+ iquées une par une (dossier « a07-lexique » du zip)\n⬇ Télécharger 
+ la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/video
+ s/a07-lexique.mp4\n📱 Story vers 10:30 : partage la publication en story
+  (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « 305 fonc
+ tions expliquées une par une 📖 Cherche la tienne 👆 »\n\n— Légen
+ de Instagram (à copier) —\n305 fonctions expliquées une par une\, mêm
+ e hors ligne 📖\n\nLe lexique LIY10 rassemble 305 fonctions\, mesures et
+  commandes des 8 logiciels\, rangées par familles.\n\nChaque fiche : à 
+ quoi ça sert\, la syntaxe\, un exemple avec le résultat\, une astuce\, e
+ t un bouton pour demander à Liy10 de t’expliquer en détail.\n\nUn ongl
+ et par logiciel et un filtre pour chercher (SIERREUR\, RECHERCHEX\, CALCUL
+ ATE…).\n\n👉 Lien en bio : ouvre le lexique.\n\n🎵 Plus d’astuces
+  sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#
+ Excel #Lexique #ApprendreExcel #PowerBI #SQL\n\n— Légende Facebook (à 
+ copier) —\n305 fonctions expliquées une par une\, même hors ligne 📖
+ \n\nLe lexique LIY10 rassemble 305 fonctions\, mesures et commandes des 8 
+ logiciels\, rangées par familles.\n\nChaque fiche : à quoi ça sert\, l
+ a syntaxe\, un exemple avec le résultat\, une astuce\, et un bouton pour 
+ demander à Liy10 de t’expliquer en détail.\n\nUn onglet par logiciel e
+ t un filtre pour chercher (SIERREUR\, RECHERCHEX\, CALCULATE…).\n\n👉 
+ Ouvre le lexique : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi
+  sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https:/
+ /www.instagram.com/liy10.learning)\n\n#Excel #Bureautique\n\n━━ TIKTOK
+  ━━\nVidéo : Demande-lui. Il t’y emmène. (dossier « a06-emmene-mo
+ i » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-
+ boop/liy10-videos/raw/main/videos/a06-emmene-moi.mp4\n\n— Légende TikTo
+ k (à copier) —\n« Quelle certification pour Power BI ? » Demand
+ e à Liy10 🎓\nIl répond tout de suite : PL-300\, niveau intermédiai
+ re\, avec un entraînement officiel gratuit sur Microsoft Learn. Et trois 
+ touches pour agir.\n\nTape « Emmène-moi au classement » : il te r
+ épond « Je t’y emmène » et une touche t’ouvre le classement.\n
+ \nLiy10 te fait naviguer partout dans l’appli\, sans chercher dans les m
+ enus.\n\nTu lui demandes quoi en premier ? 👇\n\n📲 Aussi sur Instag
+ ram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.c
+ om\n\n#powerbi #pl300 #certification #apprendresurtiktok #liy10\n\n\n📄 
+ Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/
+ blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : h
+ ttps://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-vide
+ os.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : 305 fonctions expliquées une par une | Ti
+ kTok : Demande-lui. Il t’y emmène.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-20-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261020T130000Z
+DTEND:20261020T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours Excel | TikTok : SQL Server nivea
+ u 4
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ De la première cellule au tableau croisé (dossier « l01-excel » du zip
+ )\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-
+ videos/raw/main/videos/l01-excel.mp4\n📱 Story vers 14:00 : partage la p
+ ublication en story (bouton ✈ › Ajouter à ta story).\n   Texte de la 
+ story : « Excel\, du premier clic au tableau croisé 📗 Commence 👆 
+ »\n\n— Légende Instagram (à copier) —\nExcel : de la première cel
+ lule au tableau croisé 📗\n\n14 niveaux\, 28 leçons\, 295 questions :
+  la cellule et son adresse\, le dollar et F4\, SI\, RECHERCHEX\, le tablea
+ u croisé dynamique\, LET et LAMBDA\, jusqu’aux boucles For en VBA.\n\nC
+ ertifications visées : MO-210 et MO-211.\n\nTu reconstruis vraiment les 
+ formules\, et le piège est enseigné à chaque leçon.\n\n👉 Lien en bi
+ o : commence Excel gratuitement.\n\n🎵 Plus d’astuces sur TikTok et F
+ acebook : @liy10.learning (abonne-toi partout 👻)\n\n#Excel #Apprendre
+ Excel #ExcelFacile #Bureautique #CoteDIvoire\n\n— Légende Facebook (à 
+ copier) —\nExcel : de la première cellule au tableau croisé 📗\n\n1
+ 4 niveaux\, 28 leçons\, 295 questions : la cellule et son adresse\, le d
+ ollar et F4\, SI\, RECHERCHEX\, le tableau croisé dynamique\, LET et LAMB
+ DA\, jusqu’aux boucles For en VBA.\n\nCertifications visées : MO-210 e
+ t MO-211.\n\nTu reconstruis vraiment les formules\, et le piège est ensei
+ gné à chaque leçon.\n\n👉 Commence Excel gratuitement : https://www.
+ liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.
+ com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learnin
+ g)\n\n#Excel #ApprendreExcel\n\n━━ TIKTOK ━━\nVidéo : SQL Server 
+ · Niveau 4 · Ta première requête (dossier « sq04-premiere-requete » 
+ du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/
+ liy10-videos/raw/main/videos/sq04-premiere-requete.mp4\n🖼 Couverture : 
+ https://github.com/jordyadopo-boop/liy10-videos/raw/main/couvertures/sq04-
+ premiere-requete.jpg\n\n— Légende TikTok (à copier) —\nTa première 
+ requête SQL\, morceau par morceau ⌨️\nSQL Server\, niveau 4 : ta prem
+ ière requête.\n\nSELECT\, FROM\, WHERE\, les apostrophes\, les parenthè
+ ses autour du OR\, ORDER BY et TOP 10 : la requête en haut\, la grille qu
+ i réagit en bas.\n\nLe piège : deux requêtes dans la fenêtre\, F5 lanc
+ e tout. Sélectionne la tienne\, puis F5.\n\nUne colonne vide qui fausse t
+ on total\, ça te parle ? C’est le niveau 5 : abonne-toi pour ne pas le 
+ rater 🔔\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy1
+ 0.learning)\n🌐 liy10learning.com\n\nCaptures : Microsoft Learn (CC BY 4
+ .0)\n\n#sqlserver #sql #requete #apprendresurtiktok #liy10\n\n\n📄 Tout 
+ le programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/
+ main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https:
+ //github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zi
+ p
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours Excel | TikTok : SQL Server n
+ iveau 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-21-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261021T100000Z
+DTEND:20261021T101500Z
+SUMMARY:Astuce · Insta/FB : La jointure qui double ton total | TikTok : 3 
+ formules Excel que personne ne t’a apprises
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : La jointure qui do
+ uble ton total (dossier « t08-jointure-double » du zip)\n⬇ Télécharg
+ er la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vi
+ deos/t08-jointure-double.mp4\n📱 Story vers 10:30 : partage la publicati
+ on en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story : 
+ « La jointure SQL qui double ton total 🤨 Regarde pourquoi 👆 »\n\n
+ — Légende Instagram (à copier) —\nTon chiffre d’affaires SQL a dou
+ blé… sans erreur. Normal ? 🤨\n\nChaque vente est payée en deux fo
+ is : la jointure avec les paiements dédouble chaque vente\, et le total 
+ passe de 25 000 F à 50 000 F sans que SQL prévienne.\n\nLe réflex
+ e : compte les lignes avant et après la jointure \; si elles se multipl
+ ient\, regroupe d’abord les paiements (GROUP BY)\, puis joins.\n\nC’es
+ t la leçon « Le piège du doublon » du parcours SQL Server (niveau 
+ 5\, Les jointures).\n\n👉 Lien en bio : apprends SQL en pratiquant.\n\n
+ 🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abonne-t
+ oi partout 👻)\n\n#SQL #SQLServer #ApprendreSQL #DataAnalyse #CoteDIvoir
+ e\n\n— Légende Facebook (à copier) —\nTon chiffre d’affaires SQL a
+  doublé… sans erreur. Normal ? 🤨\n\nChaque vente est payée en deu
+ x fois : la jointure avec les paiements dédouble chaque vente\, et le to
+ tal passe de 25 000 F à 50 000 F sans que SQL prévienne.\n\nLe ré
+ flexe : compte les lignes avant et après la jointure \; si elles se mul
+ tiplient\, regroupe d’abord les paiements (GROUP BY)\, puis joins.\n\nC
+ ’est la leçon « Le piège du doublon » du parcours SQL Server (ni
+ veau 5\, Les jointures).\n\n👉 Apprends SQL en pratiquant : https://www
+ .liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://www.tiktok
+ .com/@liy10.learning) et Instagram (https://www.instagram.com/liy10.learni
+ ng)\n\n#SQL #SQLServer\n\n━━ TIKTOK ━━\nVidéo : 3 formules Excel 
+ que personne ne t’a apprises (dossier « h02-trois-formules » du zip)\n
+ ⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-vid
+ eos/raw/main/videos/h02-trois-formules.mp4\n\n— Légende TikTok (à copi
+ er) —\n3 formules Excel que personne ne t’a apprises 🤯\n\n1 · FILT
+ RE garde seulement les lignes qui répondent à ton test.\n2 · LET donne 
+ un nom à ton calcul : il n’est calculé qu’une fois\, et ta formule
+  devient lisible.\n3 · RECHERCHEX cherche dans tous les sens\, même vers
+  la gauche\, là où RECHERCHEV bloque.\n\nLes trois demandent Excel 2021 
+ ou plus récent (ou Microsoft 365). Dans le parcours Excel : FILTRE et L
+ ET au niveau 12\, RECHERCHEX au niveau 7.\n\nTu en connaissais combien ?
+  👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.l
+ earning)\n🌐 liy10learning.com\n\n#excel #astuceexcel #apprendreexcel #a
+ pprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://githu
+ b.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf
+ \n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10
+ -videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : La jointure qui double ton total | TikTok 
+ : 3 formules Excel que personne ne t’a apprises
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-21-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261021T130000Z
+DTEND:20261021T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours Word | TikTok : Parcours Excel
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Écrire d’abord\, styler après (dossier « l02-word » du zip)\n⬇ Té
+ lécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw
+ /main/videos/l02-word.mp4\n📱 Story vers 14:00 : partage la publication 
+ en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « 
+ Word : écris d’abord\, mets en forme après 📘 Le parcours complet 
+ 👆 »\n\n— Légende Instagram (à copier) —\nWord : écris d’abor
+ d\, mets en forme après 📘\n\n12 niveaux\, 24 leçons\, 248 questions 
+ : le sommaire automatique\, les sauts de section\, le publipostage\, les m
+ acros et VBA.\n\nDu texte brut au document qui se tient seul.\n\nCertifica
+ tions visées : MO-110 et MO-111.\n\n👉 Lien en bio : commence Word gr
+ atuitement.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.lea
+ rning (abonne-toi partout 👻)\n\n#Word #ApprendreWord #Bureautique #Etud
+ iants #CoteDIvoire\n\n— Légende Facebook (à copier) —\nWord : écri
+ s d’abord\, mets en forme après 📘\n\n12 niveaux\, 24 leçons\, 248 q
+ uestions : le sommaire automatique\, les sauts de section\, le publiposta
+ ge\, les macros et VBA.\n\nDu texte brut au document qui se tient seul.\n\
+ nCertifications visées : MO-110 et MO-111.\n\n👉 Commence Word gratuit
+ ement : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok
+  (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.instag
+ ram.com/liy10.learning)\n\n#Word #Bureautique\n\n━━ TIKTOK ━━\nVid
+ éo : De la première cellule au tableau croisé (dossier « l01-excel » 
+ du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/
+ liy10-videos/raw/main/videos/l01-excel.mp4\n\n— Légende TikTok (à copi
+ er) —\nExcel : de la première cellule au tableau croisé 📗\n14 niv
+ eaux\, 28 leçons\, 295 questions\, marche par marche.\n\nLa cellule et so
+ n adresse\, le dollar et F4\, SI\, RECHERCHEX\, le tableau croisé dynamiq
+ ue\, jusqu’aux boucles For en VBA. Tu reconstruis vraiment les formules\
+ , et le piège est enseigné : en français\, les arguments se séparent
+  par un point-virgule.\n\nAu bout : les certifications MO-210 et MO-211.
+ \n\nTu bloques sur quelle formule ? 👇\n\n📲 Aussi sur Instagram et 
+ Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#
+ excel #astuceexcel #apprendreexcel #bureautique #liy10\n\n\n📄 Tout le p
+ rogramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main
+ /programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://gi
+ thub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours Word | TikTok : Parcours Exce
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-22-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261022T100000Z
+DTEND:20261022T101500Z
+SUMMARY:Astuce · Insta/FB : 3 formules Excel que personne ne t’a apprise
+ s | TikTok : POV : ton chef veut un tableau croisé pour 14 h
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 3 formules Excel q
+ ue personne ne t’a apprises (dossier « h02-trois-formules » du zip)\n
+ ⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-vid
+ eos/raw/main/videos/h02-trois-formules.mp4\n📱 Story vers 10:30 : partag
+ e la publication en story (bouton ✈ › Ajouter à ta story).\n   Texte 
+ de la story : « 3 formules Excel que personne ne t’a apprises 🤯 Tu e
+ n connais combien ? 👆 »\n\n— Légende Instagram (à copier) —\n3
+  formules Excel que personne ne t’a apprises 🤯\n\n1 · FILTRE : gard
+ e seulement les lignes qui répondent à ton test.\n2 · LET : donne un n
+ om à un calcul intermédiaire pour une formule lisible.\n3 · RECHERCHEX
+  : trouve et rapporte la valeur qu’il te faut.\n\nLes trois demandent E
+ xcel 2021 ou plus récent (ou Microsoft 365). Dans le parcours Excel : FI
+ LTRE et LET au niveau 12 (« Les formules modernes »)\, RECHERCHEX au
+  niveau 7.\n\n👉 Lien en bio : apprends-les gratuitement.\n\n🎵 Plus 
+ d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout
+  👻)\n\n#Excel #AstuceExcel #ApprendreExcel #Bureautique #CoteDIvoire\n\
+ n— Légende Facebook (à copier) —\n3 formules Excel que personne ne t
+ ’a apprises 🤯\n\n1 · FILTRE : garde seulement les lignes qui répon
+ dent à ton test.\n2 · LET : donne un nom à un calcul intermédiaire po
+ ur une formule lisible.\n3 · RECHERCHEX : trouve et rapporte la valeur q
+ u’il te faut.\n\nLes trois demandent Excel 2021 ou plus récent (ou Micr
+ osoft 365). Dans le parcours Excel : FILTRE et LET au niveau 12 (« Les
+  formules modernes »)\, RECHERCHEX au niveau 7.\n\n👉 Apprends-les gr
+ atuitement : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur T
+ ikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.i
+ nstagram.com/liy10.learning)\n\n#Excel #AstuceExcel\n\n━━ TIKTOK ━
+ ━\nVidéo : POV : ton chef veut un tableau croisé pour 14 h (dossier 
+ « h01-pov-tcd » du zip)\n⬇ Télécharger la vidéo : https://github.co
+ m/jordyadopo-boop/liy10-videos/raw/main/videos/h01-pov-tcd.mp4\n\n— Lég
+ ende TikTok (à copier) —\nPOV : ton chef veut un tableau croisé pour
+  14 h 😰\n\n13 h 52. 2 000 lignes de ventes\, le total par ville à
+  la main\, et la formule plante. Tu parles à Liy10\, il répond en 3 gest
+ es : Insertion › Tableau croisé dynamique\, Ville en Lignes\, Montant
+  en Valeurs. 13 h 58 : fait\, 2 minutes d’avance.\n\nDemain\, tu le 
+ fais seul : c’est la leçon du niveau 8 d’Excel.\n\nIdentifie le col
+ lègue qui panique toujours à la dernière minute 👇\n\n📲 Aussi sur 
+ Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10lear
+ ning.com\n\n#excel #tableaucroisedynamique #astuceexcel #viedebureau #liy1
+ 0\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/l
+ iy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidé
+ os (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/he
+ ads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : 3 formules Excel que personne ne t’a app
+ rises | TikTok : POV : ton chef veut un tableau croisé pour 14 h
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-22-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261022T130000Z
+DTEND:20261022T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours PowerPoint | TikTok : Parcours Wo
+ rd
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Une idée par diapositive (dossier « l03-powerpoint » du zip)\n⬇ Tél
+ écharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/
+ main/videos/l03-powerpoint.mp4\n📱 Story vers 14:00 : partage la publica
+ tion en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story 
+ : « PowerPoint : une idée par diapositive 📙 Le parcours 👆 »\n\n
+ — Légende Instagram (à copier) —\nPowerPoint : une idée par diapos
+ itive 📙\n\n12 niveaux\, 24 leçons\, 248 questions : le format qui se 
+ choisit avant\, le masque des diapositives\, la Morphose et le Zoom.\n\nDe
+  la diapositive bricolée à la présentation qui tient.\n\nCertification 
+ visée : MO-310.\n\n👉 Lien en bio : commence PowerPoint gratuitement.
+ \n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.learning (abon
+ ne-toi partout 👻)\n\n#PowerPoint #Presentation #Bureautique #Etudiants 
+ #CoteDIvoire\n\n— Légende Facebook (à copier) —\nPowerPoint : une i
+ dée par diapositive 📙\n\n12 niveaux\, 24 leçons\, 248 questions : le
+  format qui se choisit avant\, le masque des diapositives\, la Morphose et
+  le Zoom.\n\nDe la diapositive bricolée à la présentation qui tient.\n\
+ nCertification visée : MO-310.\n\n👉 Commence PowerPoint gratuitement
+  : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (htt
+ ps://www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.c
+ om/liy10.learning)\n\n#PowerPoint #Bureautique\n\n━━ TIKTOK ━━\nVi
+ déo : Écrire d’abord\, styler après (dossier « l02-word » du zip)\n
+ ⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-vid
+ eos/raw/main/videos/l02-word.mp4\n\n— Légende TikTok (à copier) —\nW
+ ord : écris d’abord\, mets en forme après 📘\nLe parcours Word :
+  12 niveaux\, 24 leçons\, 248 questions.\n\nDu gras\, ce n’est pas un t
+ itre. Tu poses le style « Titre 1 »\, tu modifies le style une seule
+  fois\, et tout suit : 6 titres changés\, 1 seul réglage. Le sommaire 
+ se fait seul\, et chaque section a sa mise en page.\n\nPuis le publipostag
+ e\, les macros et VBA\, jusqu’aux certifications MO-110 et MO-111.\n\nTu
+  mets encore tes titres en gras à la main ? 👇\n\n📲 Aussi sur Inst
+ agram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning
+ .com\n\n#word #astuceword #bureautique #apprendresurtiktok #liy10\n\n\n
+ 📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-vi
+ deos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip
+ ) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip
+ -videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours PowerPoint | TikTok : Parcour
+ s Word
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-23-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261023T100000Z
+DTEND:20261023T101500Z
+SUMMARY:Astuce · Insta/FB : C’est quoi un tableau croisé dynamique ? 
+ | TikTok : Ton total est faux et Excel ne dit rien
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : C’est quoi un ta
+ bleau croisé dynamique ? (dossier « a03-tcd » du zip)\n⬇ Téléchar
+ ger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/v
+ ideos/a03-tcd.mp4\n📱 Story vers 10:30 : https://github.com/jordyadopo-b
+ oop/liy10-videos/raw/main/stories-images/a03-tcd.jpg\n   Texte de la story
+  : « C’est quoi un tableau croisé dynamique ? 📊 Liy10 explique 
+ 👆 »\n\n— Légende Instagram (à copier) —\n2 000 lignes de vente
+ s… résumées en 4 lignes 📊\n\nUn tableau croisé dynamique (TCD) rep
+ lie une longue liste en un tableau lisible : total par ville\, par catég
+ orie\, en quelques glissés (Ville → Lignes\, Montant → Valeurs\, Cat
+ égorie → Colonnes).\n\n« Dynamique » ne veut pas dire « automa
+ tique » : si tu ajoutes une vente\, fais clic droit › Actualiser.\n\
+ nLiy10 te montre tout ça dans le petit écran du tableau croisé.\n\n👉
+  Lien en bio : demande à Liy10 de t’expliquer.\n\n🎵 Plus d’astuce
+ s sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n
+ #Excel #TableauCroiseDynamique #ApprendreExcel #Bureautique #CoteDIvoire\n
+ \n— Légende Facebook (à copier) —\n2 000 lignes de ventes… résu
+ mées en 4 lignes 📊\n\nUn tableau croisé dynamique (TCD) replie une lo
+ ngue liste en un tableau lisible : total par ville\, par catégorie\, en 
+ quelques glissés (Ville → Lignes\, Montant → Valeurs\, Catégorie →
+  Colonnes).\n\n« Dynamique » ne veut pas dire « automatique »
+  : si tu ajoutes une vente\, fais clic droit › Actualiser.\n\nLiy10 te 
+ montre tout ça dans le petit écran du tableau croisé.\n\n👉 Demande 
+ à Liy10 de t’expliquer : https://www.liy10learning.com\n\n🎵 Abonne-
+ toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram
+  (https://www.instagram.com/liy10.learning)\n\n#Excel #TableauCroiseDynami
+ que\n\n━━ TIKTOK ━━\nVidéo : Ton total est faux et Excel ne dit r
+ ien (dossier « t01-nombre-texte » du zip)\n⬇ Télécharger la vidéo :
+  https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/t01-nombr
+ e-texte.mp4\n\n— Légende TikTok (à copier) —\nTon total est faux. Et
+  Excel ne dit rien. ⚠️\nIci\, =SOMME(B2:B7) donne 61 000 F au lieu 
+ de 76 000 F.\n\nUn des chiffres est stocké en texte : aligné à gau
+ che\, il est ignoré. Excel le signale juste par un tout petit triangle ve
+ rt.\n\nSélectionne la cellule\, ouvre le petit losange d’avertissement\
+ , choisis « Convertir en nombre » : le total passe à 76 000 F.
+ \n\nÇa t’est déjà arrivé ? 👇\n\n📲 Aussi sur Instagram et Fac
+ ebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#exc
+ el #astuceexcel #bureautique #apprendresurtiktok #liy10\n\n\n📄 Tout le 
+ programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/mai
+ n/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://g
+ ithub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : C’est quoi un tableau croisé dynamique
+  ? | TikTok : Ton total est faux et Excel ne dit rien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-23-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261023T130000Z
+DTEND:20261023T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours Power BI | TikTok : Parcours Powe
+ rPoint
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Charger\, nettoyer\, modéliser\, mesurer\, publier (dossier « l04-powerb
+ i » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-
+ boop/liy10-videos/raw/main/videos/l04-powerbi.mp4\n📱 Story vers 14:00 :
+  partage la publication en story (bouton ✈ › Ajouter à ta story).\n  
+  Texte de la story : « Power BI\, de la donnée brute au rapport 📊 Le 
+ parcours 👆 »\n\n— Légende Instagram (à copier) —\nPower BI : ch
+ arger\, nettoyer\, modéliser\, mesurer\, publier 📊\n\n13 niveaux\, 26 
+ leçons\, 269 questions : une mesure plutôt qu’une colonne\, le sens d
+ u filtre\, CALCULATE et le contexte\, le modèle en étoile.\n\nDu fichier
+  brut au rapport qu’on lit en trois secondes.\n\nCertification visée :
+  PL-300.\n\n👉 Lien en bio : commence Power BI gratuitement.\n\n🎵 Pl
+ us d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi part
+ out 👻)\n\n#PowerBI #DAX #DataAnalyse #Bureautique #CoteDIvoire\n\n— L
+ égende Facebook (à copier) —\nPower BI : charger\, nettoyer\, modéli
+ ser\, mesurer\, publier 📊\n\n13 niveaux\, 26 leçons\, 269 questions :
+  une mesure plutôt qu’une colonne\, le sens du filtre\, CALCULATE et le
+  contexte\, le modèle en étoile.\n\nDu fichier brut au rapport qu’on l
+ it en trois secondes.\n\nCertification visée : PL-300.\n\n👉 Commence 
+ Power BI gratuitement : https://www.liy10learning.com\n\n🎵 Abonne-toi 
+ aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (ht
+ tps://www.instagram.com/liy10.learning)\n\n#PowerBI #DAX\n\n━━ TIKTOK 
+ ━━\nVidéo : Une idée par diapositive (dossier « l03-powerpoint » d
+ u zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/l
+ iy10-videos/raw/main/videos/l03-powerpoint.mp4\n\n— Légende TikTok (à 
+ copier) —\nTa diapo n’est pas un document 📙\nPowerPoint\, une idée
+  par diapositive : le titre dit la conclusion\, pas le sujet.\n\nLe logo
+  se pose une fois dans le masque\, et il est visible partout. La Morphose
+  : Ctrl + D\, tu déplaces la copie\, Transitions › Morphose\, et tout
+  glisse. Dupliquer\, jamais recréer.\n\n12 niveaux\, 24 leçons\, 248 que
+ stions\, jusqu’à la certification MO-310.\n\nTa pire diapo\, elle avait
+  combien de lignes ? 👇\n\n📲 Aussi sur Instagram et Facebook : LI
+ Y10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#powerpoint #ast
+ ucepowerpoint #bureautique #apprendresurtiktok #liy10\n\n\n📄 Tout le pr
+ ogramme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/
+ programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://git
+ hub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours Power BI | TikTok : Parcours 
+ PowerPoint
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-24-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261024T100000Z
+DTEND:20261024T101500Z
+SUMMARY:Astuce · Insta/FB : Ton total est faux et Excel ne dit rien | TikT
+ ok : CALCULATE en DAX\, simplement
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Ton total est faux
+  et Excel ne dit rien (dossier « t01-nombre-texte » du zip)\n⬇ Téléc
+ harger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/mai
+ n/videos/t01-nombre-texte.mp4\n📱 Story vers 10:30 : partage la publicat
+ ion en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story :
+  « Ton total Excel est faux et rien ne le dit ⚠️ Regarde pourquoi 
+ 👆 »\n\n— Légende Instagram (à copier) —\nTon total est faux. Et 
+ Excel ne dit rien. ⚠️\n\nDans la vidéo\, =SOMME(B2:B7) donne 61 000
+  F au lieu de 76 000 F : un des chiffres est stocké en texte\, align
+ é à gauche\, et ignoré.\n\nExcel le signale juste par un tout petit tri
+ angle vert. Sélectionne la cellule\, ouvre le petit losange d’avertisse
+ ment et choisis « Convertir en nombre » : le total passe à 76 00
+ 0 F.\n\nLIY10 t’apprend le piège avant qu’il te coûte des heures.\n
+ \n👉 Lien en bio : apprends Excel gratuitement.\n\n🎵 Plus d’astuce
+ s sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n
+ #Excel #AstuceExcel #ApprendreExcel #Bureautique #CoteDIvoire\n\n— Lége
+ nde Facebook (à copier) —\nTon total est faux. Et Excel ne dit rien. 
+ ⚠️\n\nDans la vidéo\, =SOMME(B2:B7) donne 61 000 F au lieu de 76
+  000 F : un des chiffres est stocké en texte\, aligné à gauche\, et
+  ignoré.\n\nExcel le signale juste par un tout petit triangle vert. Séle
+ ctionne la cellule\, ouvre le petit losange d’avertissement et choisis 
+ « Convertir en nombre » : le total passe à 76 000 F.\n\nLIY10 t
+ ’apprend le piège avant qu’il te coûte des heures.\n\n👉 Apprends 
+ Excel gratuitement : https://www.liy10learning.com\n\n🎵 Abonne-toi aus
+ si sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https
+ ://www.instagram.com/liy10.learning)\n\n#Excel #AstuceExcel\n\n━━ TIKT
+ OK ━━\nVidéo : CALCULATE en DAX\, simplement (dossier « a04-calculat
+ e » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-
+ boop/liy10-videos/raw/main/videos/a04-calculate.mp4\n\n— Légende TikTok
+  (à copier) —\nUne seule mesure Power BI\, trois chiffres différents. 
+ Pourquoi ? 🤔\nCALCULATE change le filtre de ta mesure.\n\nCALCULATE([
+ CA]\, Ventes[Catégorie] = "Riz") ne garde que les lignes de riz : 1 0
+ 00 000 F sur 1 500 000 F au total.\n\nLe piège : sur une même 
+ colonne\, le filtre de CALCULATE remplace celui du visuel\, il ne s’y aj
+ oute pas.\n\nC’est le niveau 13 de Power BI sur LIY10. Tu l’avais comp
+ ris comme ça ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 L
+ earning (@liy10.learning)\n🌐 liy10learning.com\n\n#powerbi #dax #data #
+ apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://gith
+ ub.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pd
+ f\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy1
+ 0-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : Ton total est faux et Excel ne dit rien | 
+ TikTok : CALCULATE en DAX\, simplement
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-24-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261024T130000Z
+DTEND:20261024T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours Access | TikTok : Parcours Power 
+ BI
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ La marche entre Excel et SQL Server (dossier « l05-access » du zip)\n⬇
+  Télécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos
+ /raw/main/videos/l05-access.mp4\n📱 Story vers 14:00 : partage la public
+ ation en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story
+  : « Access : ta première vraie base de données 🗄️ Le parcours 
+ 👆 »\n\n— Légende Instagram (à copier) —\nAccess : la marche ent
+ re Excel et SQL Server 🗄️\n\n12 niveaux\, 24 leçons\, 240 questions
+  : la clé primaire et les relations\, les masques et validations\, les r
+ equêtes action sans casse\, les formulaires et les états.\n\nTa premièr
+ e vraie base de données.\n\nCertification visée : MO-500.\n\n👉 Lien 
+ en bio : commence Access gratuitement.\n\n🎵 Plus d’astuces sur TikTo
+ k et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#Access #Mi
+ crosoftAccess #BaseDeDonnees #Bureautique #CoteDIvoire\n\n— Légende Fac
+ ebook (à copier) —\nAccess : la marche entre Excel et SQL Server 🗄
+ ️\n\n12 niveaux\, 24 leçons\, 240 questions : la clé primaire et les 
+ relations\, les masques et validations\, les requêtes action sans casse\,
+  les formulaires et les états.\n\nTa première vraie base de données.\n\
+ nCertification visée : MO-500.\n\n👉 Commence Access gratuitement : h
+ ttps://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://
+ www.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/li
+ y10.learning)\n\n#Access #BaseDeDonnees\n\n━━ TIKTOK ━━\nVidéo : 
+ Charger\, nettoyer\, modéliser\, mesurer\, publier (dossier « l04-powerb
+ i » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-
+ boop/liy10-videos/raw/main/videos/l04-powerbi.mp4\n\n— Légende TikTok (
+ à copier) —\nPower BI : charger\, nettoyer\, modéliser\, mesurer\, p
+ ublier 📊\nDu fichier brut au rapport qu’on lit en trois secondes.\n\n
+ D’abord\, transformer dans Power Query : chaque étape se rejoue. Puis
+  le modèle en étoile\, où le filtre descend. Et la mesure\, tu l’écr
+ is toi-même\, une fois\, et elle est calculée partout : CA = SUM(Vente
+ s[Montant]).\n\n13 niveaux\, 26 leçons\, 269 questions\, jusqu’à la PL
+ -300.\n\nTu calcules encore tes totaux dans une colonne ? 👇\n\n📲 A
+ ussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 
+ liy10learning.com\n\n#powerbi #dax #dataanalyse #apprendresurtiktok #liy10
+ \n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/li
+ y10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéo
+ s (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/hea
+ ds/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours Access | TikTok : Parcours Po
+ wer BI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-25-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261025T100000Z
+DTEND:20261025T101500Z
+SUMMARY:Astuce · Insta/FB : Une mesure\, pas une colonne | TikTok : La joi
+ nture qui double ton total
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Une mesure\, pas u
+ ne colonne (dossier « t06-mesure-colonne » du zip)\n⬇ Télécharger la
+  vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/
+ t06-mesure-colonne.mp4\n📱 Story vers 10:30 : partage la publication en 
+ story (bouton ✈ › Ajouter à ta story).\n   Texte de la story : « 22\
+ ,5 % ou 16 % ? Lequel est juste dans Power BI ? 🤔 Réponse 👆 
+ »\n\n— Légende Instagram (à copier) —\n22\,5 % ou 16 % ? Lequel
+  est juste dans Power BI ?\n\nUne colonne calculée stocke un pourcentag
+ e par ligne et la carte en fait la moyenne : 22\,5 %. Une mesure additio
+ nne la marge\, additionne le montant\, puis divise : 320 000 ÷ 2 000
+  000 = 16 %.\n\nQuand tu filtres sur une ville\, la colonne se trompe e
+ ncore\, la mesure se recalcule juste.\n\nLa règle : mesure par défaut\,
+  colonne seulement pour filtrer ou grouper.\n\n👉 Lien en bio : apprend
+ s Power BI en pratiquant.\n\n🎵 Plus d’astuces sur TikTok et Facebook
+  : @liy10.learning (abonne-toi partout 👻)\n\n#PowerBI #DAX #DataAnaly
+ se #Bureautique #CoteDIvoire\n\n— Légende Facebook (à copier) —\n22\
+ ,5 % ou 16 % ? Lequel est juste dans Power BI ?\n\nUne colonne calcu
+ lée stocke un pourcentage par ligne et la carte en fait la moyenne : 22\
+ ,5 %. Une mesure additionne la marge\, additionne le montant\, puis divis
+ e : 320 000 ÷ 2 000 000 = 16 %.\n\nQuand tu filtres sur une ville
+ \, la colonne se trompe encore\, la mesure se recalcule juste.\n\nLa règl
+ e : mesure par défaut\, colonne seulement pour filtrer ou grouper.\n\n
+ 👉 Apprends Power BI en pratiquant : https://www.liy10learning.com\n\n
+ 🎵 Abonne-toi aussi sur TikTok (https://www.tiktok.com/@liy10.learning) 
+ et Instagram (https://www.instagram.com/liy10.learning)\n\n#PowerBI #DAX\n
+ \n━━ TIKTOK ━━\nVidéo : La jointure qui double ton total (dossier
+  « t08-jointure-double » du zip)\n⬇ Télécharger la vidéo : https://
+ github.com/jordyadopo-boop/liy10-videos/raw/main/videos/t08-jointure-doubl
+ e.mp4\n\n— Légende TikTok (à copier) —\nTon chiffre d’affaires SQL
+  a doublé… sans erreur. Normal ? 🤨\nSQL Server : la jointure qui
+  double ton total.\n\nChaque vente est payée en deux fois. La jointure av
+ ec les paiements recopie chaque vente\, et le total passe de 25 000 F 
+ à 50 000 F\, sans aucune alerte.\n\nLe réflexe : compte tes lignes 
+ avant et après la jointure. Elles se multiplient ? Regroupe d’abord l
+ es paiements (GROUP BY)\, puis joins.\n\nTu comptes tes lignes\, toi ? 
+ 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.le
+ arning)\n🌐 liy10learning.com\n\n#sql #sqlserver #data #apprendresurtikt
+ ok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadop
+ o-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes l
+ es vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive
+ /refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : Une mesure\, pas une colonne | TikTok : La
+  jointure qui double ton total
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-25-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261025T130000Z
+DTEND:20261025T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours SQL Server | TikTok : Parcours Ac
+ cess
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Une requête peut être juste et catastrophique (dossier « l06-sql » du 
+ zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/liy
+ 10-videos/raw/main/videos/l06-sql.mp4\n📱 Story vers 14:00 : partage la 
+ publication en story (bouton ✈ › Ajouter à ta story).\n   Texte de la
+  story : « SQL : une requête peut être juste et catastrophique 💥 Le
+  parcours 👆 »\n\n— Légende Instagram (à copier) —\nSQL : une re
+ quête peut être juste… et catastrophique 💥\n\n12 niveaux\, 24 leço
+ ns\, 264 questions : SELECT\, WHERE\, ORDER BY\, NULL (le piège permanen
+ t)\, les jointures et le doublon qui double le total\, le fenêtrage\, les
+  index et le plan d’exécution.\n\nInterroger une vraie base de données
+ \, en exécutant le code.\n\nCertifications visées : DP-900 et DP-300.\n
+ \n👉 Lien en bio : commence SQL gratuitement.\n\n🎵 Plus d’astuces 
+ sur TikTok et Facebook : @liy10.learning (abonne-toi partout 👻)\n\n#S
+ QL #SQLServer #ApprendreSQL #DataAnalyse #CoteDIvoire\n\n— Légende Face
+ book (à copier) —\nSQL : une requête peut être juste… et catastrop
+ hique 💥\n\n12 niveaux\, 24 leçons\, 264 questions : SELECT\, WHERE\, 
+ ORDER BY\, NULL (le piège permanent)\, les jointures et le doublon qui do
+ uble le total\, le fenêtrage\, les index et le plan d’exécution.\n\nIn
+ terroger une vraie base de données\, en exécutant le code.\n\nCertificat
+ ions visées : DP-900 et DP-300.\n\n👉 Commence SQL gratuitement : htt
+ ps://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTok (https://ww
+ w.tiktok.com/@liy10.learning) et Instagram (https://www.instagram.com/liy1
+ 0.learning)\n\n#SQL #SQLServer\n\n━━ TIKTOK ━━\nVidéo : La marche
+  entre Excel et SQL Server (dossier « l05-access » du zip)\n⬇ Téléch
+ arger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main
+ /videos/l05-access.mp4\n\n— Légende TikTok (à copier) —\nAccess : 
+ la marche entre Excel et SQL Server 🗄️\nLe parcours Access : 12 niv
+ eaux\, 24 leçons\, 240 questions.\n\nLe même nom recopié partout ? Ta
+  feuille Excel se découpe en tables\, et chaque ligne a sa clé. On relie
+  les deux tables : client inconnu ? Commande refusée. Puis une requê
+ te les réunit\, sans rien recopier.\n\nTa première vraie base de donnée
+ s. Certification visée : MO-500.\n\nExcel\, Access\, SQL Server : tu 
+ es sur quelle marche ? 👇\n\n📲 Aussi sur Instagram et Facebook : 
+ LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n#access #micro
+ softaccess #basededonnees #bureautique #liy10\n\n\n📄 Tout le programme 
+ (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/main/programm
+ e/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://github.com/
+ jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours SQL Server | TikTok : Parcour
+ s Access
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-26-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261026T100000Z
+DTEND:20261026T101500Z
+SUMMARY:Astuce · Insta/FB : Sa réponse en moins de 10 secondes | TikTok :
+  Le vrai fichier derrière chaque leçon
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Sa réponse en moi
+ ns de 10 secondes (dossier « n08-reponse-rapide » du zip)\n⬇ Télécha
+ rger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/
+ videos/n08-reponse-rapide.mp4\n📱 Story vers 10:30 : partage la publicat
+ ion en story (bouton ✈ › Ajouter à ta story).\n   Texte de la story :
+  « Combien de secondes pour une réponse ? ⏱️ Moins de 10 chez Liy1
+ 0 👆 »\n\n— Légende Instagram (à copier) —\nLiy10 te répond en m
+ oins de 10 secondes ⏱️\n\nChrono lancé : les premiers mots arrivent 
+ en 2 à 3 secondes\, la réponse complète en moins de 10.\n\nUne question
+  déjà posée revient instantanément\, et « Plus de détails » ouv
+ re l’explication complète.\n\nUn petit écran pour chaque logiciel : E
+ xcel\, Word\, PowerPoint\, Power BI\, Access\, SQL Server\, Power Automate
+ \, Fabric.\n\n👉 Lien en bio : lance ton propre chrono.\n\n🎵 Plus d
+ ’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi partout 
+ 👻)\n\n#Liy10 #AssistantIA #Excel #PowerBI #CoteDIvoire\n\n— Légende 
+ Facebook (à copier) —\nLiy10 te répond en moins de 10 secondes ⏱️\
+ n\nChrono lancé : les premiers mots arrivent en 2 à 3 secondes\, la ré
+ ponse complète en moins de 10.\n\nUne question déjà posée revient inst
+ antanément\, et « Plus de détails » ouvre l’explication complèt
+ e.\n\nUn petit écran pour chaque logiciel : Excel\, Word\, PowerPoint\, 
+ Power BI\, Access\, SQL Server\, Power Automate\, Fabric.\n\n👉 Lance to
+ n propre chrono : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi 
+ sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https://
+ www.instagram.com/liy10.learning)\n\n#Liy10 #AssistantIA\n\n━━ TIKTOK 
+ ━━\nVidéo : Le vrai fichier derrière chaque leçon (dossier « r02-f
+ ichiers » du zip)\n⬇ Télécharger la vidéo : https://github.com/jordy
+ adopo-boop/liy10-videos/raw/main/videos/r02-fichiers.mp4\n\n— Légende T
+ ikTok (à copier) —\nLe vrai fichier derrière chaque leçon : bientô
+ t avec LIY10 Pro 📁\n\nAvec Pro\, tu pourras ouvrir le classeur\, le doc
+ ument\, la présentation ou le rapport de chaque leçon. Des cas réels\, 
+ pas des exemples de manuel : une facture\, un état de paie\, un bilan t
+ rimestriel. Et des fiches PDF : raccourcis et récapitulatifs.\n\nLe pai
+ ement Pro ouvre bientôt. Le gratuit reste gratuit pour toujours.\n\nTu co
+ mmences par quoi : la facture\, l’état de paie ou le bilan ? 👇\n
+ \n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.learning
+ )\n🌐 liy10learning.com\n\n#liy10pro #excel #word #powerbi #liy10\n\n\n
+ 📄 Tout le programme (PDF) : https://github.com/jordyadopo-boop/liy10-vi
+ deos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip
+ ) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip
+ -videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : Sa réponse en moins de 10 secondes | TikT
+ ok : Le vrai fichier derrière chaque leçon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-26-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261026T130000Z
+DTEND:20261026T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours Power Automate | TikTok : Parcour
+ s SQL Server
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ Automatise ce que tu refais tous les lundis (dossier « l07-automate » du
+  zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/li
+ y10-videos/raw/main/videos/l07-automate.mp4\n📱 Story vers 14:00 : parta
+ ge la publication en story (bouton ✈ › Ajouter à ta story).\n   Texte
+  de la story : « Automatise ce que tu refais tous les lundis ⚙️ Power
+  Automate 👆 »\n\n— Légende Instagram (à copier) —\nPower Automat
+ e : automatise ce que tu refais tous les lundis ⚙️\n\n12 niveaux\, 24
+  leçons\, 248 questions : déclencheur et action\, ranger les pièces jo
+ intes tout seul\, les approbations et les erreurs\, Power Automate Desktop
+  (le robot du PC).\n\nFaire travailler la machine à ta place.\n\nCertific
+ ation visée : PL-900.\n\n👉 Lien en bio : commence Power Automate gra
+ tuitement.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @liy10.lear
+ ning (abonne-toi partout 👻)\n\n#PowerAutomate #Automatisation #Producti
+ vite #Bureautique #CoteDIvoire\n\n— Légende Facebook (à copier) —\nP
+ ower Automate : automatise ce que tu refais tous les lundis ⚙️\n\n12 
+ niveaux\, 24 leçons\, 248 questions : déclencheur et action\, ranger le
+ s pièces jointes tout seul\, les approbations et les erreurs\, Power Auto
+ mate Desktop (le robot du PC).\n\nFaire travailler la machine à ta place.
+ \n\nCertification visée : PL-900.\n\n👉 Commence Power Automate gratui
+ tement : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi sur TikTo
+ k (https://www.tiktok.com/@liy10.learning) et Instagram (https://www.insta
+ gram.com/liy10.learning)\n\n#PowerAutomate #Automatisation\n\n━━ TIKTO
+ K ━━\nVidéo : Une requête peut être juste et catastrophique (dossie
+ r « l06-sql » du zip)\n⬇ Télécharger la vidéo : https://github.com/
+ jordyadopo-boop/liy10-videos/raw/main/videos/l06-sql.mp4\n\n— Légende T
+ ikTok (à copier) —\nSQL : une requête peut être juste… et catastr
+ ophique 💥\nLe parcours SQL Server : 12 niveaux\, 24 leçons\, 264 que
+ stions.\n\nLe NULL qui fait disparaître une ligne. La jointure qui double
+  le total\, sans aucune erreur. Le DELETE sans WHERE\, rattrapé par un RO
+ LLBACK. Et l’index : même requête\, même résultat\, 200 fois plus 
+ vite.\n\nTu exécutes le code et tu vois ce qui sort. Certifications visé
+ es : DP-900 et DP-300.\n\nTon dernier DELETE avait bien un WHERE ? 
+ 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (@liy10.le
+ arning)\n🌐 liy10learning.com\n\n#sqlserver #sql #apprendresql #apprendr
+ esurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/j
+ ordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 
+ Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos
+ /archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours Power Automate | TikTok : Par
+ cours SQL Server
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-27-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261027T100000Z
+DTEND:20261027T101500Z
+SUMMARY:Astuce · Insta/FB : Ton appli\, tes couleurs | TikTok : Il m’att
+ end depuis 3 jours…
+DESCRIPTION:━━ INSTAGRAM + FACEBOOK ━━\nVidéo : Ton appli\, tes co
+ uleurs (dossier « n04-tes-couleurs » du zip)\n⬇ Télécharger la vidé
+ o : https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/n04-te
+ s-couleurs.mp4\n📱 Story vers 10:30 : https://github.com/jordyadopo-boop
+ /liy10-videos/raw/main/stories/n04-tes-couleurs.mp4\n   Texte de la story 
+ : « Quelle couleur pour Liy10 ? 🎨 Blanc\, bleu\, vert\, rose\, viole
+ t\, or… Dis-moi en réponse 👆 »\n\n— Légende Instagram (à copier
+ ) —\nTon appli\, tes couleurs. Et ton fantôme aussi 🎨\n\nThème clai
+ r\, sombre ou automatique. Effet verre translucide. Et la couleur de Liy10
+  : blanc\, bleu\, vert\, rose\, violet\, or\, translucide ou transparent.
+ \n\nÀ chaque changement\, il fait un petit bond de joie.\n\nLe réglage v
+ aut pour le site ET pour l’appli : ouvre le panneau Apparence (🎨) et
+  choisis ton style.\n\n👉 Lien en bio : choisis ta couleur.\n\n🎵 Plu
+ s d’astuces sur TikTok et Facebook : @liy10.learning (abonne-toi parto
+ ut 👻)\n\n#Liy10 #Personnalisation #AppliMobile #CoteDIvoire #AfriqueFra
+ ncophone\n\n— Légende Facebook (à copier) —\nTon appli\, tes couleur
+ s. Et ton fantôme aussi 🎨\n\nThème clair\, sombre ou automatique. Eff
+ et verre translucide. Et la couleur de Liy10 : blanc\, bleu\, vert\, rose
+ \, violet\, or\, translucide ou transparent.\n\nÀ chaque changement\, il 
+ fait un petit bond de joie.\n\nLe réglage vaut pour le site ET pour l’a
+ ppli : ouvre le panneau Apparence (🎨) et choisis ton style.\n\n👉 Ch
+ oisis ta couleur : https://www.liy10learning.com\n\n🎵 Abonne-toi aussi
+  sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (https:/
+ /www.instagram.com/liy10.learning)\n\n#LIY10 #Personnalisation\n\n━━ T
+ IKTOK ━━\nVidéo : Il m’attend depuis 3 jours… (dossier « m13-wid
+ get-liy10 » du zip)\n⬇ Télécharger la vidéo : https://github.com/jor
+ dyadopo-boop/liy10-videos/raw/main/videos/m13-widget-liy10.mp4\n\n— Lég
+ ende TikTok (à copier) —\nIl m’attend depuis 3 jours… 🥺\nSur ton
+  écran d’accueil\, le widget de Liy10 est content. Puis\, jour après j
+ our\, il change d’humeur : timide\, endormi\, triste. « Zzz… je t
+ ’attends. »\n\nLe soir\, si ta leçon n’est pas faite\, un rappel
+  : « 🔥 Ta série de 12 jours t’attend ! » Un seul appui\, u
+ ne leçon de 3 minutes\, et il saute de joie.\n\nWidgets et rappels : su
+ r l’appli Android\, bientôt sur Google Play.\n\nTu le ferais attendre\,
+  toi ? 👇\n\n📲 Aussi sur Instagram et Facebook : LIY10 Learning (
+ @liy10.learning)\n🌐 liy10learning.com\n\n#android #widget #motivation #
+ apprendresurtiktok #liy10\n\n\n📄 Tout le programme (PDF) : https://gith
+ ub.com/jordyadopo-boop/liy10-videos/blob/main/programme/programme-liy10.pd
+ f\n📦 Toutes les vidéos (zip) : https://github.com/jordyadopo-boop/liy1
+ 0-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · Insta/FB : Ton appli\, tes couleurs | TikTok : Il m
+ ’attend depuis 3 jours…
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-27-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261027T130000Z
+DTEND:20261027T131500Z
+SUMMARY:★ Leçon · Insta/FB : Parcours Fabric | TikTok : Parcours Power 
+ Automate
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ INSTAGRAM + FACEBOOK ━━\nVidéo : 
+ OneLake\, Lakehouse\, PySpark\, sans avoir peur (dossier « l08-fabric » 
+ du zip)\n⬇ Télécharger la vidéo : https://github.com/jordyadopo-boop/
+ liy10-videos/raw/main/videos/l08-fabric.mp4\n📱 Story vers 14:00 : parta
+ ge la publication en story (bouton ✈ › Ajouter à ta story).\n   Texte
+  de la story : « Microsoft Fabric sans avoir peur 🌊 OneLake\, Lakehous
+ e\, PySpark 👆 »\n\n— Légende Instagram (à copier) —\nMicrosoft F
+ abric : OneLake\, Lakehouse\, PySpark\, sans avoir peur 🌊\n\n12 niveau
+ x\, 24 leçons\, 242 questions : OneLake et les raccourcis\, Lakehouse ou
+  Entrepôt\, les notebooks PySpark\, Direct Lake et le temps réel en KQL.
+ \n\nLa plateforme qui rassemble tout\, expliquée marche par marche.\n\nCe
+ rtifications visées : DP-600 et DP-700.\n\n👉 Lien en bio : commence 
+ Fabric gratuitement.\n\n🎵 Plus d’astuces sur TikTok et Facebook : @
+ liy10.learning (abonne-toi partout 👻)\n\n#MicrosoftFabric #PySpark #Dat
+ aEngineering #DataAnalyse #CoteDIvoire\n\n— Légende Facebook (à copier
+ ) —\nMicrosoft Fabric : OneLake\, Lakehouse\, PySpark\, sans avoir peur
+  🌊\n\n12 niveaux\, 24 leçons\, 242 questions : OneLake et les raccour
+ cis\, Lakehouse ou Entrepôt\, les notebooks PySpark\, Direct Lake et le t
+ emps réel en KQL.\n\nLa plateforme qui rassemble tout\, expliquée marche
+  par marche.\n\nCertifications visées : DP-600 et DP-700.\n\n👉 Commen
+ ce Fabric gratuitement : https://www.liy10learning.com\n\n🎵 Abonne-toi
+  aussi sur TikTok (https://www.tiktok.com/@liy10.learning) et Instagram (h
+ ttps://www.instagram.com/liy10.learning)\n\n#MicrosoftFabric #DataEngineer
+ ing\n\n━━ TIKTOK ━━\nVidéo : Automatise ce que tu refais tous les
+  lundis (dossier « l07-automate » du zip)\n⬇ Télécharger la vidéo :
+  https://github.com/jordyadopo-boop/liy10-videos/raw/main/videos/l07-autom
+ ate.mp4\n\n— Légende TikTok (à copier) —\nPower Automate : automat
+ ise ce que tu refais tous les lundis ⚙️\nLe parcours Power Automate 
+ : 12 niveaux\, 24 leçons\, 248 questions.\n\nQuand un e-mail arrive\, alo
+ rs ton flux range la pièce jointe\, puis prévient l’équipe. Ton ordin
+ ateur est éteint ? Le flux de cloud tourne quand même. Le piège : d
+ eux pièces jointes\, un nom de fichier fixe\, et l’une écrase l’autr
+ e. La parade : un nom qui change à chaque tour.\n\nCertification visée
+  : PL-900.\n\nToi\, tu refais quoi tous les lundis ? 👇\n\n📲 Auss
+ i sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy
+ 10learning.com\n\n#powerautomate #automatisation #productivite #bureautiqu
+ e #liy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo
+ -boop/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes le
+ s vidéos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/
+ refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · Insta/FB : Parcours Fabric | TikTok : Parcours Po
+ wer Automate
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-28-1000@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261028T100000Z
+DTEND:20261028T101500Z
+SUMMARY:Astuce · TikTok : Les super-pouvoirs de LIY10 sur ton téléphone
+DESCRIPTION:━━ TIKTOK ━━\nVidéo : Les super-pouvoirs de LIY10 sur 
+ ton téléphone (dossier « m08-ecran-accueil » du zip)\n⬇ Télécharge
+ r la vidéo : https://github.com/jordyadopo-boop/liy10-videos/raw/main/vid
+ eos/m08-ecran-accueil.mp4\n\n— Légende TikTok (à copier) —\nLes 8 su
+ per-pouvoirs de LIY10 sur ton téléphone 📱\nLa bulle de Liy10 par-dess
+ us tes autres applis\, l’encoche\, le micro\, une leçon jouée dans la 
+ bulle. Puis les widgets\, les rappels du soir\, les leçons sans Internet 
+ et Siri sur iPhone.\n\nCes pouvoirs arrivent avec l’appli Android\, bien
+ tôt sur Google Play. Siri et l’Île dynamique : avec l’appli iPhone
+ \, en préparation. En attendant\, ajoute LIY10 à ton écran d’accueil 
+ depuis ton navigateur.\n\nLequel tu veux en premier ? 👇\n\n📲 Aussi
+  sur Instagram et Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy1
+ 0learning.com\n\n#android #applimobile #bureautique #apprendresurtiktok #l
+ iy10\n\n\n📄 Tout le programme (PDF) : https://github.com/jordyadopo-boo
+ p/liy10-videos/blob/main/programme/programme-liy10.pdf\n📦 Toutes les vi
+ déos (zip) : https://github.com/jordyadopo-boop/liy10-videos/archive/refs
+ /heads/zip-videos.zip
+CATEGORIES:Astuce
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:Astuce · TikTok : Les super-pouvoirs de LIY10 sur ton téléph
+ one
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:liy10-2026-10-28-1300@liy10learning.com
+DTSTAMP:20261010T044642Z
+DTSTART:20261028T130000Z
+DTEND:20261028T131500Z
+SUMMARY:★ Leçon · TikTok : Parcours Fabric
+DESCRIPTION:★ Priorité du jour : si tu ne publies qu’une fois aujourd
+ ’hui\, publie celle-ci.\n\n━━ TIKTOK ━━\nVidéo : OneLake\, Lake
+ house\, PySpark\, sans avoir peur (dossier « l08-fabric » du zip)\n⬇ T
+ élécharger la vidéo : https://github.com/jordyadopo-boop/liy10-videos/r
+ aw/main/videos/l08-fabric.mp4\n\n— Légende TikTok (à copier) —\nMicr
+ osoft Fabric : OneLake\, Lakehouse\, PySpark\, sans avoir peur 🌊\nLe 
+ parcours Fabric : 12 niveaux\, 24 leçons\, 242 questions.\n\nUn seul la
+ c\, de OneLake jusqu’à ta table. Un raccourci pour lire sans copier :
+  Finance corrige\, ta table liée suit. Puis un notebook PySpark : avg s
+ ort un résultat plausible mais faux\, sans alerte \; sum sort le vrai t
+ otal par ville.\n\nCertifications visées : DP-600 et DP-700.\n\nLe mot 
+ de Fabric qui te fait le plus peur ? 👇\n\n📲 Aussi sur Instagram et
+  Facebook : LIY10 Learning (@liy10.learning)\n🌐 liy10learning.com\n\n
+ #microsoftfabric #pyspark #dataengineering #data #liy10\n\n\n📄 Tout le 
+ programme (PDF) : https://github.com/jordyadopo-boop/liy10-videos/blob/mai
+ n/programme/programme-liy10.pdf\n📦 Toutes les vidéos (zip) : https://g
+ ithub.com/jordyadopo-boop/liy10-videos/archive/refs/heads/zip-videos.zip
+CATEGORIES:Leçon
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:★ Leçon · TikTok : Parcours Fabric
+END:VALARM
+END:VEVENT
+END:VCALENDAR
